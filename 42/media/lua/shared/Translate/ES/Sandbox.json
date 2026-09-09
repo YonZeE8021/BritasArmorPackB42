@@ -1,0 +1,16 @@
+{
+    "Sandbox_BritasArmorPackB42": "Brita Armor - Compatibilidad",
+    "Sandbox_BritasArmorPackB42_EnableNightVision": "Activar visión nocturna integrada",
+    "Sandbox_BritasArmorPackB42_EnableNightVision_tooltip": "Activa o desactiva la visión nocturna, las acciones de las pilas y su consumo en este paquete. La ropa y las pilas instaladas se conservan. Esto no añade compatibilidad con las gafas de Brita a otros sistemas de visión nocturna. Reinicia el juego tras cambiar la opción.",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus": "Añadir bonificación de recarga a los portamuniciones de Brita",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus_tooltip": "Añade la bonificación habitual del 15 por ciento a los portamuniciones de Brita compatibles que el cálculo original no detecta. Desactívala si otro mod gestiona estas bonificaciones. Las comprobaciones de seguridad y las bonificaciones que ya concede el juego siguen activas.",
+    "Sandbox_NVFramework_BatterySystemEnabled": "Batería obligatoria para la visión nocturna",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Esta reparación integrada siempre exige una batería instalada y con carga. Las partidas antiguas que guardaron esta opción desactivada se migran automáticamente.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Multiplicador del consumo de batería",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Controla la rapidez con que se agotan las baterías instaladas. 1,0 dura unas 12 horas de juego; 2,0 consume el doble de rápido; 0,5 consume la mitad.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Multiplicador de aparición de objetos de visión nocturna",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Solo modifica los pesos de aparición procedural de los objetos de ejemplo añadidos por el sistema. 1,0 es el valor normal, 2,0 duplica el peso y 0,0 desactiva esas apariciones.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Usar cono de luz direccional en un jugador",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Si se activa, las partidas de un jugador usan el cono de luz direccional adjunto. Si se desactiva, usan la iluminación alternativa basada en una farola.",
+    "Sandbox_NVFramework": "Sistema de visión nocturna"
+}

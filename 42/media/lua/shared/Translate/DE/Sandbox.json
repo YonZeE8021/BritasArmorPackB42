@@ -1,0 +1,16 @@
+{
+    "Sandbox_BritasArmorPackB42": "Brita Armor - Kompatibilität",
+    "Sandbox_BritasArmorPackB42_EnableNightVision": "Integrierte Nachtsicht aktivieren",
+    "Sandbox_BritasArmorPackB42_EnableNightVision_tooltip": "Schaltet Nachtsicht, Batterieaktionen und Batterieverbrauch dieses Pakets ein oder aus. Kleidung und eingesetzte Batterien bleiben erhalten. Andere Frameworks erhalten dadurch keine Unterstützung für Brita-Nachtsichtgeräte. Nach Änderungen das Spiel neu starten.",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus": "Nachladebonus für Brita-Munitionsträger ergänzen",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus_tooltip": "Ergänzt den üblichen Bonus von 15 Prozent für unterstützte Brita-Munitionsträger, die von der bisherigen Berechnung übergangen werden. Deaktivieren, wenn eine andere Mod Nachladeboni verwaltet. Sicherheitsprüfungen und bereits vom Spiel gewährte Boni bleiben aktiv.",
+    "Sandbox_NVFramework_BatterySystemEnabled": "Batteriepflicht für Nachtsichtgeräte (verbindlich)",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Diese integrierte Reparatur erfordert immer eine eingesetzte, geladene Batterie. In alten Spielständen gespeicherte deaktivierte Einstellungen werden automatisch migriert.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Multiplikator des Batterieverbrauchs",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Bestimmt, wie schnell eingesetzte Nachtsichtbatterien entladen werden. 1,0 entspricht etwa 12 Spielstunden; 2,0 entlädt doppelt so schnell; 0,5 halb so schnell.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Spawn-Multiplikator für Nachtsichtgegenstände",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Skaliert nur die prozeduralen Spawn-Gewichte der vom Framework hinzugefügten Beispiel-Nachtsichtgeräte. 1,0 ist Standard, 2,0 verdoppelt das Gewicht und 0,0 deaktiviert diese Spawns.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Gerichteten Lichtkegel im Einzelspieler verwenden",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Wenn aktiviert, verwendet der Einzelspieler den angefügten gerichteten Lichtkegel. Wenn deaktiviert, wird die Ersatzbeleuchtung auf Basis eines Laternenlichts verwendet.",
+    "Sandbox_NVFramework": "Nachtsicht-Framework"
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Bread_Bag</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Bread_Bag</m_FemaleModel>
+	<m_GUID>11502267-43fd-4fe9-801d-01f2313ae244</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<textureChoices>clothes\Uniform2\Bread_Bag</textureChoices>		
+		
+	
+</clothingItem>

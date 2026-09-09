@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Aviation_Headsets</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Aviation_Headsets</m_FemaleModel>
+	<m_GUID>58f6b4e4-6dd3-43bc-be3b-d3a30c410b6f</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<textureChoices>clothes\Uniform2\Aviation_Headsets</textureChoices>		
+	<textureChoices>clothes\Uniform2\Aviation_Headsets_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Aviation_Headsets_3</textureChoices>		
+	<textureChoices>clothes\Uniform2\Aviation_Headsets_4</textureChoices>		
+	<textureChoices>clothes\Uniform2\Aviation_Headsets_5</textureChoices>		
+	<textureChoices>clothes\Uniform2\Aviation_Headsets_6</textureChoices>		
+	<textureChoices>clothes\Uniform2\Aviation_Headsets_7</textureChoices>			
+		
+	
+</clothingItem>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Hazard_Cross</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Hazard_Cross</m_FemaleModel>
+	<m_GUID>9730bc7e-0730-4db7-bce9-5a1505f273de</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_2</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_3</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_4</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_5</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_6</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_7</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_8</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_9</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_10</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_11</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_12</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_13</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_14</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_15</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_16</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_17</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_18</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_19</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_20</textureChoices>		
+	<textureChoices>clothes\Bag\Bag_Hazard_Cross_21</textureChoices>		
+</clothingItem>

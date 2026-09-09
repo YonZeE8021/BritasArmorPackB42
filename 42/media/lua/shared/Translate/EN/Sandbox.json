@@ -1,0 +1,16 @@
+{
+    "Sandbox_BritasArmorPackB42": "Brita Armor - Compatibility",
+    "Sandbox_BritasArmorPackB42_EnableNightVision": "Enable integrated night vision",
+    "Sandbox_BritasArmorPackB42_EnableNightVision_tooltip": "Turns this pack's night vision, battery actions and battery drain on or off. Clothing and installed batteries are kept. This does not add Brita goggle support to another framework. Restart after changing.",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus": "Add reload bonus for Brita carriers",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus_tooltip": "Adds the standard 15 percent bonus for supported Brita carriers missed by the original calculation. Disable if another mod manages reload bonuses. Safety checks and bonuses already granted by the game remain active.",
+    "Sandbox_NVFramework_BatterySystemEnabled": "Night-vision battery requirement (mandatory)",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "This integrated repair always requires an installed, charged battery. Old saves that stored this option as disabled are migrated automatically.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Battery drain multiplier",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Controls how quickly installed night-vision batteries drain. 1.0 gives about 12 in-game hours; 2.0 drains twice as fast; 0.5 drains half as fast.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Night-vision item spawn multiplier",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Scales procedural spawn weights only for example night-vision items added by the framework. 1.0 is default, 2.0 doubles the weight and 0.0 disables framework-added spawns.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Use directional light cone in singleplayer",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "When enabled, singleplayer uses the attached directional light-cone helper. When disabled, it uses the fallback lamppost-based lighting mode.",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

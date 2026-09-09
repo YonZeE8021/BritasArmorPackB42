@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Chempak_Blauer_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Chempak_Blauer_ON</m_FemaleModel>
+	<m_GUID>5f75d7fa-2534-4a1d-a73b-b79eaccd49a4</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>		
+	<m_Masks>2</m_Masks>
+	<m_Masks>3</m_Masks>
+	<m_Masks>5</m_Masks>
+	<m_Masks>7</m_Masks>
+	<m_Masks>9</m_Masks>
+	<textureChoices>clothes\Uniform\Chempak_Blauer</textureChoices>	
+	<textureChoices>clothes\Uniform\Chempak_Blauer_2</textureChoices>	
+	<textureChoices>clothes\Uniform\Chempak_Blauer_3</textureChoices>	
+	<textureChoices>clothes\Uniform\Chempak_Blauer_4</textureChoices>	
+	<textureChoices>clothes\Uniform\Chempak_Blauer_5</textureChoices>	
+	<textureChoices>clothes\Uniform\Chempak_Blauer_6</textureChoices>	
+	<textureChoices>clothes\Uniform\Chempak_Blauer_7</textureChoices>		
+	
+</clothingItem>

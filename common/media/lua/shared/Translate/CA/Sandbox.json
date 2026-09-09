@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "Activa el sistema de bateries",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Si es desactiva, els objectes de Night Vision Framework ja no requeriran una bateria instal·lada, s'ocultaran les opcions d'inserir i treure bateria i les ulleres actives no drenaran càrrega.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Multiplicador de durada de la bateria",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Escala quant duren les bateries NV instal·lades. 1.0 = per defecte, 10.0 = deu vegades més, 0.5 = la meitat.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Multiplicador d'aparició d'objectes NV",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Escala els pesos d'aparició procedimental de l'objecte d'exemple de visió nocturna del framework. 1.0 = per defecte, 2.0 = el doble de pes, 0.0 = cap aparició afegida pel framework.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Usa con de llum en un jugador",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Si està activat, el mode d'un jugador usa l'ajudant adjunt de con de llum direccional. Si està desactivat, el mode d'un jugador usa en canvi la versió d'il·luminació basada en fanals.",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

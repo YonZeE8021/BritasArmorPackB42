@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Star_Cape_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Star_Cape_ON</m_FemaleModel>
+	<m_GUID>6830ada9-fb77-4640-8a58-11a769726f90</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<textureChoices>clothes\Uniform\Star_Cape</textureChoices>				
+	
+</clothingItem>

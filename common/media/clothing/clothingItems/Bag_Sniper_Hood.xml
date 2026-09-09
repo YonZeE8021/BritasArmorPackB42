@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Sniper_Hood</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Sniper_Hood</m_FemaleModel>
+	<m_GUID>abbe1f42-738d-4ba8-9c92-a7fec28bea12</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>Group04</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Uniform\Viper_Hood</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_2</textureChoices>		
+	<textureChoices>clothes\Uniform\Viper_Hood_3</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_4</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_5</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_6</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_7</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_8</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_9</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_10</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_11</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_12</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_13</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_14</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_15</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_16</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_17</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_18</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_19</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_20</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_21</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_22</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_23</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_24</textureChoices>	
+	<textureChoices>clothes\Uniform\Viper_Hood_25</textureChoices>		
+</clothingItem>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_M65_Jacket</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_M65_Jacket</m_FemaleModel>
+	<m_GUID>c625adf5-37cf-460c-bea2-8b3a5546ea44</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform\M65_Jacket</textureChoices>		
+	<textureChoices>clothes\Uniform\M65_Jacket_2</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_3</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_4</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_5</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_6</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_7</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_8</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_9</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_10</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_11</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_12</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_13</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_14</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_15</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_16</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_17</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_18</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_19</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_20</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_21</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_22</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_23</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_24</textureChoices>	
+	<textureChoices>clothes\Uniform\M65_Jacket_25</textureChoices>			
+	
+</clothingItem>

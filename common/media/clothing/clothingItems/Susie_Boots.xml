@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Tactical_Boots</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Tactical_Boots</m_FemaleModel>
+	<m_GUID>7b8e477a-c765-401c-9ac7-a7ff0fdc7c14</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Susie_Boots</textureChoices>
+	<textureChoices>clothes\Susie_Boots_2</textureChoices>
+	<textureChoices>clothes\Susie_Boots_3</textureChoices>
+	<textureChoices>clothes\Susie_Boots_4</textureChoices>
+	<textureChoices>clothes\Susie_Boots_5</textureChoices>
+	<textureChoices>clothes\Susie_Boots_6</textureChoices>	
+	<textureChoices>clothes\Susie_Boots_7</textureChoices>		
+</clothingItem>

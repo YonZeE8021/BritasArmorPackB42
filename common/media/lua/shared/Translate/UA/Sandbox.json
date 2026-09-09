@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "Увімкнути систему батареї",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Якщо вимкнено, предмети Night Vision Framework більше не вимагатимуть встановленої батареї, параметри вставлення та виймання батареї будуть приховані, а активні окуляри не витрачатимуть заряд.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Множник тривалості батареї",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Регулює, як довго працюють встановлені NV-батареї. 1.0 = типово, 10.0 = у десять разів довше, 0.5 = удвічі менше.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Множник появи NV-предметів",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Регулює процедурні ваги появи прикладного предмета нічного бачення з framework. 1.0 = типово, 2.0 = подвійна вага, 0.0 = без появ, доданих framework.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Використовувати світловий конус в одиночній грі",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Якщо увімкнено, в одиночній грі використовується прикріплений допоміжний спрямований світловий конус. Якщо вимкнено, в одиночній грі замість цього використовується версія освітлення на основі ліхтарного стовпа.",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

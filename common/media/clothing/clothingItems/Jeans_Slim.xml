@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>454c9bb6-7548-4ae2-9b26-893f7da4bd75</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_BaseTextures>clothes\Uniform2\Jeans_Slim</m_BaseTextures>
+	<m_BaseTextures>clothes\Uniform2\Jeans_Slim_2</m_BaseTextures>
+	<m_BaseTextures>clothes\Uniform2\Jeans_Slim_3</m_BaseTextures>
+	<m_BaseTextures>clothes\Uniform2\Jeans_Slim_4</m_BaseTextures>
+	<m_BaseTextures>clothes\Uniform2\Jeans_Slim_5</m_BaseTextures>
+	<m_BaseTextures>clothes\Uniform2\Jeans_Slim_6</m_BaseTextures>
+	<m_BaseTextures>clothes\Uniform2\Jeans_Slim_7</m_BaseTextures>
+	<m_BaseTextures>clothes\Uniform2\Jeans_Slim_8</m_BaseTextures>
+	<m_BaseTextures>clothes\Uniform2\Jeans_Slim_9</m_BaseTextures>
+	<m_BaseTextures>clothes\Uniform2\Jeans_Slim_10</m_BaseTextures>	
+</clothingItem>

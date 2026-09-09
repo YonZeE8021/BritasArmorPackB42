@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_Vader_Mask</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_Vader_Mask</m_FemaleModel>
+	<m_GUID>f7f46188-b718-4786-bc69-9eee50ae55b3</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>		
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<textureChoices>clothes\Uniform\Vader_Mask</textureChoices>				
+</clothingItem>

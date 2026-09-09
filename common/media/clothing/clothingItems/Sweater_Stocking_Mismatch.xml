@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>23c8bbbc-d22b-43c5-a797-e683fdeabed3</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Mismatch</m_BaseTextures>			
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Mismatch_2</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Mismatch_3</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Mismatch_4</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Mismatch_5</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Mismatch_6</m_BaseTextures>				
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Mismatch_7</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Mismatch_8</m_BaseTextures>			
+</clothingItem>

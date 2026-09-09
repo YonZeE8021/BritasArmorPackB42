@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Wolf_Holster</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Wolf_Holster</m_FemaleModel>
+	<m_GUID>abae53f3-84c0-4ca3-9bc7-aeaa689f34b0</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Wolf_Holster</textureChoices>		
+</clothingItem>

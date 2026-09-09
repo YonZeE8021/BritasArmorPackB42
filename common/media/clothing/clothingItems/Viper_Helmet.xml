@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Viper_Helmet</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Viper_Helmet</m_FemaleModel>
+	<m_GUID>457e9fc3-1de4-434c-819e-ea68218db171</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<m_HatCategory>nohair</m_HatCategory>		
+	<textureChoices>clothes\Uniform2\Viper_Helmet</textureChoices>	
+	
+		
+	
+</clothingItem>

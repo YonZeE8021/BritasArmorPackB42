@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Chempak_Tychem_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Chempak_Tychem_ON</m_FemaleModel>
+	<m_GUID>458bd89f-9843-403e-bb95-a09e5c7f9594</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>		
+	<m_Masks>2</m_Masks>
+	<m_Masks>3</m_Masks>
+	<m_Masks>5</m_Masks>
+	<m_Masks>7</m_Masks>
+	<m_Masks>9</m_Masks>
+	<textureChoices>clothes\Uniform\Chempak_Tychem</textureChoices>	
+	<textureChoices>clothes\Uniform\Chempak_Tychem_2</textureChoices>		
+	<textureChoices>clothes\Uniform\Chempak_Tychem_3</textureChoices>		
+	<textureChoices>clothes\Uniform\Chempak_Tychem_4</textureChoices>	
+	<textureChoices>clothes\Uniform\Chempak_Tychem_5</textureChoices>	
+	<textureChoices>clothes\Uniform\Chempak_Tychem_6</textureChoices>	
+	<textureChoices>clothes\Uniform\Chempak_Tychem_7</textureChoices>		
+	
+</clothingItem>

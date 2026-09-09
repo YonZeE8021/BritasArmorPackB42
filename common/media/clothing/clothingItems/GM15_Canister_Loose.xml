@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_GM15_Canister</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_GM15_Canister</m_FemaleModel>
+	<m_GUID>2a3c7b42-f304-4634-9840-ef73208924ab</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<textureChoices>clothes\Uniform2\GM15_Canister</textureChoices>		
+	<textureChoices>clothes\Uniform2\GM15_Canister_2</textureChoices>		
+		
+	
+</clothingItem>

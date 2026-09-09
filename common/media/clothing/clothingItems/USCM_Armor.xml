@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_USCM_Armor</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_USCM_Armor</m_FemaleModel>
+	<m_GUID>530acfc2-f6ff-4080-bfe1-990d924ef132</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform\Marine_Armor</textureChoices>				
+	<textureChoices>clothes\Uniform\Marine_Armor_2</textureChoices>		
+	<textureChoices>clothes\Uniform\Marine_Armor_3</textureChoices>	
+	<textureChoices>clothes\Uniform\Marine_Armor_4</textureChoices>	
+	<textureChoices>clothes\Uniform\Marine_Armor_5</textureChoices>	
+	<textureChoices>clothes\Uniform\Marine_Armor_6</textureChoices>	
+	<textureChoices>clothes\Uniform\Marine_Armor_7</textureChoices>	
+	<textureChoices>clothes\Uniform\Marine_Armor_8</textureChoices>		
+	
+	
+</clothingItem>

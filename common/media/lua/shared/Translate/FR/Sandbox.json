@@ -1,0 +1,16 @@
+{
+    "Sandbox_BritasArmorPackB42": "Brita Armor - Compatibilité",
+    "Sandbox_BritasArmorPackB42_EnableNightVision": "Activer la vision nocturne intégrée",
+    "Sandbox_BritasArmorPackB42_EnableNightVision_tooltip": "Active ou désactive la vision nocturne, les actions liées aux piles et leur consommation pour ce pack. Les vêtements et les piles installées sont conservés. Cela n'ajoute pas la prise en charge des lunettes Brita aux autres systèmes de vision nocturne. Redémarrez le jeu après toute modification.",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus": "Ajouter le bonus de rechargement aux porte-munitions Brita",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus_tooltip": "Ajoute le bonus habituel de 15 pour cent aux porte-munitions Brita compatibles ignorés par le calcul d'origine. Désactivez cette option si un autre mod gère ces bonus. Les protections contre les erreurs et les bonus déjà accordés par le jeu restent actifs.",
+    "Sandbox_NVFramework_BatterySystemEnabled": "Pile obligatoire pour la vision nocturne",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Ce correctif intégré exige toujours une pile installée et chargée. Les anciennes sauvegardes où cette option était désactivée sont automatiquement migrées.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Multiplicateur de consommation de la pile",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Contrôle la vitesse de décharge des piles installées. 1,0 offre environ 12 heures en jeu ; 2,0 les décharge deux fois plus vite ; 0,5 deux fois moins vite.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Multiplicateur d'apparition des objets de vision nocturne",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Modifie uniquement les poids d'apparition procédurale des objets de démonstration ajoutés par le système. 1,0 est la valeur normale, 2,0 double le poids et 0,0 désactive ces apparitions.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Utiliser le cône lumineux directionnel en solo",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Si cette option est activée, le mode solo utilise le cône lumineux directionnel joint. Sinon, il utilise l'éclairage de secours fondé sur un lampadaire.",
+    "Sandbox_NVFramework": "Système de vision nocturne"
+}

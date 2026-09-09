@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Shell_Thigh_Bandolier_B</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Shell_Thigh_Bandolier_B</m_FemaleModel>
+	<m_GUID>a29dd408-5f3a-4412-8cdd-f0d2c37ebfa3</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform2\Shell_Chest_Bandolier</textureChoices>		
+	<textureChoices>clothes\Uniform2\Shell_Chest_Bandolier_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Shell_Chest_Bandolier_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Shell_Chest_Bandolier_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Shell_Chest_Bandolier_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Shell_Chest_Bandolier_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Shell_Chest_Bandolier_7</textureChoices>	
+		
+	
+</clothingItem>

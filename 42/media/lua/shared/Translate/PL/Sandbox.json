@@ -1,0 +1,16 @@
+{
+    "Sandbox_BritasArmorPackB42": "Brita Armor - Zgodność",
+    "Sandbox_BritasArmorPackB42_EnableNightVision": "Włącz wbudowaną noktowizję",
+    "Sandbox_BritasArmorPackB42_EnableNightVision_tooltip": "Włącza lub wyłącza noktowizję, obsługę baterii i ich zużycie w tym pakiecie. Odzież i włożone baterie zostają zachowane. Nie dodaje to obsługi noktowizorów Brita w innych systemach noktowizji. Po zmianie uruchom grę ponownie.",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus": "Uzupełnij premię do przeładowania dla oporządzenia Brita",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus_tooltip": "Dodaje standardową premię 15 procent do obsługiwanego oporządzenia amunicyjnego Brita pomijanego przez oryginalne obliczenia. Wyłącz, jeśli inny mod zarządza tymi premiami. Zabezpieczenia przed błędami i premie już przyznawane przez grę pozostają aktywne.",
+    "Sandbox_NVFramework_BatterySystemEnabled": "Wymagana bateria do noktowizji (obowiązkowe)",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Ta zintegrowana poprawka zawsze wymaga włożonej i naładowanej baterii. Stare zapisy, w których ta opcja była wyłączona, zostaną automatycznie zaktualizowane.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Mnożnik zużycia baterii",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Określa tempo zużywania baterii noktowizora. Wartość 1.0 zapewnia około 12 godzin w grze; 2.0 rozładowuje baterię dwa razy szybciej, a 0.5 — dwa razy wolniej.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Mnożnik pojawiania się noktowizorów",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Skaluje tylko wagi proceduralnego pojawiania się przykładowych noktowizorów dodanych przez system. 1.0 to wartość domyślna, 2.0 podwaja wagę, a 0.0 wyłącza przedmioty dodawane przez system.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Używaj kierunkowego stożka światła w grze jednoosobowej",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Po włączeniu gra jednoosobowa używa dołączonego kierunkowego stożka światła. Po wyłączeniu korzysta z zapasowego trybu oświetlenia opartego na latarni.",
+    "Sandbox_NVFramework": "System noktowizji"
+}

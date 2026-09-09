@@ -1,0 +1,12 @@
+steam_language_code,language_native,title_file,description_file
+english,English,english_title.txt,english_description.txt
+schinese,简体中文,schinese_title.txt,schinese_description.txt
+german,Deutsch,german_title.txt,german_description.txt
+spanish,Español,spanish_title.txt,spanish_description.txt
+french,Français,french_title.txt,french_description.txt
+japanese,日本語,japanese_title.txt,japanese_description.txt
+koreana,한국어,koreana_title.txt,koreana_description.txt
+polish,Polski,polish_title.txt,polish_description.txt
+brazilian,Português-Brasil,brazilian_title.txt,brazilian_description.txt
+russian,Русский,russian_title.txt,russian_description.txt
+turkish,Türkçe,turkish_title.txt,turkish_description.txt

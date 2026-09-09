@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Gorka_Pants</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Gorka_Pants</m_FemaleModel>
+	<m_GUID>23f39adc-a60a-4b75-86ac-aeb2425bcd80</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>14</m_Masks>
+	<m_Masks>15</m_Masks>
+	<m_Masks>7</m_Masks>
+	<m_Masks>9</m_Masks>
+	<textureChoices>clothes\Gorka_Pants_New_Rolled</textureChoices>		
+	<textureChoices>clothes\Gorka_Pants_New_Rolled_2</textureChoices>
+	<textureChoices>clothes\Gorka_Pants_New_Rolled_3</textureChoices>	
+	<textureChoices>clothes\Gorka_Pants_New_Rolled_4</textureChoices>	
+	<textureChoices>clothes\Gorka_Pants_New_Rolled_5</textureChoices>	
+	<textureChoices>clothes\Gorka_Pants_New_Rolled_6</textureChoices>	
+	<textureChoices>clothes\Gorka_Pants_New_Rolled_7</textureChoices>	
+	<textureChoices>clothes\Gorka_Pants_New_Rolled_8</textureChoices>	
+	<textureChoices>clothes\Gorka_Pants_New_Rolled_9</textureChoices>	
+	<textureChoices>clothes\Gorka_Pants_New_Rolled_10</textureChoices>	
+	<textureChoices>clothes\Gorka_Pants_New_Rolled_11</textureChoices>		
+</clothingItem>

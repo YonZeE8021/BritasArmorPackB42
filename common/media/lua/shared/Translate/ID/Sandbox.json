@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "Aktifkan sistem baterai",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Jika dinonaktifkan, item Night Vision Framework tidak lagi memerlukan baterai terpasang, opsi pasang dan lepas baterai akan disembunyikan, dan goggle aktif tidak akan menguras daya.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Pengali daya tahan baterai",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Mengatur berapa lama baterai NV yang terpasang bertahan. 1.0 = default, 10.0 = sepuluh kali lebih lama, 0.5 = setengah durasi.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Pengali spawn item NV",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Mengatur bobot spawn prosedural untuk item night vision contoh dari framework. 1.0 = default, 2.0 = bobot dua kali lipat, 0.0 = tidak ada spawn tambahan dari framework.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Gunakan kerucut cahaya di singleplayer",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Jika diaktifkan, singleplayer menggunakan helper kerucut cahaya terarah yang terpasang. Jika dinonaktifkan, singleplayer akan menggunakan versi pencahayaan berbasis tiang lampu.",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

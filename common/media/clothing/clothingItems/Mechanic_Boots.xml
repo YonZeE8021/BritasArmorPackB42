@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_Mechanic_Boots</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_Mechanic_Boots</m_FemaleModel>
+	<m_GUID>7ca33ae7-2a7b-4d85-8331-1930085e1d00</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>		
+	<textureChoices>clothes\Uniform2\Mechanic_Boots</textureChoices>		
+	<textureChoices>clothes\Uniform2\Mechanic_Boots_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Mechanic_Boots_3</textureChoices>		
+	<textureChoices>clothes\Uniform2\Mechanic_Boots_4</textureChoices>			
+		
+</clothingItem>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_ELA_Bomber_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_ELA_Bomber_ON</m_FemaleModel>
+	<m_GUID>ddbfd2a5-a496-48d0-a905-ac1f498b9b40</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>		
+	<textureChoices>clothes\Uniform2\Adidas_Pad_Jacket</textureChoices>		
+	<textureChoices>clothes\Uniform2\Adidas_Pad_Jacket_2</textureChoices>			
+	<textureChoices>clothes\Uniform2\Adidas_Pad_Jacket_3</textureChoices>			
+	<textureChoices>clothes\Uniform2\Adidas_Pad_Jacket_4</textureChoices>			
+	<textureChoices>clothes\Uniform2\Adidas_Pad_Jacket_5</textureChoices>			
+	<textureChoices>clothes\Uniform2\Adidas_Pad_Jacket_6</textureChoices>			
+	<textureChoices>clothes\Uniform2\Adidas_Pad_Jacket_7</textureChoices>			
+	<textureChoices>clothes\Uniform2\Adidas_Pad_Jacket_8</textureChoices>
+	<textureChoices>clothes\Uniform2\Adidas_Pad_Jacket_9</textureChoices>			
+	<textureChoices>clothes\Uniform2\Adidas_Pad_Jacket_10</textureChoices>							
+	
+</clothingItem>

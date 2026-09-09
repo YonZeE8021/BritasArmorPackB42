@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Comtac4_Headsets</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Comtac4_Headsets</m_FemaleModel>
+	<m_GUID>bfa21814-cb57-41f0-b701-e7e9b8cb8e3c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform2\Comtac4_Headsets</textureChoices>		
+	<textureChoices>clothes\Uniform2\Comtac4_Headsets_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Comtac4_Headsets_3</textureChoices>
+	<textureChoices>clothes\Uniform2\Comtac4_Headsets_4</textureChoices>
+	<textureChoices>clothes\Uniform2\Comtac4_Headsets_5</textureChoices>
+	<textureChoices>clothes\Uniform2\Comtac4_Headsets_6</textureChoices>
+	<textureChoices>clothes\Uniform2\Comtac4_Headsets_7</textureChoices>	
+		
+	
+</clothingItem>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Winter_Jacket_Heavy_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Winter_Jacket_Heavy_ON</m_FemaleModel>
+	<m_GUID>ba18a02c-02f2-431c-87e0-fd2fddae5e9f</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy</textureChoices>	
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_3</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_4</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_5</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_6</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_7</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_8</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_9</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_10</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_11</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_12</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_13</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_14</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_15</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_16</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_17</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_18</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_19</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_20</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_21</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_22</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_23</textureChoices>		
+	<textureChoices>clothes\Uniform2\Winter_Jacket_Camo_Heavy_24</textureChoices>							
+	
+</clothingItem>

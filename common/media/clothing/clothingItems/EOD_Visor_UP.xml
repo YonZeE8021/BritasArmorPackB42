@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_EOD_Visor_UP</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_EOD_Visor_UP</m_FemaleModel>
+	<m_GUID>fcf5d2fb-2db0-4912-96f1-cc133733716b</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>	
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform2\EOD_Helmet</textureChoices>		
+		
+	
+</clothingItem>

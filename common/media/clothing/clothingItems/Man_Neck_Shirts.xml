@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Man_Neck_Shirts</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Man_Neck_Shirts</m_FemaleModel>
+	<m_GUID>04e0d6cc-6e17-4aff-8775-0b7ce175756e</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform2\Man_Neck_Shirts</textureChoices>	
+	<textureChoices>clothes\Uniform2\Man_Neck_Shirts_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Man_Neck_Shirts_3</textureChoices>
+	<textureChoices>clothes\Uniform2\Man_Neck_Shirts_4</textureChoices>
+	<textureChoices>clothes\Uniform2\Man_Neck_Shirts_5</textureChoices>	
+</clothingItem>

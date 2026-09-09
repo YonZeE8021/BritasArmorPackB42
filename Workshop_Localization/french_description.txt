@@ -1,0 +1,92 @@
+[h1][b]Brita's Armor Pack B42.20 - Portage d'armures autonome et correctif multilingue[/b][/h1]
+
+[b]ARMURES ET VÊTEMENTS UNIQUEMENT — AUCUNE ARME[/b]
+[b]Prise en charge complète de 11 langues | Project Zomboid Build 42.20 stable[/b]
+
+Il s'agit d'un [b]portage non officiel et autonome de Brita's Armor Pack compatible avec la Build 42.20[/b]. Il comprend les vêtements, armures, casques, masques, chaussures, sacs à dos, gilets de poitrine, ceintures, équipements portables et appareils de vision nocturne de l'Armor Pack.
+
+[b]Brita's Weapon Pack n'est pas inclus.[/b] Ce mod n'ajoute ni armes à feu Brita, ni munitions ou chargeurs du Weapon Pack, ni système GunFighter, ni accessoires réservés aux armes. Toute arme Brita présente dans votre partie provient d'un autre mod.
+
+[h2]Mise à jour multilingue v1.4.5[/h2]
+[list]
+[*][b]Prise en charge complète de 11 langues :[/b] anglais, chinois simplifié, allemand, espagnol, français, japonais, coréen, polonais, portugais du Brésil, russe et turc.
+[*]Les neuf nouvelles langues disposent de noms d'objets, d'actions de style et de position de port, de messages et options de vision nocturne, d'indications de batterie et de descriptions du bac à sable entièrement localisés.
+[*]L'anglais et le chinois simplifié restent intégralement pris en charge.
+[/list]
+
+[h2]Fonctionnalités principales[/h2]
+[list]
+[*]Adapte les vêtements et équipements de Brita's Armor Pack à la Build 42.20.
+[*]Répare les couches vestimentaires de [b]17 gilets pare-balles, porte-plaques et pièces d'armure lourde[/b], afin de préserver le port des vestes ordinaires lorsque cela convient.
+[*]Répare [b]101 sacs à dos, gilets de poitrine, ceintures, pochettes de cuisse et autres conteneurs portables[/b], avec des emplacements et une capacité de stockage valides.
+[*]Répare [b]7 bandoulières à cartouches[/b] comme conteneurs portables, avec filtrage des cartouches de fusil et [b]bonus de rechargement de 15 %[/b] inspiré du jeu de base.
+[*]Corrige les conflits d'emplacements de cuisse, de poitrine, d'accessoires et d'anciens vêtements.
+[*]Corrige les couches du Field Canvas Raincoat et des vêtements d'extérieur associés.
+[*]Rétablit le fonctionnement des piles des appareils de vision nocturne.
+[*]Assure la compatibilité avec Necroa lorsque cela s'applique.
+[/list]
+
+[b]Remarque sur l'équilibrage :[/b] ce projet vise la compatibilité et la réparation des fonctions. Il ne s'agit [b]pas[/b] d'un rééquilibrage complet des capacités, réductions de poids ou caractéristiques de tous les équipements.
+
+[h2]Système de vision nocturne[/h2]
+
+Les appareils de vision nocturne nécessitent une pile standard installée et chargée. Avec le multiplicateur de consommation par défaut de 1,0, une pile pleine dure environ [b]12 heures en jeu[/b]. Une faible charge provoque des scintillements et l'appareil s'éteint lorsque la pile est vide.
+
+Les fonctions nécessaires du [b]Night Vision Framework[/b] de Beathoven sont directement intégrées au portage.
+
+[b]N'activez pas simultanément le mod NVFramework autonome.[/b]
+
+Auteur original du Night Vision Framework : [b]Beathoven[/b]. Licence et attribution :
+[code]NVFramework_ATTRIBUTION.txt[/code]
+
+[h2]Utilisation de la vision nocturne[/h2]
+[olist]
+[*]Gardez l'appareil non équipé dans l'inventaire principal du personnage.
+[*]Faites un clic droit sur l'appareil et insérez une pile standard chargée.
+[*]Portez la version Active / ON, puis appuyez sur [b]V[/b] pour activer ou désactiver la vision nocturne.
+[*]Retirez l'appareil avant d'enlever ou de remplacer la pile.
+[/olist]
+
+[h2]Installation et compatibilité[/h2]
+[list]
+[*][b]Project Zomboid Build 42.20 stable est requis.[/b]
+[*][b]N'activez pas en même temps[/b] Brita_2, NVFramework autonome, BritasArmorPackB42Fix ou un autre portage incompatible de Brita Armor.
+[*]Après installation ou mise à jour, quittez complètement Project Zomboid puis relancez-le.
+[*]Le serveur multijoueur et tous les clients doivent utiliser la même version.
+[*]Sauvegardez vos parties importantes avant de changer de version du jeu ou de modifier fortement la liste des mods.
+[/list]
+
+[h2]Multijoueur[/h2]
+[code]WorkshopItems=3780298456[/code]
+[code]Mods=BritasArmorPackB42[/code]
+
+[h2]Autorisation du portage et crédits[/h2]
+
+[b]Il s'agit d'un portage non officiel pour la Build 42.20, et non d'une version officielle de BRITA pour la Build 42.[/b]
+
+Le 10 août 2026, BRITA a déclaré publiquement que les portages de mods existants pouvaient être distribués pendant le développement de la nouvelle version officielle pour la Build 42, jusqu'à la sortie de cette dernière. Cet article est publié et maintenu conformément à cette autorisation publique concernant les portages pour la Build 42.
+
+Cette autorisation ne signifie [b]pas[/b] que BRITA a publié, approuvé ou assure directement la maintenance de cet article précis.
+
+[b]Auteur original de l'Armor Pack :[/b] BRITA
+[b]Auteur original du Night Vision Framework :[/b] Beathoven
+
+Les droits sur les illustrations, modèles, textures, sons, noms et autres ressources d'origine restent la propriété de leurs auteurs et concédants respectifs. Ce portage ne revendique aucun droit de propriété sur le contenu original.
+
+Si une version officielle pour la Build 42 paraît, ou si un titulaire de droits demande une modification ou un retrait, ce portage pourra ne plus être maintenu, devenir privé ou être supprimé. Soutenez les auteurs d'origine et leurs futures versions officielles.
+
+[h2]Rapports de bugs[/h2]
+[list]
+[*]Nom exact de l'objet ou Item ID
+[*]Version de Project Zomboid
+[*]Mode solo ou multijoueur
+[*]Liste des mods actifs
+[*]Étapes de reproduction claires
+[*][code]console.txt[/code] ou l'erreur concernée, si disponible
+[/list]
+
+Avant tout signalement, vérifiez que [code]NVFramework[/code] autonome, les anciens correctifs d'Armor Pack et les autres portages incompatibles sont désactivés.
+
+[h2]Informations du mod[/h2]
+[b]Workshop ID :[/b] [code]3780298456[/code]
+[b]Mod ID :[/b] [code]BritasArmorPackB42[/code]

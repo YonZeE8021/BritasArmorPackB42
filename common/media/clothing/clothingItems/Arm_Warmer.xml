@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>dd4a4f0b-6785-4beb-9379-3b26007a38a0</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer_2</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer_3</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer_4</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer_5</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer_6</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer_7</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer_8</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer_9</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer_10</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer_11</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer_12</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Arm_Warmer_13</m_BaseTextures>		
+</clothingItem>

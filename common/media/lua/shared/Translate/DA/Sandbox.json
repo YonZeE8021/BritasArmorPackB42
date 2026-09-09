@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "Aktiver batterisystem",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Hvis det deaktiveres, kræver Night Vision Framework-genstande ikke længere et installeret batteri, valgene for indsæt og fjern batteri skjules, og aktive briller bruger ikke strøm.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Multiplikator for batterilevetid",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Skalerer hvor længe installerede NV-batterier holder. 1.0 = standard, 10.0 = ti gange længere, 0.5 = halv varighed.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Multiplikator for NV-genstandsspjawns",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Skalerer frameworkets proceduremæssige spawn-vægte for eksempelgenstanden med nattesyn. 1.0 = standard, 2.0 = dobbelt vægt, 0.0 = ingen framework-tilføjede spawns.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Brug lyskegle i singleplayer",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Hvis aktiveret, bruger singleplayer den tilknyttede retningsbestemte lyskegle-hjælper. Hvis deaktiveret, bruger singleplayer i stedet den lygtepælsbaserede lysversion.",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

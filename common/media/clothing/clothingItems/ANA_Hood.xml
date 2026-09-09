@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Man_Neck_Hoodie</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Man_Neck_Hoodie</m_FemaleModel>
+	<m_GUID>312aad56-738d-4650-a18f-5a604819f67d</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform\ANA_Hood</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_2</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_3</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_4</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_5</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_6</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_7</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_8</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_9</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_10</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_11</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_12</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_13</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_14</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_15</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_16</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_17</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_18</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_19</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_20</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_21</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_22</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_23</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_24</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_25</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Hood_26</textureChoices>		
+	
+</clothingItem>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_PMK2_Half</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_PMK2_Half</m_FemaleModel>
+	<m_GUID>887a1e57-7296-425e-8530-59190becd9cd</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<textureChoices>clothes\Uniform2\PMK2_Half</textureChoices>							
+		
+	
+</clothingItem>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_IP46</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_IP46</m_FemaleModel>
+	<m_GUID>1f8bdd46-7e60-42a8-b591-4fc012de602c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform2\IP46</textureChoices>	
+	<textureChoices>clothes\Uniform2\IP46_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\IP46_3</textureChoices>		
+		
+	
+</clothingItem>

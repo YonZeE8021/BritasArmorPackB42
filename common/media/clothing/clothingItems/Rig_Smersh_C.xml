@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Rig_Smersh_C</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Rig_Smersh_C</m_FemaleModel>
+	<m_GUID>7a111971-c63a-422e-95d9-809ec1fd43ac</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\Rig_Smersh</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_3</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_4</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_5</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_6</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_7</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_8</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_9</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_10</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_11</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_12</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_13</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_14</textureChoices>		
+	<textureChoices>clothes\Uniform2\Rig_Smersh_15</textureChoices>					
+</clothingItem>

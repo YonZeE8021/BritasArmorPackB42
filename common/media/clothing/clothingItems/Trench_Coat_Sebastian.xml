@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Field_Jacket</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Field_Jacket</m_FemaleModel>
+	<m_GUID>be7a9070-33cd-44d9-acbf-5140646322e1</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>	
+	<textureChoices>clothes\Trench_Coat_Sebastian</textureChoices>				
+</clothingItem>

@@ -1,0 +1,17 @@
+name=Brita's Armor Pack B42.20 | 贝雷塔护甲全修复版
+id=BritasArmorPackB42
+description=[EN] Complete standalone B42.20 port with full support for 11 languages: English, Simplified Chinese, German, Spanish, French, Japanese, Korean, Polish, Brazilian Portuguese, Russian, and Turkish. Includes repaired ballistic-vest layers, wearable containers, thigh and chest rigs, shell bandoliers, Necroa compatibility, and the integrated night-vision framework.
+description=<LINE>
+description=Night vision requires an installed, charged battery. One full battery lasts about 12 in-game hours; low charge causes stronger flicker and empty batteries shut the device down. [b]DO NOT[/b] enable standalone NVFramework, Brita_2, or BritasArmorPackB42Fix with this mod.
+description=<LINE>
+description=[中文] 面向 B42.20 稳定版的完整独立版本，支持英语、简体中文、德语、西班牙语、法语、日语、韩语、波兰语、巴西葡萄牙语、俄语和土耳其语共 11 种语言。包含防弹衣层级、可穿戴容器、腿挂与胸挂槽位、霰弹收纳带、Necroa 兼容和夜视仪电池系统修复。
+description=<LINE>
+description=夜视仪必须安装有电量的电池；满电默认续航约 12 个游戏小时，低电量会闪烁，耗尽后自动关闭。[b]不要[/b]同时启用独立 NVFramework、Brita_2 或 BritasArmorPackB42Fix。
+description=<LINE>
+description=Singleplayer and multiplayer supported. Servers and all clients must use the same version. / 支持单人与联机，服务器和所有客户端必须使用相同版本。
+poster=poster.png
+icon=icon.png
+author=Community B42 Port & Localization | 社区移植与本地化
+modversion=1.4.7
+versionMin=42.20
+incompatible=Brita_2,NVFramework,BritasArmorPackB42Fix

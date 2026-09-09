@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_ELA_Bag</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_ELA_Bag</m_FemaleModel>
+	<m_GUID>4ec494f3-1e2e-4938-9c76-8f4d98648a2c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\ELA_GEAR</textureChoices>		
+	<textureChoices>clothes\Uniform2\ELA_GEAR_2</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_3</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_4</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_5</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_6</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_7</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_8</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_9</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_10</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_11</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_12</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_13</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_14</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_15</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_16</textureChoices>			
+	<textureChoices>clothes\Uniform2\ELA_GEAR_17</textureChoices>				
+</clothingItem>

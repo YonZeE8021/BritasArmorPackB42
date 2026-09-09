@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Wattson_Jacket_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Wattson_Jacket_ON</m_FemaleModel>
+	<m_GUID>f3a0f604-71f1-4e53-907d-9cb6033e2077</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>Group01</m_HatCategory>		
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform2\Wattson_Jacket</textureChoices>			
+	<textureChoices>clothes\Uniform2\Wattson_Jacket_2</textureChoices>			
+		
+	
+</clothingItem>

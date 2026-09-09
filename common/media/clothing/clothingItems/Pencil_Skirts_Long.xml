@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\F_Pencil_Skirts_Long</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Pencil_Skirts_Long</m_FemaleModel>
+	<m_GUID>6ddc2bc7-e162-4202-bc1a-85b5e8422658</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform2\Pencil_Skirts</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pencil_Skirts_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Pencil_Skirts_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pencil_Skirts_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pencil_Skirts_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pencil_Skirts_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pencil_Skirts_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pencil_Skirts_8</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pencil_Skirts_9</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pencil_Skirts_10</textureChoices>		
+</clothingItem>

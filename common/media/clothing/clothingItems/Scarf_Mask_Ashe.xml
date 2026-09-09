@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_Scarf_Mask</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_Scarf_Mask</m_FemaleModel>
+	<m_GUID>931c5588-09e8-4751-b2c7-b8afdc4fcaa9</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Ashe</textureChoices>		
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Ashe_2</textureChoices>			
+</clothingItem>

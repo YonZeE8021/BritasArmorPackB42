@@ -1,0 +1,95 @@
+[h1][b]Brita's Armor Pack B42.20 — Bağımsız Zırh Portu ve Çok Dilli Düzeltme[/b][/h1]
+
+[b]YALNIZCA ZIRH VE KIYAFET — SİLAH İÇERMEZ[/b]
+[b]11 dil | Project Zomboid Build 42.20 kararlı sürümü[/b]
+
+Bu, Brita's Armor Pack'in [b]resmî olmayan, bağımsız çalışan Build 42.20 uyumluluk portudur[/b]. Armor Pack'teki kıyafetleri, zırhları, kaskları, maskeleri, ayakkabıları, sırt çantalarını, göğüs teçhizatlarını, kemerleri, giyilebilir ekipmanları ve gece görüş cihazlarını içerir.
+
+[b]Brita's Weapon Pack bu moda dâhil değildir.[/b] Bu mod Brita ateşli silahlarını, Weapon Pack mühimmatını, silah şarjörlerini, GunFighter silah sistemlerini veya yalnızca silahlara ait eklentileri eklemez ya da dünyada oluşturmaz. Oyunda Brita silahları görüyorsanız bunlar başka bir moddan gelmektedir.
+
+[h2]v1.4.5 Çok Dilli Güncelleme[/h2]
+[list]
+[*][b]11 dil için tam destek:[/b] İngilizce, Basitleştirilmiş Çince, Almanca, İspanyolca, Fransızca, Japonca, Korece, Lehçe, Brezilya Portekizcesi, Rusça ve Türkçe.
+[*]Yeni eklenen dokuz dilde eşya adları, kıyafet biçimi eylemleri, giyme konumu menüleri, gece görüş uyarıları ve seçenekleri, pil mesajları ile sanal alan açıklamaları yerelleştirildi.
+[*]İngilizce ve Basitleştirilmiş Çince tam olarak desteklenmeye devam ediyor.
+[/list]
+
+[h2]Başlıca Özellikler[/h2]
+[list]
+[*]Brita's Armor Pack kıyafet ve ekipmanlarını Build 42.20'ye taşır.
+[*][b]17 balistik yelek, plaka taşıyıcı ve ağır zırh parçasının[/b] B42 kıyafet katmanlarını düzeltir; uygun durumlarda normal ceketlerin birlikte giyilebilmesini sağlar.
+[*][b]101 sırt çantası, göğüs teçhizatı, kemer, uyluk çantası ve diğer giyilebilir konteyneri[/b] düzeltir; geçerli ekipman yuvalarını ve depolama işlevini geri kazandırır.
+[*][b]7 fişek bandoliyerini[/b] giyilebilir konteyner olarak düzeltir; av tüfeği fişeği filtresini ve orijinal oyun tarzı [b]%15 doldurma hızı bonusunu[/b] geri getirir.
+[*]Uyluk, göğüs, aksesuar ve eski kıyafet konumları arasındaki çakışmaları giderir.
+[*]Field Canvas Raincoat ve ilgili dış giyim eşyalarının katmanlarını düzeltir.
+[*]Gece görüş cihazlarının işlevsel pil sistemini geri getirir.
+[*]Uygun olduğu yerlerde Necroa uyumluluğu sağlar.
+[/list]
+
+[b]Denge notu:[/b] bu proje uyumluluğa ve işlevsel onarımlara odaklanır. Her sırt çantasının kapasitesini, ağırlık azaltma değerini veya ekipman özelliğini baştan sona yeniden dengeleyen bir çalışma [b]değildir[/b].
+
+[h2]Gece Görüş Sistemi[/h2]
+
+Gece görüş cihazlarının çalışması için takılı ve dolu bir standart pil gerekir. Varsayılan 1,0x tüketim hızında tam dolu bir pil yaklaşık [b]12 oyun saati[/b] dayanır. Düşük pil seviyesi görüntünün titremesine neden olur; pil bittiğinde cihaz otomatik olarak kapanır.
+
+Beathoven'ın [b]Night Vision Framework[/b] sisteminde bu zırh paketi için gereken işlevler doğrudan porta entegre edilmiştir.
+
+[b]Bağımsız NVFramework modunu aynı anda etkinleştirmeyin.[/b]
+
+Orijinal Night Vision Framework yazarı: [b]Beathoven[/b]. Atıf ve lisans bilgileri şu dosyada bulunur:
+
+[code]NVFramework_ATTRIBUTION.txt[/code]
+
+[h2]Gece Görüş Kontrolleri[/h2]
+[olist]
+[*]Gece görüş cihazını karakterin ana envanterinde tutun ve takılı olmadığından emin olun.
+[*]Cihaza sağ tıklayın ve dolu bir standart pil takın.
+[*]Active / ON durumundaki sürümü giyin ve gece görüşünü açıp kapatmak için [b]V[/b] tuşuna basın.
+[*]Pili çıkarmadan veya değiştirmeden önce cihazı çıkarın.
+[/olist]
+
+[h2]Kurulum ve Uyumluluk[/h2]
+[list]
+[*][b]Project Zomboid Build 42.20 kararlı sürümü gereklidir.[/b]
+[*]Bu modla birlikte Brita_2, bağımsız NVFramework, BritasArmorPackB42Fix veya çakışan başka bir Brita Armor portunu [b]etkinleştirmeyin[/b].
+[*]Modu kurduktan veya güncelledikten sonra Project Zomboid'den tamamen çıkıp oyunu yeniden başlatın.
+[*]Çok oyunculu sunucu ile tüm istemciler aynı sürümü kullanmalıdır.
+[*]Oyun sürümünü değiştirmeden veya mod listesinde büyük değişiklikler yapmadan önce önemli kayıtları yedekleyin.
+[/list]
+
+[h2]Çok Oyunculu[/h2]
+[code]WorkshopItems=3780298456[/code]
+[code]Mods=BritasArmorPackB42[/code]
+
+[h2]Port İzni ve Katkıda Bulunanlar[/h2]
+
+[b]Bu, resmî olmayan bir Build 42.20 portudur; BRITA'nın resmî Build 42 sürümü değildir.[/b]
+
+BRITA, 10 Ağustos 2026 tarihinde, resmî yeni Build 42 sürümü geliştirilirken mevcut modların portlarının resmî sürüm yayımlanana kadar dağıtılabileceğini kamuya açık biçimde belirtti. Bu Atölye öğesi, Build 42 portlarına yönelik söz konusu açık izin kapsamında yayımlanmakta ve sürdürülmektedir.
+
+Bu izin, bu Atölye öğesinin BRITA tarafından resmen yayımlandığı, onaylandığı veya doğrudan sürdürüldüğü anlamına [b]gelmez[/b].
+
+[b]Orijinal Armor Pack yazarı:[/b] BRITA
+[b]Orijinal Night Vision Framework yazarı:[/b] Beathoven
+
+Orijinal görsellerin, modellerin, dokuların, seslerin, adların ve diğer varlıkların tüm hakları ilgili yazar ve lisans sahiplerine aittir. Bu port, orijinal içerik üzerinde mülkiyet iddiasında bulunmaz.
+
+Resmî bir Build 42 sürümü yayımlanırsa veya bir hak sahibi değişiklik ya da kaldırma talebinde bulunursa bu portun bakımı durabilir, sayfası gizliye alınabilir veya kaldırılabilir. Lütfen orijinal üreticileri ve gelecekteki resmî sürümlerini destekleyin.
+
+[h2]Hata Bildirimleri[/h2]
+
+Lütfen şunları ekleyin:
+[list]
+[*]Tam eşya adı veya Item ID
+[*]Project Zomboid sürümü
+[*]Tek oyunculu ya da çok oyunculu mod
+[*]Etkin mod listesi
+[*]Açık hata yeniden oluşturma adımları
+[*]Varsa [code]console.txt[/code] veya ilgili hata kaydı
+[/list]
+
+Bildirim göndermeden önce bağımsız [code]NVFramework[/code], eski Armor Pack düzeltme yamaları ve çakışan diğer Brita Armor portlarının devre dışı olduğunu doğrulayın.
+
+[h2]Mod Bilgileri[/h2]
+[b]Workshop ID:[/b] [code]3780298456[/code]
+[b]Mod ID:[/b] [code]BritasArmorPackB42[/code]

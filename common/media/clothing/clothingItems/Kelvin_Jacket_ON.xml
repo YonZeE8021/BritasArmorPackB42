@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_ELA_Bomber_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_ELA_Bomber_ON</m_FemaleModel>
+	<m_GUID>5f6cb293-d6a3-4205-91b6-66abedf1dd78</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>		
+	<textureChoices>clothes\Uniform2\Kelvin_Jacket</textureChoices>		
+	<textureChoices>clothes\Uniform2\Kelvin_Jacket_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Kelvin_Jacket_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Kelvin_Jacket_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Kelvin_Jacket_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Kelvin_Jacket_6</textureChoices>		
+	
+</clothingItem>

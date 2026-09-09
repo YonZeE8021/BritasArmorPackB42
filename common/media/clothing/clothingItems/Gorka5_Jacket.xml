@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Rose_Jacket</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Rose_Jacket</m_FemaleModel>
+	<m_GUID>7ff50d74-54dd-467f-88b2-1bcfed823260</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\Gorka5_Jacket</textureChoices>		
+	<textureChoices>clothes\Uniform2\Gorka5_Jacket_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Gorka5_Jacket_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Gorka5_Jacket_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Gorka5_Jacket_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Gorka5_Jacket_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Gorka5_Jacket_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\Gorka5_Jacket_8</textureChoices>	
+	<textureChoices>clothes\Uniform2\Gorka5_Jacket_9</textureChoices>	
+	<textureChoices>clothes\Uniform2\Gorka5_Jacket_10</textureChoices>	
+	<textureChoices>clothes\Uniform2\Gorka5_Jacket_11</textureChoices>		
+</clothingItem>

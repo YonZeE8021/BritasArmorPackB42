@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Combat_Pants</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Combat_Pants</m_FemaleModel>
+	<m_GUID>fe22d4b8-8c2f-4f4f-8408-0cfc8db4efe3</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Jeans_James</textureChoices>		
+</clothingItem>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_Scarf_Mask</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_Scarf_Mask</m_FemaleModel>
+	<m_GUID>8a4d1cb9-14c1-4fee-9dc0-c1bc7c78f041</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Hunting</textureChoices>		
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Hunting_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Hunting_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Hunting_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Hunting_5</textureChoices>		
+</clothingItem>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_EOD_Helmet</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_EOD_Helmet</m_FemaleModel>
+	<m_GUID>8edc4721-321d-4562-8717-e4112b55468b</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>Group01</m_HatCategory>	
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Uniform2\EOD_Helmet</textureChoices>	
+	<textureChoices>clothes\Uniform2\EOD_Helmet_2</textureChoices>		
+</clothingItem>

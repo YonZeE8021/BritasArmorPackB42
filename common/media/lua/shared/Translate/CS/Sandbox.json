@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "Povolit bateriový systém",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Pokud je vypnuto, předměty Night Vision Framework už nebudou vyžadovat vloženou baterii, možnosti vložení a vyjmutí baterie se skryjí a aktivní brýle nebudou vybíjet energii.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Násobitel výdrže baterie",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Určuje, jak dlouho vydrží vložené NV baterie. 1.0 = výchozí, 10.0 = desetkrát déle, 0.5 = poloviční výdrž.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Násobitel výskytu NV předmětů",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Určuje procedurální váhy výskytu ukázkového nočního vidění z frameworku. 1.0 = výchozí, 2.0 = dvojnásobná váha, 0.0 = žádné výskyty přidané frameworkem.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Pouzit svetelny kuzel v singleplayeru",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Pokud je zapnuto, singleplayer pouzije pripojeny pomocny smerovy svetelny kuzel. Pokud je vypnuto, singleplayer misto toho pouzije verzi osvetleni zalozenou na lampovem sloupu.",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

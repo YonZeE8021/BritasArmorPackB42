@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_SSO</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_SSO</m_FemaleModel>
+	<m_GUID>13948bef-f0f3-435d-ad1c-041cab2c3200</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Bag\SSO</textureChoices>
+	<textureChoices>clothes\Bag\SSO_2</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_3</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_4</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_5</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_6</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_7</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_8</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_9</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_10</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_11</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_12</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_13</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_14</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_15</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_16</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_17</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_18</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_19</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_20</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_21</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_22</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_23</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_24</textureChoices>	
+	<textureChoices>clothes\Bag\SSO_25</textureChoices>		
+</clothingItem>

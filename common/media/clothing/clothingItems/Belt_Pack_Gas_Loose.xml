@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Belt_Pack_Gas_Loose</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Belt_Pack_Gas_Loose</m_FemaleModel>
+	<m_GUID>4b252c29-db60-4ce6-98e8-0a90348b3525</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_Gas</textureChoices>		
+	<textureChoices>clothes\Uniform2\Belt_Pack_Gas_2</textureChoices>			
+	<textureChoices>clothes\Uniform2\Belt_Pack_Gas_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_Gas_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_Gas_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_Gas_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_Gas_7</textureChoices>		
+		
+	
+</clothingItem>

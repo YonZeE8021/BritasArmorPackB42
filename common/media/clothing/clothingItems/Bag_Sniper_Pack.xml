@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Sniper_Pack</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Sniper_Pack</m_FemaleModel>
+	<m_GUID>0c7e27dc-b6e0-4fb8-896f-f6cdabfea0cf</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Bag\Sniper_Pack</textureChoices>
+	<textureChoices>clothes\Bag\Sniper_Pack_2</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_3</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_4</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_5</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_6</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_7</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_8</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_9</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_10</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_11</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_12</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_13</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_14</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_15</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_16</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_17</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_18</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_19</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_20</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_21</textureChoices>	
+	<textureChoices>clothes\Bag\Sniper_Pack_22</textureChoices>		
+	
+</clothingItem>

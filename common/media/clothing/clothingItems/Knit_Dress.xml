@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\F_Knit_Dress</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Knit_Dress</m_FemaleModel>
+	<m_GUID>a90a4c30-5887-435b-beb9-8263c65feb12</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform2\Knit_Dress</textureChoices>
+	<textureChoices>clothes\Uniform2\Knit_Dress_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_7</textureChoices>
+	<textureChoices>clothes\Uniform2\Knit_Dress_8</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_9</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_10</textureChoices>		
+	<textureChoices>clothes\Uniform2\Knit_Dress_11</textureChoices>		
+	<textureChoices>clothes\Uniform2\Knit_Dress_12</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_13</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_14</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_15</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_16</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_17</textureChoices>	
+	<textureChoices>clothes\Uniform2\Knit_Dress_18</textureChoices>		
+</clothingItem>

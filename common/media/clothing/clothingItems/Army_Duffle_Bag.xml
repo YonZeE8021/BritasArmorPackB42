@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Army_Duffle_Bag</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Army_Duffle_Bag</m_FemaleModel>
+	<m_GUID>ea214b49-d289-453c-9af6-a2c1448cc231</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<textureChoices>clothes\Uniform2\Army_Duffle_Bag</textureChoices>		
+	<textureChoices>clothes\Uniform2\Army_Duffle_Bag_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Army_Duffle_Bag_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Army_Duffle_Bag_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Army_Duffle_Bag_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Army_Duffle_Bag_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Army_Duffle_Bag_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\Army_Duffle_Bag_8</textureChoices>	
+	<textureChoices>clothes\Uniform2\Army_Duffle_Bag_9</textureChoices>	
+	<textureChoices>clothes\Uniform2\Army_Duffle_Bag_10</textureChoices>	
+	<textureChoices>clothes\Uniform2\Army_Duffle_Bag_11</textureChoices>		
+		
+	
+</clothingItem>

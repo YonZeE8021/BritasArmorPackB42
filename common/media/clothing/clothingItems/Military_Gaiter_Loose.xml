@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\F_Military_Gaiter_Loose</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Military_Gaiter_Loose</m_FemaleModel>
+	<m_GUID>2257e198-5ddd-4f14-8efc-eadee72ffd27</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter</textureChoices>			
+	<textureChoices>clothes\Uniform2\Military_Gaiter_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_8</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_9</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_10</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_11</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_12</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_13</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_14</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_15</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_16</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_17</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_18</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Gaiter_19</textureChoices>						
+		
+	
+</clothingItem>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Belt_Pack_Duty</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Belt_Pack_Duty</m_FemaleModel>
+	<m_GUID>92f72c0a-75d8-4374-8e50-bf69bfc48acd</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_Duty</textureChoices>			
+	<textureChoices>clothes\Uniform2\Belt_Pack_Duty_2</textureChoices>
+	<textureChoices>clothes\Uniform2\Belt_Pack_Duty_3</textureChoices>	
+		
+	
+</clothingItem>

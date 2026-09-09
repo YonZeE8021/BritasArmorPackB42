@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_C420_PAPR</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_C420_PAPR</m_FemaleModel>
+	<m_GUID>145afd01-a5ab-4dde-97a0-0a3e78a13bed</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform2\S10_Gasmask</textureChoices>		
+		
+	
+</clothingItem>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Bandana_Mask_Half</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Bandana_Mask_Half</m_FemaleModel>
+	<m_GUID>453368f6-2d0f-4322-853b-9b83c02e4a60</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_2</textureChoices>			
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_3</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_4</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_5</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_6</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_7</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_8</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_9</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_10</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_11</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_12</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_13</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_14</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_15</textureChoices>	
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_16</textureChoices>	
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_17</textureChoices>	
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_18</textureChoices>	
+	<textureChoices>clothes\Mask\Bandana_Mask_Camo_19</textureChoices>			
+</clothingItem>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Wolf_Plate_Carrier_B</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Wolf_Plate_Carrier_B</m_FemaleModel>
+	<m_GUID>6b8ef86e-c070-41ea-99cb-e97f15e8abf2</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Wolf_Plate_Carrier</textureChoices>	
+	<textureChoices>clothes\Wolf_Plate_Carrier_2</textureChoices>		
+	<textureChoices>clothes\Wolf_Plate_Carrier_3</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_4</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_5</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_6</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_7</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_8</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_9</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_10</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_11</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_12</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_13</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_14</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_15</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_16</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_17</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_18</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_19</textureChoices>
+	<textureChoices>clothes\Wolf_Plate_Carrier_20</textureChoices>	
+</clothingItem>

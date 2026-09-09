@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\F_BR_Skirts</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_BR_Skirts</m_FemaleModel>
+	<m_GUID>0458fdaa-7371-4826-a445-cf4e161b08e9</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform2\BR_Skirts</textureChoices>	
+	<textureChoices>clothes\Uniform2\BR_Skirts_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\BR_Skirts_3</textureChoices>
+	<textureChoices>clothes\Uniform2\BR_Skirts_4</textureChoices>
+	<textureChoices>clothes\Uniform2\BR_Skirts_5</textureChoices>
+	<textureChoices>clothes\Uniform2\BR_Skirts_6</textureChoices>
+	<textureChoices>clothes\Uniform2\BR_Skirts_7</textureChoices>
+	<textureChoices>clothes\Uniform2\BR_Skirts_8</textureChoices>	
+</clothingItem>

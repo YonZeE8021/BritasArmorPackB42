@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "Elemrendszer engedelyezese",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Ha ki van kapcsolva, a Night Vision Framework targyakhoz nem kell behelyezett elem, az elem behelyezese es eltavolitasa opciok elrejtodnek, es az aktiv szemuvegek nem fogyasztanak toltest.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Elem elettartam szorzo",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Szabalyozza, meddig tartanak a behelyezett NV elemek. 1.0 = alapertelmezett, 10.0 = tizszer tovabb, 0.5 = fele olyan sokaig.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "NV targy spawn szorzo",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Szabalyozza a framework pelda ejjellato targyanak proceduralt spawn-sulyait. 1.0 = alapertelmezett, 2.0 = ketszeres suly, 0.0 = nincs framework altal hozzaadott spawn.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Fenykup hasznalata egyjatekos modban",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Ha engedelyezve van, az egyjatekos mod a csatolt iranyitott fenykup-segedet hasznalja. Ha le van tiltva, az egyjatekos mod ehelyett a lampaoszlop-alapu vilagitas valtozatot hasznalja.",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

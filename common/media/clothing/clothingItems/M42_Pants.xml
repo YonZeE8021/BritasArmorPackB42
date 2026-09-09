@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_Anorak_Pants</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_Anorak_Pants</m_FemaleModel>
+	<m_GUID>a8a7e07d-5e66-44f3-8598-3f8f626e5afb</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>		
+	<m_Masks>14</m_Masks>
+	<m_Masks>15</m_Masks>
+	<m_Masks>7</m_Masks>
+	<m_Masks>9</m_Masks>			
+	<m_MasksFolder>media/textures/Clothes/Custom_Mask/Anorak_Pants_Mask</m_MasksFolder>			
+	<textureChoices>clothes\Uniform\M42_Pants</textureChoices>			
+	<textureChoices>clothes\Uniform\M42_Pants_2</textureChoices>		
+	<textureChoices>clothes\Uniform\M42_Pants_3</textureChoices>	
+</clothingItem>

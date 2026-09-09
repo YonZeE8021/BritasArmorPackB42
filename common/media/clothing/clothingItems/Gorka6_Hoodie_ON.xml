@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_BARS_Hoodie_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_BARS_Hoodie_ON</m_FemaleModel>
+	<m_GUID>eb9aefb1-50f6-4198-81ee-2d5370e4aef2</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>Group01</m_HatCategory>		
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie</textureChoices>
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_2</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_3</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_4</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_5</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_6</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_7</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_8</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_9</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_10</textureChoices>		
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_11</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_12</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_13</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_14</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_15</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_16</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_17</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_18</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_19</textureChoices>		
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_20</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_21</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_22</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_23</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_24</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_25</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_26</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_27</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_28</textureChoices>		
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_29</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_30</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_31</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_32</textureChoices>	
+	<textureChoices>clothes\Uniform\Gorka6_Hoodie_33</textureChoices>			
+	
+</clothingItem>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_D3CR</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_D3CR</m_FemaleModel>
+	<m_GUID>5e1ffad6-024b-4135-8928-e12847c3d510</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<textureChoices>clothes\Uniform2\D3CR</textureChoices>		
+	<textureChoices>clothes\Uniform2\D3CR_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\D3CR_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\D3CR_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\D3CR_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\D3CR_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\D3CR_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\D3CR_8</textureChoices>	
+		
+	
+</clothingItem>

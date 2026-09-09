@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Antibelok</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Antibelok_ON</m_FemaleModel>
+	<m_GUID>f9032fea-8d4a-4e25-b89d-85fda58a1517</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>		
+	<textureChoices>clothes\Uniform\Antibelok</textureChoices>	
+	<textureChoices>clothes\Uniform\Antibelok_2</textureChoices>		
+	<textureChoices>clothes\Uniform\Antibelok_3</textureChoices>	
+	<textureChoices>clothes\Uniform\Antibelok_4</textureChoices>	
+	<textureChoices>clothes\Uniform\Antibelok_5</textureChoices>		
+	
+</clothingItem>

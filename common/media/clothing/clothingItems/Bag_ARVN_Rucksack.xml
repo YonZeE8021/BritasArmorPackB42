@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_ARVN_Rucksack</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_ARVN_Rucksack</m_FemaleModel>
+	<m_GUID>315573a2-9b44-4b1a-95d8-b159a84ffe1f</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack</textureChoices>
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack_2</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack_3</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack_4</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack_5</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack_6</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack_7</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack_8</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack_9</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack_10</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack_11</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack_12</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_ARVN_Rucksack_13</textureChoices>		
+</clothingItem>

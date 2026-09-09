@@ -1,0 +1,26 @@
+module NVFramework
+{
+    imports
+    {
+        Base
+    }
+
+    sound nv-turnon
+    {
+        category = Item,
+        clip { file = media/sound/nv-turnon2.wav, distanceMax = 3,volume = 1, }
+    }
+
+    sound nv-turnoff
+    {
+        category = Item,
+        clip { file = media/sound/nv-turnoff.ogg, distanceMax = 2, volume = 1,}
+    }
+
+    sound nv-base
+    {
+        category = Item,
+        loop = true,
+        clip { file = media/sound/nv-base.ogg, distanceMax = 2, volume = 0.3, }
+    }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_JUGG_Armor</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_JUGG_Armor</m_FemaleModel>
+	<m_GUID>0204e592-f78f-44a0-894a-451667ad3954</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\JUGG_Armor</textureChoices>		
+</clothingItem>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Hair_Heather_2</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Hair_Heather_2</m_FemaleModel>
+	<m_GUID>a26b57fb-1e15-4f97-805e-21a32dd19f5f</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>			
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform\Hair_Heather_2</textureChoices>		
+	
+</clothingItem>

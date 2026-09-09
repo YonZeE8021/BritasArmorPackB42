@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "تمكين نظام البطارية",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "إذا تم تعطيله، فلن تتطلب عناصر Night Vision Framework بطارية مركبة، وسيتم إخفاء خيارات إدخال وإزالة البطارية، ولن تستنزف النظارات النشطة الشحنة.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "معامل عمر البطارية",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "يضبط مدة عمل بطاريات الرؤية الليلية المركبة. 1.0 = افتراضي، 10.0 = أطول بعشر مرات، 0.5 = نصف المدة.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "معامل ظهور عناصر الرؤية الليلية",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "يضبط أوزان الظهور الإجرائية لعنصر الرؤية الليلية التجريبي الخاص بالإطار. 1.0 = افتراضي، 2.0 = ضعف الوزن، 0.0 = بدون ظهورات يضيفها الإطار.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "استخدام مخروط الضوء في اللعب الفردي",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "عند التفعيل، يستخدم اللعب الفردي مساعد مخروط الضوء الاتجاهي المرفق. عند التعطيل، يستخدم اللعب الفردي بدلا من ذلك نسخة الإضاءة المعتمدة على عمود الإنارة.",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

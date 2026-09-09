@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Suit_Fisher_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Suit_Fisher_ON</m_FemaleModel>
+	<m_GUID>476f308f-db94-45bf-8c9e-455e10a2b0f6</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Custom_Mask/Suit_Fisher_Mask</m_MasksFolder>			
+	<textureChoices>clothes\Uniform\Suit_Fisher</textureChoices>		
+	<textureChoices>clothes\Uniform\Suit_Fisher_2</textureChoices>		
+	<textureChoices>clothes\Uniform\Suit_Fisher_3</textureChoices>	
+	<textureChoices>clothes\Uniform\Suit_Fisher_4</textureChoices>	
+</clothingItem>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Hat_Tactical_Cap_Back</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Hat_Tactical_Cap_Back</m_FemaleModel>
+	<m_GUID>5f5ebcfb-984b-4383-84a4-5989378fef1f</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>Group01</m_HatCategory>		
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform2\ELA_Cap</textureChoices>
+	<textureChoices>clothes\Uniform2\ELA_Cap_2</textureChoices>
+	<textureChoices>clothes\Uniform2\ELA_Cap_3</textureChoices>	
+</clothingItem>

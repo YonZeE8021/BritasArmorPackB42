@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Bandit_Jacket_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Bandit_Jacket_ON</m_FemaleModel>
+	<m_GUID>937ae7b6-8c35-47e2-93b3-6f9b366b2cb7</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform2\Bandit_Jacket</textureChoices>	
+	<textureChoices>clothes\Uniform2\Bandit_Jacket_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\Bandit_Jacket_3</textureChoices>		
+</clothingItem>

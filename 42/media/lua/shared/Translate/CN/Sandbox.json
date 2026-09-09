@@ -1,0 +1,16 @@
+{
+    "Sandbox_BritasArmorPackB42": "贝雷塔护甲 - 兼容设置",
+    "Sandbox_BritasArmorPackB42_EnableNightVision": "启用内置夜视功能",
+    "Sandbox_BritasArmorPackB42_EnableNightVision_tooltip": "开启或关闭本护甲包的夜视效果、电池操作和耗电。服装与已安装电池会保留。关闭不会自动让其他框架支持本护甲包的夜视仪。修改后请重启游戏。",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus": "为贝雷塔弹药携具补充装填加成",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus_tooltip": "仅为原有计算未识别的指定贝雷塔弹药携具补充百分之十五的装填速度加成。其他模组管理装填加成时可关闭。安全检查与游戏本身已给予的加成仍然保留。",
+    "Sandbox_NVFramework_BatterySystemEnabled": "夜视仪电池要求（强制启用）",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "本整合修复版始终要求安装有电量的电池；旧存档中保存的关闭状态会在加载时自动迁移。",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "电池消耗倍率",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "调整夜视仪电池的消耗速度。1.0 约为 12 个游戏小时，2.0 为双倍消耗，0.5 为一半消耗。",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "夜视物品生成倍率",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "仅调整框架示例夜视物品的程序化生成权重。1.0 为默认，2.0 为双倍权重，0.0 为不生成框架示例物品。",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "单人模式使用定向光锥",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "启用后单人模式使用附加定向光锥；关闭后使用基于路灯的后备照明模式。",
+    "Sandbox_NVFramework": "夜视框架 / Night Vision Framework"
+}

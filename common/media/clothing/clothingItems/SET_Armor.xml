@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_SET_Armor</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_SET_Armor</m_FemaleModel>
+	<m_GUID>56913eee-0afc-4a7d-be3b-01a971fcbf60</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform\SET_Armor</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Armor_2</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_3</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_4</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_5</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_6</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_7</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_8</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_9</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_10</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_11</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_12</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_13</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_14</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_15</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_16</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_17</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_18</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_19</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_20</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_21</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_22</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_23</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_24</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_25</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Armor_26</textureChoices>			
+	
+	
+</clothingItem>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Jacket_Polizei_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Jacket_Polizei_ON</m_FemaleModel>
+	<m_GUID>03824b77-61bd-4704-8789-81fcb12cbad2</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform\Jacket_Polizei</textureChoices>		
+	<textureChoices>clothes\Uniform\Jacket_Polizei_2</textureChoices>	
+	<textureChoices>clothes\Uniform\Jacket_Polizei_3</textureChoices>
+	<textureChoices>clothes\Uniform\Jacket_Polizei_4</textureChoices>
+	<textureChoices>clothes\Uniform\Jacket_Polizei_5</textureChoices>
+	<textureChoices>clothes\Uniform\Jacket_Polizei_6</textureChoices>
+	<textureChoices>clothes\Uniform\Jacket_Polizei_7</textureChoices>
+	<textureChoices>clothes\Uniform\Jacket_Polizei_8</textureChoices>
+	<textureChoices>clothes\Uniform\Jacket_Polizei_9</textureChoices>
+	<textureChoices>clothes\Uniform\Jacket_Polizei_10</textureChoices>
+	<textureChoices>clothes\Uniform\Jacket_Polizei_11</textureChoices>
+	
+</clothingItem>

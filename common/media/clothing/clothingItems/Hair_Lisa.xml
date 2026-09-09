@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Hair_Lisa</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Hair_Lisa</m_FemaleModel>
+	<m_GUID>4dc6634d-f370-449a-aa79-9e24c1bea9f3</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform\Hair_Lisa</textureChoices>		
+	
+</clothingItem>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Radio_Pack</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Radio_Pack</m_FemaleModel>
+	<m_GUID>1f6d8433-4cbb-4824-af38-2d5818089285</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Bag\PRC77</textureChoices>
+	<textureChoices>clothes\Bag\PRC77_2</textureChoices>
+	<textureChoices>clothes\Bag\PRC77_3</textureChoices>
+	<textureChoices>clothes\Bag\PRC77_4</textureChoices>	
+	<textureChoices>clothes\Bag\PRC77_5</textureChoices>		
+	<textureChoices>clothes\Bag\PRC77_6</textureChoices>	
+	<textureChoices>clothes\Bag\PRC77_7</textureChoices>	
+	<textureChoices>clothes\Bag\PRC77_8</textureChoices>	
+	<textureChoices>clothes\Bag\PRC77_9</textureChoices>	
+	<textureChoices>clothes\Bag\PRC77_10</textureChoices>	
+	<textureChoices>clothes\Bag\PRC77_11</textureChoices>	
+	<textureChoices>clothes\Bag\PRC77_12</textureChoices>	
+	<textureChoices>clothes\Bag\PRC77_13</textureChoices>		
+	
+</clothingItem>

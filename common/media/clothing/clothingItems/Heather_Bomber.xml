@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\F_Heather_Bomber</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Heather_Bomber</m_FemaleModel>
+	<m_GUID>35c3bb9e-8336-4a0d-9cc6-66bbe5aecba2</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform\Heather_Bomber</textureChoices>	
+	
+</clothingItem>

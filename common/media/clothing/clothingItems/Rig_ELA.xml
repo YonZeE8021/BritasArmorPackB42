@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Rig_ELA</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Rig_ELA</m_FemaleModel>
+	<m_GUID>96a490be-e108-473f-9aa8-700011a477c8</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\ELA_GEAR</textureChoices>			
+</clothingItem>

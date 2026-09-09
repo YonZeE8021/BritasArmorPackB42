@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_SET_Goggles</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_SET_Goggles</m_FemaleModel>
+	<m_GUID>793d9739-4c01-4058-8f00-822469c497f2</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform\SET_Headset</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_2</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_3</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_4</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_5</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_6</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_7</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_8</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_9</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_10</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_11</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_12</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_13</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_14</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_15</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_16</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_17</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_18</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Headset_19</textureChoices>	
+	
+</clothingItem>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Fur_Jacket_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Fur_Jacket_ON</m_FemaleModel>
+	<m_GUID>db2b395c-88cb-44ee-90a1-e8692ea3088f</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>Group01</m_HatCategory>		
+	<textureChoices>clothes\Uniform2\Fur_Jacket</textureChoices>	
+	<textureChoices>clothes\Uniform2\Fur_Jacket_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Fur_Jacket_3</textureChoices>
+	<textureChoices>clothes\Uniform2\Fur_Jacket_4</textureChoices>
+	<textureChoices>clothes\Uniform2\Fur_Jacket_5</textureChoices>
+	<textureChoices>clothes\Uniform2\Fur_Jacket_6</textureChoices>	
+		
+	
+</clothingItem>

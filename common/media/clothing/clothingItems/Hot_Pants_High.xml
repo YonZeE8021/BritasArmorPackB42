@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>7cd37b65-c3e8-45af-8fcd-5afdf6719eae</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_BaseTextures>clothes\Uniform2\Hot_Pants_High</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Hot_Pants_High_2</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Hot_Pants_High_3</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Hot_Pants_High_4</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Hot_Pants_High_5</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Hot_Pants_High_6</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Hot_Pants_High_7</m_BaseTextures>		
+</clothingItem>

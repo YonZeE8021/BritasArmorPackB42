@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Bottle_Bag</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Bottle_Bag</m_FemaleModel>
+	<m_GUID>20458201-c471-4a8c-bbd0-6c2a9d64d89a</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform\Bottle_Bag</textureChoices>	
+	<textureChoices>clothes\Uniform\Bottle_Bag_2</textureChoices>		
+	<textureChoices>clothes\Uniform\Bottle_Bag_3</textureChoices>	
+	<textureChoices>clothes\Uniform\Bottle_Bag_4</textureChoices>	
+	<textureChoices>clothes\Uniform\Bottle_Bag_5</textureChoices>	
+	<textureChoices>clothes\Uniform\Bottle_Bag_6</textureChoices>	
+	<textureChoices>clothes\Uniform\Bottle_Bag_7</textureChoices>	
+	<textureChoices>clothes\Uniform\Bottle_Bag_8</textureChoices>		
+	<textureChoices>clothes\Uniform\Bottle_Bag_9</textureChoices>	
+	<textureChoices>clothes\Uniform\Bottle_Bag_10</textureChoices>	
+	<textureChoices>clothes\Uniform\Bottle_Bag_11</textureChoices>	
+	<textureChoices>clothes\Uniform\Bottle_Bag_12</textureChoices>	
+	<textureChoices>clothes\Uniform\Bottle_Bag_13</textureChoices>		
+</clothingItem>

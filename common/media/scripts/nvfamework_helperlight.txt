@@ -1,0 +1,22 @@
+module Base
+{
+    item NVFramework_AttachedLight
+    {
+        DisplayCategory = LightSource,
+        ItemType = base:drainable,
+        Icon = LightBulb,
+        Weight = 0.1,
+        TorchCone = TRUE,
+        LightDistance = 17,
+        LightStrength = 0.75,
+        TorchDot = 0.55,
+        DisappearOnUse = FALSE,        
+        /*UseDelta = 0.0001,*/
+        ActivatedItem = TRUE,
+        cantBeConsolided = TRUE,
+        /*StaticModel = LightBulb,*/
+        AttachmentType = NVFrameworkLight,
+        /*WorldStaticModel = LightBulb,*/
+        Tags = Flashlight;FlashlightPillar,
+    }
+}

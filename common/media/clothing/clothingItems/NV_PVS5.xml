@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_NV_PVS5</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_NV_PVS5</m_FemaleModel>
+	<m_GUID>08e779c6-726d-4001-b7e2-139f1f65946c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\hat\NV_PVS5</textureChoices>
+</clothingItem>

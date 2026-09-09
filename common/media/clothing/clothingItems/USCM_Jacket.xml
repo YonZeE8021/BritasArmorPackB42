@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Man_Field_Shirts</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Man_Field_Shirts</m_FemaleModel>
+	<m_GUID>2af76ce5-9ae5-4148-b778-d602a05f5aff</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform\USCM_Jacket</textureChoices>	
+	<textureChoices>clothes\Uniform\USCM_Jacket_2</textureChoices>	
+	<textureChoices>clothes\Uniform\USCM_Jacket_3</textureChoices>	
+	<textureChoices>clothes\Uniform\USCM_Jacket_4</textureChoices>	
+	<textureChoices>clothes\Uniform\USCM_Jacket_5</textureChoices>	
+	<textureChoices>clothes\Uniform\USCM_Jacket_6</textureChoices>	
+	<textureChoices>clothes\Uniform\USCM_Jacket_7</textureChoices>	
+	<textureChoices>clothes\Uniform\USCM_Jacket_8</textureChoices>		
+	
+</clothingItem>

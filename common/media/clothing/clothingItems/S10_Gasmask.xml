@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_S10_Gasmask</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_S10_Gasmask</m_FemaleModel>
+	<m_GUID>c48d438f-3f6a-4747-b239-61b5a399a6df</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<textureChoices>clothes\Uniform2\S10_Gasmask</textureChoices>							
+		
+	
+</clothingItem>

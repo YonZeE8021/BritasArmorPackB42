@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>147de604-49b0-478f-8ef5-e700320d4773</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_2</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_3</m_BaseTextures>			
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_4</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_5</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_6</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_7</m_BaseTextures>			
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_8</m_BaseTextures>			
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_9</m_BaseTextures>			
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_10</m_BaseTextures>			
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_11</m_BaseTextures>			
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_12</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_13</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_14</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_15</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_16</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_17</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lined_Tights_18</m_BaseTextures>		
+</clothingItem>

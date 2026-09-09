@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_Scarf_Mask_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_Scarf_Mask_ON</m_FemaleModel>
+	<m_GUID>eeef0a92-7d16-4303-9654-d638d774bdee</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>nohair</m_HatCategory>	
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_8</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_9</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_10</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_11</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_12</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_13</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_14</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_15</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_16</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_17</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_18</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_19</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_20</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_21</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_22</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Camo_23</textureChoices>		
+</clothingItem>

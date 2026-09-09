@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_1916_Helmet_Visor_2</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_1916_Helmet_Visor_2</m_FemaleModel>
+	<m_GUID>f87b2fec-780f-4221-9d40-a2da6ec202d7</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform2\1916_Helmet</textureChoices>	
+
+		
+	
+</clothingItem>

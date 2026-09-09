@@ -1,0 +1,16 @@
+{
+    "Sandbox_BritasArmorPackB42": "Brita Armor - Compatibilidade",
+    "Sandbox_BritasArmorPackB42_EnableNightVision": "Ativar visão noturna integrada",
+    "Sandbox_BritasArmorPackB42_EnableNightVision_tooltip": "Ativa ou desativa a visão noturna, as ações de bateria e o consumo de carga deste pacote. As roupas e as baterias instaladas são mantidas. Isso não adiciona suporte aos óculos Brita em outros sistemas de visão noturna. Reinicie o jogo após alterar.",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus": "Adicionar bônus de recarga aos porta-munições Brita",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus_tooltip": "Adiciona o bônus padrão de 15 por cento aos porta-munições Brita compatíveis ignorados pelo cálculo original. Desative se outro mod gerenciar esses bônus. As verificações de segurança e os bônus já concedidos pelo jogo continuam ativos.",
+    "Sandbox_NVFramework_BatterySystemEnabled": "Bateria obrigatória para visão noturna",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Esta correção integrada sempre exige uma bateria instalada e com carga. Jogos salvos antigos em que esta opção estava desativada serão migrados automaticamente.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Multiplicador de consumo da bateria",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Controla a velocidade de consumo das baterias instaladas nos visores noturnos. 1.0 dura cerca de 12 horas no jogo; 2.0 consome duas vezes mais rápido; 0.5 consome pela metade.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Multiplicador de surgimento de visores noturnos",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Altera apenas os pesos de surgimento procedural dos visores noturnos de exemplo adicionados pelo sistema. 1.0 é o padrão, 2.0 dobra o peso e 0.0 desativa os itens adicionados pelo sistema.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Usar cone de luz direcional no modo solo",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Quando ativado, o modo solo usa o cone de luz direcional acoplado. Quando desativado, usa o modo alternativo de iluminação baseado em poste de luz.",
+    "Sandbox_NVFramework": "Sistema de visão noturna"
+}

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Balaclava_Mask_5</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Balaclava_Mask_5</m_FemaleModel>
+	<m_GUID>92881c2d-be39-424d-9e1c-146bb6ac971c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>	
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_2</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_3</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_4</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_5</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_6</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_7</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_8</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_9</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_10</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_11</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_12</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_13</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_14</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_15</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_16</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_17</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_18</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_19</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_20</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_21</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_22</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_23</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_24</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_25</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_26</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_27</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_28</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_29</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_30</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_31</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_32</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_33</textureChoices>				
+	<textureChoices>clothes\Uniform2\Balaclava_Mask_1_34</textureChoices>										
+		
+	
+</clothingItem>

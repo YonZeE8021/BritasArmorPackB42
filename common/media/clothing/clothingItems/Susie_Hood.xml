@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Susie_Hood</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Susie_Hood</m_FemaleModel>
+	<m_GUID>2d9d8216-2244-474f-afaa-3210859e126f</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Susie_Hood</textureChoices>
+	<textureChoices>clothes\Susie_Hood_2</textureChoices>
+	<textureChoices>clothes\Susie_Hood_3</textureChoices>
+	<textureChoices>clothes\Susie_Hood_4</textureChoices>
+	<textureChoices>clothes\Susie_Hood_5</textureChoices>
+	<textureChoices>clothes\Susie_Hood_6</textureChoices>	
+	
+</clothingItem>

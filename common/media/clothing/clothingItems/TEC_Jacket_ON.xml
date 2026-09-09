@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Rose_Jacket_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Rose_Jacket_ON</m_FemaleModel>
+	<m_GUID>62269f84-676e-4b95-a176-bc87fe6cf62b</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\TEC_Jacket</textureChoices>	
+	<textureChoices>clothes\Uniform2\TEC_Jacket_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\TEC_Jacket_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\TEC_Jacket_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\TEC_Jacket_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\TEC_Jacket_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\TEC_Jacket_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\TEC_Jacket_8</textureChoices>	
+	<textureChoices>clothes\Uniform2\TEC_Jacket_9</textureChoices>	
+	<textureChoices>clothes\Uniform2\TEC_Jacket_10</textureChoices>	
+	<textureChoices>clothes\Uniform2\TEC_Jacket_11</textureChoices>	
+	<textureChoices>clothes\Uniform2\TEC_Jacket_12</textureChoices>	
+	<textureChoices>clothes\Uniform2\TEC_Jacket_13</textureChoices>		
+</clothingItem>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_SET_ARM_PAD_Loose</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_SET_ARM_PAD_Loose</m_FemaleModel>
+	<m_GUID>d9ef816d-b354-4a61-9778-784c7a0cfbb4</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform\SET_Pad</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Pad_2</textureChoices>		
+	<textureChoices>clothes\Uniform\SET_Pad_3</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Pad_4</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Pad_5</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Pad_6</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Pad_7</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Pad_8</textureChoices>	
+	<textureChoices>clothes\Uniform\SET_Pad_9</textureChoices>	
+	
+</clothingItem>

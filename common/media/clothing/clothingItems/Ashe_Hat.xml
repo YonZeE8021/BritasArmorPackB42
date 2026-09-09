@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Ashe_Hat</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Ashe_Hat</m_FemaleModel>
+	<m_GUID>69595f76-d847-4852-895f-684998a8343f</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>Group01</m_HatCategory>	
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<textureChoices>clothes\Uniform2\Ashe_Hat</textureChoices>		
+	<textureChoices>clothes\Uniform2\Ashe_Hat_2</textureChoices>	
+		
+	
+</clothingItem>

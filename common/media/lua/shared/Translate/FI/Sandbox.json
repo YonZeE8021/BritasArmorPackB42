@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "Ota akkujarjestelma kayttoon",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Jos poistetaan kaytosta, Night Vision Framework -esineet eivat enaa vaadi asennettua paristoa, pariston lisays- ja poistovalinnat piilotetaan eivatka aktiiviset lasit kuluta varausta.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Pariston keston kerroin",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Skaalaa kuinka kauan asennetut NV-paristot kestavat. 1.0 = oletus, 10.0 = kymmenen kertaa pidempaan, 0.5 = puolet kestosta.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "NV-esineiden spawn-kerroin",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Skaalaa frameworkin esimerkkipimeanakoesineen proseduraalisia spawn-painoja. 1.0 = oletus, 2.0 = kaksinkertainen paino, 0.0 = ei frameworkin lisaamia spawneja.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Kayta valokartiota yksinpelissa",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Jos kaytossa, yksinpeli kayttaa liitettya suunnattua valokartioapuria. Jos poistettu kaytosta, yksinpeli kayttaa sen sijaan lyhtypylvaaseen perustuvaa valoversiota.",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

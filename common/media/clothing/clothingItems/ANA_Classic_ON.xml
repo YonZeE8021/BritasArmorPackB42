@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\F_ANA_Classic_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_ANA_Classic_ON</m_FemaleModel>
+	<m_GUID>9787aace-3549-4f71-b129-53fa85c2f7e1</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform\ANA_Classic</textureChoices>	
+	<textureChoices>clothes\Uniform\ANA_Classic_2</textureChoices>		
+	<textureChoices>clothes\Uniform\ANA_Classic_3</textureChoices>		
+	<textureChoices>clothes\Uniform\ANA_Classic_4</textureChoices>		
+	<textureChoices>clothes\Uniform\ANA_Classic_5</textureChoices>		
+	<textureChoices>clothes\Uniform\ANA_Classic_6</textureChoices>		
+	<textureChoices>clothes\Uniform\ANA_Classic_7</textureChoices>		
+	<textureChoices>clothes\Uniform\ANA_Classic_8</textureChoices>		
+	<textureChoices>clothes\Uniform\ANA_Classic_9</textureChoices>		
+	<textureChoices>clothes\Uniform\ANA_Classic_10</textureChoices>		
+	<textureChoices>clothes\Uniform\ANA_Classic_11</textureChoices>			
+	
+</clothingItem>

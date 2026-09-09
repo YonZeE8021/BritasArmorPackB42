@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_Military_Ghillie_Hat</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_Military_Ghillie_Hat</m_FemaleModel>
+	<m_GUID>99f09ac0-33ce-407d-9d4d-6525cf23a44f</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform2\Military_Ghillie</textureChoices>		
+	<textureChoices>clothes\Uniform2\Military_Ghillie_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Military_Ghillie_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_8</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_9</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_10</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_11</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_12</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_13</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_14</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_15</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_16</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_17</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_18</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_19</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_20</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_21</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_22</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_23</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_24</textureChoices>	
+	<textureChoices>clothes\Uniform2\Military_Ghillie_25</textureChoices>	
+		
+</clothingItem>

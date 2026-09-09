@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Ashe_Cloak_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Ashe_Cloak_ON</m_FemaleModel>
+	<m_GUID>f6d19ca3-b4f1-4641-8fd4-f5a12a15e1b4</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<textureChoices>clothes\Uniform\Ashe_Cloak</textureChoices>	
+	<textureChoices>clothes\Uniform\Ashe_Cloak_2</textureChoices>		
+	
+</clothingItem>

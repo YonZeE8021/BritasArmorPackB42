@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Hunter_Backpack</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Hunter_Backpack</m_FemaleModel>
+	<m_GUID>4346ea0f-9995-498c-907a-cb09d00340a1</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\Hunter_Backpack</textureChoices>	
+	
+</clothingItem>

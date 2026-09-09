@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Tactical_Boots</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Tactical_Boots</m_FemaleModel>
+	<m_GUID>bb126475-374c-4199-9c0f-0debfd298c7a</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Boots_Trackstar</textureChoices>
+	<textureChoices>clothes\Boots_Trackstar_2</textureChoices>
+	<textureChoices>clothes\Boots_Trackstar_3</textureChoices>	
+</clothingItem>

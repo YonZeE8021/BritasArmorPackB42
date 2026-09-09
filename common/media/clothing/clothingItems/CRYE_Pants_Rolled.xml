@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Combat_Pants</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Combat_Pants</m_FemaleModel>
+	<m_GUID>0d3377ef-d51f-4366-813d-bed7b07e8336</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>14</m_Masks>
+	<m_Masks>15</m_Masks>
+	<m_Masks>7</m_Masks>
+	<m_Masks>9</m_Masks>
+	<textureChoices>clothes\CRYE_Pants_Rolled</textureChoices>		
+	<textureChoices>clothes\CRYE_Pants_2_Rolled</textureChoices>		
+	<textureChoices>clothes\CRYE_Pants_3_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_4_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_5_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_6_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_7_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_8_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_9_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_10_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_11_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_12_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_13_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_14_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_15_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_16_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_17_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_18_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_19_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_20_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_21_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_22_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_23_Rolled</textureChoices>	
+	<textureChoices>clothes\CRYE_Pants_24_Rolled</textureChoices>	
+</clothingItem>

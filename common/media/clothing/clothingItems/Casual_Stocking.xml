@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>95a625c2-1951-4318-b391-1a4c54341a39</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking</m_BaseTextures>			
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_2</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_3</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_4</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_5</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_6</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_7</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_8</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_9</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_10</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_11</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_12</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_13</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_14</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_15</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_16</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_17</m_BaseTextures>		
+</clothingItem>

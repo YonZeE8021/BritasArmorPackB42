@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Combat_Jumper</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Combat_Jumper</m_FemaleModel>
+	<m_GUID>31a8de6f-c832-4ef8-9579-1be2408ef737</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Military_Jumper</textureChoices>	
+	<textureChoices>clothes\Military_Jumper_2</textureChoices>	
+	<textureChoices>clothes\Military_Jumper_3</textureChoices>
+	<textureChoices>clothes\Military_Jumper_4</textureChoices>
+	<textureChoices>clothes\Military_Jumper_5</textureChoices>
+	<textureChoices>clothes\Military_Jumper_6</textureChoices>	
+	<textureChoices>clothes\Military_Jumper_7</textureChoices>
+	<textureChoices>clothes\Military_Jumper_8</textureChoices>
+	<textureChoices>clothes\Military_Jumper_9</textureChoices>
+	<textureChoices>clothes\Military_Jumper_10</textureChoices>
+	<textureChoices>clothes\Military_Jumper_11</textureChoices>
+	<textureChoices>clothes\Military_Jumper_12</textureChoices>
+	<textureChoices>clothes\Military_Jumper_13</textureChoices>	
+</clothingItem>

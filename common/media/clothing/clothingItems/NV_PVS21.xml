@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_NV_PVS21</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_NV_PVS21</m_FemaleModel>
+	<m_GUID>3a196c12-1ffa-4d4d-9814-ed7e3f44e4a7</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<textureChoices>clothes\Uniform2\NV_PVS21</textureChoices>				
+		
+	
+</clothingItem>

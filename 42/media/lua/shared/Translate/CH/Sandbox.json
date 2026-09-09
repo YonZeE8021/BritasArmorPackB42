@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "啟用電池系統",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "停用後，Night Vision Framework 物品將不再需要安裝電池，插入與移除電池的選項會被隱藏，啟用中的護目鏡也不會消耗電量。",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "電池續航倍數",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "調整已安裝 NV 電池的持續時間。1.0 = 預設，10.0 = 十倍更久，0.5 = 一半時間。",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "NV 物品生成倍數",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "調整此框架範例夜視物品的程序化生成權重。1.0 = 預設，2.0 = 兩倍權重，0.0 = 不生成任何由框架新增的物品。",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "在單人模式中使用光錐",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "啟用後，單人模式會使用附加的定向光錐輔助器。停用後，單人模式會改為使用基於路燈的照明版本。",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

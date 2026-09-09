@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Man_Neck_Hoodie_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Man_Neck_Hoodie_ON</m_FemaleModel>
+	<m_GUID>e33eb60a-82ca-4e5f-a2a2-15401f644df9</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\Check_Shirts</textureChoices>			
+	<textureChoices>clothes\Uniform2\Check_Shirts_2</textureChoices>			
+	<textureChoices>clothes\Uniform2\Check_Shirts_3</textureChoices>		
+	<textureChoices>clothes\Uniform2\Check_Shirts_4</textureChoices>		
+	<textureChoices>clothes\Uniform2\Check_Shirts_5</textureChoices>		
+	<textureChoices>clothes\Uniform2\Check_Shirts_6</textureChoices>		
+	<textureChoices>clothes\Uniform2\Check_Shirts_7</textureChoices>			
+	
+</clothingItem>

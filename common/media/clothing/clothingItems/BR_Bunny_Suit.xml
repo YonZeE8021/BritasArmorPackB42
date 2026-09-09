@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>d9716e74-c3ac-458c-8892-d7531f33602e</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>clothes\Uniform2\BR_Bunny_Suit</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\BR_Bunny_Suit_2</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\BR_Bunny_Suit_3</m_BaseTextures>			
+</clothingItem>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_EXO_Suit</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_EXO_Suit</m_FemaleModel>
+	<m_GUID>eca2106c-93ce-4576-a103-97b3b5f0fca9</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform\EXO_Suit</textureChoices>			
+	<textureChoices>clothes\Uniform\EXO_Suit_2</textureChoices>	
+	<textureChoices>clothes\Uniform\EXO_Suit_3</textureChoices>	
+	<textureChoices>clothes\Uniform\EXO_Suit_4</textureChoices>	
+	<textureChoices>clothes\Uniform\EXO_Suit_5</textureChoices>		
+</clothingItem>

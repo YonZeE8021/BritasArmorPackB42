@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_BARS_Hoodie_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_BARS_Hoodie_ON</m_FemaleModel>
+	<m_GUID>b0717fd8-90e8-4ab7-8d58-7319a9c37033</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>Group01</m_HatCategory>		
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform\BARS_Hoodie</textureChoices>
+	<textureChoices>clothes\Uniform\BARS_Hoodie_2</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_3</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_4</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_5</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_6</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_7</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_8</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_9</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_10</textureChoices>		
+	<textureChoices>clothes\Uniform\BARS_Hoodie_11</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_12</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_13</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_14</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_15</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_16</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_17</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_18</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_19</textureChoices>		
+	<textureChoices>clothes\Uniform\BARS_Hoodie_20</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_21</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_22</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_23</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_24</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_25</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_26</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_27</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_28</textureChoices>		
+	<textureChoices>clothes\Uniform\BARS_Hoodie_29</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_30</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_31</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_32</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_33</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_34</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_35</textureChoices>	
+	<textureChoices>clothes\Uniform\BARS_Hoodie_36</textureChoices>		
+	
+</clothingItem>

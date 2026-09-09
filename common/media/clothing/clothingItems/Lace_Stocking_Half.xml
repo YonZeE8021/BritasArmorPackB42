@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>847933c6-5ca1-44d6-92cd-cc3aabe356b9</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_2</m_BaseTextures>			
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_3</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_4</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_5</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_6</m_BaseTextures>			
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_7</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_8</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_9</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_10</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_11</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_12</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_13</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_14</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Lace_Stocking_Half_15</m_BaseTextures>			
+</clothingItem>

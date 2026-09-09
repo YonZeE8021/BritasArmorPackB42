@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Hat_Tactical_Cap</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Hat_Tactical_Cap</m_FemaleModel>
+	<m_GUID>1753efff-5f82-4b98-8420-dac1be6eb3c0</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>Group01</m_HatCategory>		
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo</textureChoices>
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_2</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_3</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_4</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_5</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_6</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_7</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_8</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_9</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_10</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_11</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_12</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_13</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_14</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Tactical_Cap_Camo_15</textureChoices>	
+</clothingItem>

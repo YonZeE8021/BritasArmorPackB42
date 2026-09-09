@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Dozer_Pack</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Dozer_Pack</m_FemaleModel>
+	<m_GUID>25b78f40-aad4-4592-b384-6a3c52e220a3</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_2</textureChoices>	
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_3</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_4</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_5</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_6</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_7</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_8</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_9</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_10</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_11</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_12</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_13</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_14</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_15</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_16</textureChoices>
+	<textureChoices>clothes\Bag\Bag_Dozer_Pack_17</textureChoices>	
+</clothingItem>

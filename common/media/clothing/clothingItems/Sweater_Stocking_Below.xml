@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>51850117-a34b-47a1-b979-d0c080828817</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Below</m_BaseTextures>			
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Below_2</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Below_3</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Below_4</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Below_5</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Below_6</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Below_7</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Sweater_Stocking_Below_8</m_BaseTextures>		
+</clothingItem>

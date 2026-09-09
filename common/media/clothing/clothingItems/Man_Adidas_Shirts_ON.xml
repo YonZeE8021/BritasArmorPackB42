@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Man_Adidas_Shirts_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Man_Adidas_Shirts_ON</m_FemaleModel>
+	<m_GUID>d327a358-f501-42cf-ab0b-296b983adaf3</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\Uniform2\Man_Adidas_Shirts</textureChoices>		
+	<textureChoices>clothes\Uniform2\Man_Adidas_Shirts_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\Man_Adidas_Shirts_3</textureChoices>			
+	<textureChoices>clothes\Uniform2\Man_Adidas_Shirts_4</textureChoices>			
+	<textureChoices>clothes\Uniform2\Man_Adidas_Shirts_5</textureChoices>			
+	<textureChoices>clothes\Uniform2\Man_Adidas_Shirts_6</textureChoices>			
+	<textureChoices>clothes\Uniform2\Man_Adidas_Shirts_7</textureChoices>			
+	<textureChoices>clothes\Uniform2\Man_Adidas_Shirts_8</textureChoices>			
+	<textureChoices>clothes\Uniform2\Man_Adidas_Shirts_9</textureChoices>			
+	<textureChoices>clothes\Uniform2\Man_Adidas_Shirts_10</textureChoices>		
+</clothingItem>

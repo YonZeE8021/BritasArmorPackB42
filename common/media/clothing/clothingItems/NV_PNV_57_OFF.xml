@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_NV_PNV_57_OFF</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_NV_PNV_57_OFF</m_FemaleModel>
+	<m_GUID>43fd036d-fba4-456e-9cfc-49cede9ed39a</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<textureChoices>clothes\Uniform2\NV_PNV_57</textureChoices>		
+	<textureChoices>clothes\Uniform2\NV_PNV_57_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\NV_PNV_57_3</textureChoices>			
+		
+	
+</clothingItem>

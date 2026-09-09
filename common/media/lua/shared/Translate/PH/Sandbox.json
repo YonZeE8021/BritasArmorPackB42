@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "I-enable ang battery system",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Kapag naka-disable, hindi na mangangailangan ng nakakabit na baterya ang mga item ng Night Vision Framework, itatago ang mga opsyon sa paglagay at pagtanggal ng baterya, at hindi na mauubos ang charge ng aktibong goggles.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Multiplier ng tagal ng baterya",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Ina-adjust kung gaano katagal tumatagal ang nakakabit na NV batteries. 1.0 = default, 10.0 = sampung beses na mas matagal, 0.5 = kalahati ng tagal.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Multiplier ng spawn ng NV item",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Ina-adjust ang procedural spawn weights ng framework para sa halimbawang night vision item. 1.0 = default, 2.0 = dobleng weight, 0.0 = walang spawns na idinadagdag ng framework.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Gamitin ang light cone sa singleplayer",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Kapag naka-enable, gagamit ang singleplayer ng nakakabit na directional light cone helper. Kapag naka-disable, ang singleplayer ay gagamit na lang ng bersyon ng ilaw na nakabatay sa lamppost.",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

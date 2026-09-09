@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>595976f3-b6c0-4315-8fae-e15e99f3c394</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch</m_BaseTextures>			
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_2</m_BaseTextures>		
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_3</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_4</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_5</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_6</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_7</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_8</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_9</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_10</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_11</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_12</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_13</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_14</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_15</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_16</m_BaseTextures>	
+	<m_BaseTextures>clothes\Uniform2\Casual_Stocking_Mismatch_17</m_BaseTextures>						
+</clothingItem>

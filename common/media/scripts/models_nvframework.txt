@@ -1,0 +1,14 @@
+module NVFramework
+{
+    model Hat_NightVision_NV_ON_Ground
+    {
+        mesh = Static/Clothes/M_Hat_NightVision_NV,
+        scale = 1,
+    }
+
+    model Hat_NightVision_NV_OFF_Ground
+    {
+        mesh = Static/Clothes/M_Hat_NightVision_NV_OFF,
+        scale = 1,
+    }
+}

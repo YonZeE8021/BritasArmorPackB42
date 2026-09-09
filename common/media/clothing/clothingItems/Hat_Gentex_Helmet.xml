@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_Gentex_Helmet</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_Gentex_Helmet</m_FemaleModel>
+	<m_GUID>3f013b5b-6b66-4307-b69c-2774de3b53ca</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>Group01</m_HatCategory>	
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\hat\Hat_Gentex_Helmet</textureChoices>
+	<textureChoices>clothes\hat\Hat_Gentex_Helmet2</textureChoices>	
+	<textureChoices>clothes\hat\Hat_Gentex_Helmet3</textureChoices>	
+</clothingItem>

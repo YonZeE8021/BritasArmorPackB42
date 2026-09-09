@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Suit_Wick_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Suit_Wick_ON</m_FemaleModel>
+	<m_GUID>0470b142-891c-41ea-9741-cc2fe191ed0d</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform\Suit_Wick</textureChoices>		
+	<textureChoices>clothes\Uniform\Suit_Wick_2</textureChoices>	
+	<textureChoices>clothes\Uniform\Suit_Wick_3</textureChoices>	
+	<textureChoices>clothes\Uniform\Suit_Wick_4</textureChoices>	
+	<textureChoices>clothes\Uniform\Suit_Wick_5</textureChoices>	
+	<textureChoices>clothes\Uniform\Suit_Wick_6</textureChoices>	
+	<textureChoices>clothes\Uniform\Suit_Wick_7</textureChoices>		
+	
+	
+</clothingItem>

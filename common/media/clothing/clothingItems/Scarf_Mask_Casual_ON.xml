@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_Scarf_Mask_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_Scarf_Mask_ON</m_FemaleModel>
+	<m_GUID>87aee8e6-ee18-4b5c-bd3a-e9b0384d122f</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>nohair</m_HatCategory>	
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual</textureChoices>		
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_8</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_9</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_10</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_11</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_12</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_13</textureChoices>	
+	<textureChoices>clothes\Uniform2\Scarf_Mask_Casual_14</textureChoices>			
+</clothingItem>

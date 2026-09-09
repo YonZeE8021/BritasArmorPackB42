@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Jacket_Polizei</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Jacket_Polizei</m_FemaleModel>
+	<m_GUID>98f58299-9473-4bc8-af78-b520a9b91eee</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\Police_Waterproof_Jacket</textureChoices>				
+	<textureChoices>clothes\Uniform2\Police_Waterproof_Jacket_2</textureChoices>		
+	
+</clothingItem>

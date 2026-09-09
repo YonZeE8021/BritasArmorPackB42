@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Bear_Mask</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Bear_Mask</m_FemaleModel>
+	<m_GUID>ad476c73-83bf-4125-8131-079da1bb752c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform2\Bear_Mask</textureChoices>	
+	<textureChoices>clothes\Uniform2\Bear_Mask_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\Bear_Mask_3</textureChoices>		
+		
+	
+</clothingItem>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Belt_Pack_Pouch_Loose</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Belt_Pack_Pouch_Loose</m_FemaleModel>
+	<m_GUID>855877ad-04db-4b85-9efc-9313c4e44fc0</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_Pouch</textureChoices>		
+	<textureChoices>clothes\Uniform2\Belt_Pack_Pouch_2</textureChoices>			
+	<textureChoices>clothes\Uniform2\Belt_Pack_Pouch_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_Pouch_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_Pouch_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_Pouch_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_Pouch_7</textureChoices>		
+	<textureChoices>clothes\Uniform2\Belt_Pack_Pouch_8</textureChoices>			
+		
+	
+</clothingItem>

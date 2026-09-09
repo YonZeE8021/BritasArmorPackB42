@@ -1,0 +1,2980 @@
+/* Сконвертировано из Arsenal(26) GunFighter (B41) для B42 + Gunworks.
+   Личный порт, не для распространения. Генератор: tools/convert.py */
+
+module Base
+{
+    model W_Bag_Smersh_Vest
+    {
+        mesh                             = WorldItems/W_Bag_Smersh_Vest,
+        texture                          = Clothes/Bag/Bag_Smersh_Vest,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_D3M
+    {
+        mesh                             = WorldItems/W_Bag_D3M,
+        texture                          = Clothes/Bag/Bag_D3M,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Blackhawk
+    {
+        mesh                             = WorldItems/W_Bag_Blackhawk,
+        texture                          = Clothes/Bag/Bag_Blackhawk,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_X_Vest
+    {
+        mesh                             = WorldItems/W_Bag_X_Vest,
+        texture                          = Clothes/Bag/Bag_X_Vest,
+        scale                            = 0.01,
+    }
+
+    model W_Armor_Defender
+    {
+        mesh                             = WorldItems/W_Armor_Defender,
+        texture                          = Clothes/Armor_Defender,
+        scale                            = 0.01,
+    }
+
+    model W_Armor_Defender_Set
+    {
+        mesh                             = WorldItems/W_Armor_Defender_Set,
+        texture                          = Clothes/Armor_Defender,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Plate_Carrier
+    {
+        mesh                             = WorldItems/W_Bag_Plate_Carrier,
+        texture                          = Clothes/Wolf_Plate_Carrier,
+        scale                            = 0.01,
+    }
+
+    model W_Armor_6B13
+    {
+        mesh                             = WorldItems/W_Armor_6B13,
+        texture                          = Clothes/Armor_6B13,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Sniper_Pack
+    {
+        mesh                             = WorldItems/W_Bag_Sniper_Pack,
+        texture                          = Clothes/Bag/Sniper_Pack,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_ARVN_Rucksack
+    {
+        mesh                             = WorldItems/W_Bag_ARVN_Rucksack,
+        texture                          = Clothes/Bag/Bag_ARVN_Rucksack,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_ST53_Set
+    {
+        mesh                             = WorldItems/W_Bag_ST53_Set,
+        texture                          = Clothes/Bag/Bag_ST53_Set,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_SCBA
+    {
+        mesh                             = WorldItems/W_Bag_SCBA,
+        texture                          = Clothes/Bag/Bag_SCBA,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_ZIP
+    {
+        mesh                             = WorldItems/W_Bag_ZIP,
+        texture                          = Clothes/Bag/Bag_ZIP,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_SSO
+    {
+        mesh                             = WorldItems/W_Bag_SSO,
+        texture                          = Clothes/Bag/SSO,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Savotta
+    {
+        mesh                             = WorldItems/W_Bag_Savotta,
+        texture                          = Clothes/Bag/Bag_Savotta,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Bush
+    {
+        mesh                             = WorldItems/W_Bag_Bush,
+        texture                          = Clothes/Bag/Bag_Bush,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Hunting
+    {
+        mesh                             = WorldItems/W_Bag_Hunting,
+        texture                          = Clothes/Bag/Bag_Bush,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Radio_Pack
+    {
+        mesh                             = WorldItems/W_Bag_Radio_Pack,
+        texture                          = Clothes/Bag/PRC77,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Tactical_Alice
+    {
+        mesh                             = WorldItems/W_Bag_Tactical_Alice,
+        texture                          = Clothes/Bag/Bag_Tactical_Alice,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Tactical_Belt
+    {
+        mesh                             = WorldItems/W_Bag_Tactical_Belt,
+        texture                          = Clothes/Bag/Bag_Tactical_Belt,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Duty_Belt
+    {
+        mesh                             = WorldItems/W_Bag_Duty_Belt,
+        texture                          = Clothes/Bag/Bag_Duty_Belt,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_SKS_Vest
+    {
+        mesh                             = WorldItems/W_Bag_SKS_Vest,
+        texture                          = Clothes/Bag/Bag_SKS_Vest,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_AK_Vest
+    {
+        mesh                             = WorldItems/W_Bag_AK_Vest,
+        texture                          = Clothes/Bag/Bag_AK_Vest,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Cat_Pack
+    {
+        mesh                             = WorldItems/W_Bag_Cat_Pack,
+        texture                          = Clothes/Bag/Bag_Cat_Pack_2,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Robbie_Pack
+    {
+        mesh                             = WorldItems/W_Bag_Robbie_Pack,
+        texture                          = Clothes/Bag/Bag_Robbie_Pack,
+        scale                            = 0.01,
+    }
+
+    model W_Sheriff_Vest_Full
+    {
+        mesh                             = WorldItems/W_Sheriff_Vest_Full,
+        texture                          = Clothes/Sheriff_Vest,
+        scale                            = 0.01,
+    }
+
+    model W_Sheriff_Vest
+    {
+        mesh                             = WorldItems/W_Sheriff_Vest,
+        texture                          = Clothes/Sheriff_Vest,
+        scale                            = 0.01,
+    }
+
+    model W_M2A1_Pack
+    {
+        mesh                             = WorldItems/W_Bag_M2A1_Pack,
+        texture                          = Clothes/Bag/Bag_M2A1_Pack,
+        scale                            = 0.01,
+    }
+
+    model W_Wolf_Plate_Carrier
+    {
+        mesh                             = WorldItems/W_Wolf_Plate_Carrier,
+        texture                          = Clothes/Wolf_Plate_Carrier,
+        scale                            = 0.01,
+    }
+
+    model W_Wolf_Plate_Carrier_B
+    {
+        mesh                             = WorldItems/W_Wolf_Plate_Carrier_B,
+        texture                          = Clothes/Wolf_Plate_Carrier,
+        scale                            = 0.01,
+    }
+
+    model W_Armor_Dozer
+    {
+        mesh                             = WorldItems/W_Armor_Dozer,
+        texture                          = Clothes/Armor_Dozer,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Dozer_Pack
+    {
+        mesh                             = WorldItems/W_Bag_Dozer_Pack,
+        texture                          = Clothes/Bag/Bag_Dozer_Pack,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Hazard_Cross
+    {
+        mesh                             = WorldItems/W_Bag_Hazard_Cross,
+        texture                          = Clothes/Bag/Bag_Hazard_Cross,
+        scale                            = 0.01,
+    }
+
+    model W_Army_Duffle_Bag
+    {
+        mesh                             = WorldItems/W_Army_Duffle_Bag,
+        texture                          = Clothes/Uniform2/Army_Duffle_Bag,
+        scale                            = 0.01,
+    }
+
+    model W_Bread_Sack
+    {
+        mesh                             = WorldItems/W_Bread_Sack,
+        texture                          = Clothes/Uniform2/Bread_Bag,
+        scale                            = 0.01,
+    }
+
+    model W_Bread_Bag
+    {
+        mesh                             = WorldItems/W_Bread_Bag,
+        texture                          = Clothes/Uniform2/Bread_Bag,
+        scale                            = 0.01,
+    }
+
+    model W_Casual_Bag
+    {
+        mesh                             = WorldItems/W_Casual_Bag,
+        texture                          = Clothes/Uniform2/Casual_Bag,
+        scale                            = 0.01,
+    }
+
+    model W_Trauma_Bag
+    {
+        mesh                             = WorldItems/W_Casual_Bag,
+        texture                          = Clothes/Uniform2/Trauma_Bag,
+        scale                            = 0.01,
+    }
+
+    model W_Sheriff_Bag
+    {
+        mesh                             = WorldItems/W_Sheriff_Bag,
+        texture                          = Clothes/Uniform2/Sheriff_Bag,
+        scale                            = 0.01,
+    }
+
+    model W_Bushcraft_Bag
+    {
+        mesh                             = WorldItems/W_Bushcraft_Bag,
+        texture                          = Clothes/Uniform2/Bushcraft_Bag,
+        scale                            = 0.01,
+    }
+
+    model W_IP46
+    {
+        mesh                             = WorldItems/W_IP46,
+        texture                          = Clothes/Uniform2/IP46,
+        scale                            = 0.01,
+    }
+
+    model W_AP3
+    {
+        mesh                             = WorldItems/W_AP3,
+        texture                          = Clothes/Uniform2/AP3,
+        scale                            = 0.01,
+    }
+
+    model W_KIP5
+    {
+        mesh                             = WorldItems/W_KIP5,
+        texture                          = Clothes/Uniform2/KIP5,
+        scale                            = 0.01,
+    }
+
+    model W_OMNI_Bag
+    {
+        mesh                             = WorldItems/W_OMNI_Bag,
+        texture                          = Clothes/Uniform2/OMNI_Bag,
+        scale                            = 0.01,
+    }
+
+    model W_ELA_Bag
+    {
+        mesh                             = WorldItems/W_ELA_Bag,
+        texture                          = Clothes/Uniform2/ELA_Gear,
+        scale                            = 0.01,
+    }
+
+    model W_D3CR
+    {
+        mesh                             = WorldItems/W_D3CR,
+        texture                          = Clothes/Uniform2/D3CR,
+        scale                            = 0.01,
+    }
+
+    model W_Belt_Pack_War
+    {
+        mesh                             = WorldItems/W_Belt_Pack_War,
+        texture                          = Clothes/Uniform2/Belt_Pack_War,
+        scale                            = 0.01,
+    }
+
+    model W_Belt_Pack_Duty
+    {
+        mesh                             = WorldItems/W_Belt_Pack_Duty,
+        texture                          = Clothes/Uniform2/Belt_Pack_Duty,
+        scale                            = 0.01,
+    }
+
+    model W_Belt_Pack_Pouch
+    {
+        mesh                             = WorldItems/W_Belt_Pack_Pouch,
+        texture                          = Clothes/Uniform2/Belt_Pack_Pouch,
+        scale                            = 0.01,
+    }
+
+    model W_Belt_Pack_Gas
+    {
+        mesh                             = WorldItems/W_Belt_Pack_Gas,
+        texture                          = Clothes/Uniform2/Belt_Pack_Gas,
+        scale                            = 0.01,
+    }
+
+    model W_Belt_Pack_AR
+    {
+        mesh                             = WorldItems/W_Belt_Pack_AR,
+        texture                          = Clothes/Uniform2/Belt_Pack_AR,
+        scale                            = 0.01,
+    }
+
+    model W_Shotgun_Rig
+    {
+        mesh                             = WorldItems/W_Shotgun_Rig,
+        texture                          = Clothes/Uniform2/Shotgun_Rig,
+        scale                            = 0.01,
+    }
+
+    model W_C420_PAPR
+    {
+        mesh                             = WorldItems/W_C420_PAPR,
+        texture                          = Clothes/Uniform2/S10_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_Ashe_Gear
+    {
+        mesh                             = WorldItems/W_Ashe_Gear,
+        texture                          = Clothes/Uniform2/Ashe_Gear,
+        scale                            = 0.01,
+    }
+
+    model W_Radio_Rig
+    {
+        mesh                             = WorldItems/W_Radio_Rig,
+        texture                          = Clothes/Uniform2/Radio_Rig,
+        scale                            = 0.01,
+    }
+
+    model W_OMNI_Pouch
+    {
+        mesh                             = WorldItems/W_OMNI_Pouch,
+        texture                          = Clothes/Uniform2/OMNI_Pouch,
+        scale                            = 0.01,
+    }
+
+    model W_K1_Bag
+    {
+        mesh                             = WorldItems/W_K1_Bag,
+        texture                          = Clothes/Uniform2/K1_Bag,
+        scale                            = 0.01,
+    }
+
+    model W_Bottle_Bag
+    {
+        mesh                             = WorldItems/W_Bottle_Bag,
+        texture                          = Clothes/Uniform/Bottle_Bag,
+        scale                            = 0.01,
+    }
+
+    model W_Rig_ELA
+    {
+        mesh                             = WorldItems/W_Rig_ELA,
+        texture                          = Clothes/Uniform2/ELA_Gear,
+        scale                            = 0.01,
+    }
+
+    model W_Rig_Smersh
+    {
+        mesh                             = WorldItems/W_Rig_Smersh,
+        texture                          = Clothes/Uniform2/Rig_Smersh,
+        scale                            = 0.01,
+    }
+
+    model W_Rig_Smersh_A
+    {
+        mesh                             = WorldItems/W_Rig_Smersh_A,
+        texture                          = Clothes/Uniform2/Rig_Smersh,
+        scale                            = 0.01,
+    }
+
+    model W_Rig_Smersh_B
+    {
+        mesh                             = WorldItems/W_Rig_Smersh_B,
+        texture                          = Clothes/Uniform2/Rig_Smersh,
+        scale                            = 0.01,
+    }
+
+    model W_Rig_Smersh_C
+    {
+        mesh                             = WorldItems/W_Rig_Smersh_C,
+        texture                          = Clothes/Uniform2/Rig_Smersh,
+        scale                            = 0.01,
+    }
+
+    model W_USCM_Armor
+    {
+        mesh                             = WorldItems/W_USCM_Armor,
+        texture                          = Clothes/Uniform/Marine_Armor,
+        scale                            = 0.01,
+    }
+
+    model W_SET_Armor
+    {
+        mesh                             = WorldItems/W_SET_Armor,
+        texture                          = Clothes/Uniform/SET_Armor,
+        scale                            = 0.01,
+    }
+
+    model W_SET_Armor_FULL
+    {
+        mesh                             = WorldItems/W_SET_Armor_FULL,
+        texture                          = Clothes/Uniform/SET_Armor,
+        scale                            = 0.01,
+    }
+
+    model W_EXO_Suit
+    {
+        mesh                             = WorldItems/W_EXO_Suit,
+        texture                          = Clothes/Uniform/EXO_Suit,
+        scale                            = 0.01,
+    }
+
+    model W_K1_Gasmask
+    {
+        mesh                             = WorldItems/W_K1_Gasmask,
+        texture                          = Clothes/Uniform2/K1_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_K1_Hood
+    {
+        mesh                             = WorldItems/W_K1_Hood,
+        texture                          = Clothes/Uniform2/K1_Hood,
+        scale                            = 0.01,
+    }
+
+    model W_K1_Half
+    {
+        mesh                             = WorldItems/W_K1_Half,
+        texture                          = Clothes/Uniform2/K1_Half,
+        scale                            = 0.01,
+    }
+
+    model W_PMK1_Gasmask
+    {
+        mesh                             = WorldItems/W_PMK1_Gasmask,
+        texture                          = Clothes/Uniform2/PMK1_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_PMK1_Half
+    {
+        mesh                             = WorldItems/W_PMK1_Half,
+        texture                          = Clothes/Uniform2/PMK1_Half,
+        scale                            = 0.01,
+    }
+
+    model W_PMK2_Gasmask
+    {
+        mesh                             = WorldItems/W_PMK2_Gasmask,
+        texture                          = Clothes/Uniform2/PMK2_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_PMK2_Half
+    {
+        mesh                             = WorldItems/W_PMK2_Half,
+        texture                          = Clothes/Uniform2/PMK2_Half,
+        scale                            = 0.01,
+    }
+
+    model W_S10_Gasmask
+    {
+        mesh                             = WorldItems/W_S10_Gasmask,
+        texture                          = Clothes/Uniform2/S10_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_S10_Gasmask_Set
+    {
+        mesh                             = WorldItems/W_S10_Gasmask_Set,
+        texture                          = Clothes/Uniform2/S10_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_GP4U_Gasmask
+    {
+        mesh                             = WorldItems/W_GP4U_Gasmask,
+        texture                          = Clothes/Uniform2/GP4U_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_MM1_Gasmask
+    {
+        mesh                             = WorldItems/W_MM1_Gasmask,
+        texture                          = Clothes/Uniform2/MM1_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_SHMS_Gasmask
+    {
+        mesh                             = WorldItems/W_SHMS_Gasmask,
+        texture                          = Clothes/Uniform2/SHMS_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_GP5M_Gasmask
+    {
+        mesh                             = WorldItems/W_GP5M_Gasmask,
+        texture                          = Clothes/Uniform2/GP5M_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_PMG_Gasmask
+    {
+        mesh                             = WorldItems/W_PMG_Gasmask,
+        texture                          = Clothes/Uniform2/PMG_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_MSA_Gas_Mask
+    {
+        mesh                             = WorldItems/W_Hat_MSA_Gas_Mask,
+        texture                          = Clothes/Hat/Hat_MSA_Gas_Mask,
+        scale                            = 0.01,
+    }
+
+    model W_Vader_Mask
+    {
+        mesh                             = WorldItems/W_Vader_Mask,
+        texture                          = Clothes/Uniform/Vader_Mask,
+        scale                            = 0.01,
+    }
+
+    model W_Balaclava_Mask_1
+    {
+        mesh                             = WorldItems/W_Balaclava_Mask_1,
+        texture                          = Clothes/Uniform2/Balaclava_Mask_1_4,
+        scale                            = 0.01,
+    }
+
+    model W_Balaclava_Mask_2
+    {
+        mesh                             = WorldItems/W_Balaclava_Mask_2,
+        texture                          = Clothes/Uniform2/Balaclava_Mask_1_17,
+        scale                            = 0.01,
+    }
+
+    model W_Balaclava_Mask_3
+    {
+        mesh                             = WorldItems/W_Balaclava_Mask_3,
+        texture                          = Clothes/Uniform2/Balaclava_Mask_1_27,
+        scale                            = 0.01,
+    }
+
+    model W_Balaclava_Mask_4
+    {
+        mesh                             = WorldItems/W_Balaclava_Mask_4,
+        texture                          = Clothes/Uniform2/Balaclava_Mask_1_28,
+        scale                            = 0.01,
+    }
+
+    model W_Balaclava_Mask_5
+    {
+        mesh                             = WorldItems/W_Balaclava_Mask_5,
+        texture                          = Clothes/Uniform2/Balaclava_Mask_1_31,
+        scale                            = 0.01,
+    }
+
+    model W_Balaclava_Mask_6
+    {
+        mesh                             = WorldItems/W_Balaclava_Mask_6,
+        texture                          = Clothes/Uniform2/Balaclava_Mask_1_23,
+        scale                            = 0.01,
+    }
+
+    model W_Bandana_Mask
+    {
+        mesh                             = WorldItems/W_Bandana_Mask,
+        texture                          = Clothes/Mask/Bandana_Mask_2,
+        scale                            = 0.01,
+    }
+
+    model W_Bandana_Mask_Camo
+    {
+        mesh                             = WorldItems/W_Bandana_Mask,
+        texture                          = Clothes/Mask/Bandana_Mask_Camo,
+        scale                            = 0.01,
+    }
+
+    model W_Bandana_Mask_Other
+    {
+        mesh                             = WorldItems/W_Bandana_Mask,
+        texture                          = Clothes/Mask/Bandana_Mask_Other,
+        scale                            = 0.01,
+    }
+
+    model W_NV_PVS5
+    {
+        mesh                             = WorldItems/W_NV_PVS5,
+        texture                          = Clothes/Hat/NV_PVS5,
+        scale                            = 0.01,
+    }
+
+    model W_NV_PNV_57
+    {
+        mesh                             = WorldItems/W_NV_PNV_57,
+        texture                          = Clothes/Uniform2/NV_PNV_57,
+        scale                            = 0.01,
+    }
+
+    model W_NV_PVS7
+    {
+        mesh                             = WorldItems/W_NV_PVS7,
+        texture                          = Clothes/Uniform2/NV_PVS7,
+        scale                            = 0.01,
+    }
+
+    model W_NV_PVS21
+    {
+        mesh                             = WorldItems/W_NV_PVS21,
+        texture                          = Clothes/Uniform2/NV_PVS21,
+        scale                            = 0.01,
+    }
+
+    model W_Aviation_Headsets
+    {
+        mesh                             = WorldItems/W_Aviation_Headsets,
+        texture                          = Clothes/Uniform2/Aviation_Headsets,
+        scale                            = 0.01,
+    }
+
+    model W_Comtac_Headsets
+    {
+        mesh                             = WorldItems/W_Comtac_Headsets,
+        texture                          = Clothes/Uniform2/Comtac_Headsets,
+        scale                            = 0.01,
+    }
+
+    model W_Comtac4_Headsets
+    {
+        mesh                             = WorldItems/W_Comtac4_Headsets,
+        texture                          = Clothes/Uniform2/Comtac4_Headsets,
+        scale                            = 0.01,
+    }
+
+    model W_Bowman_Headsets
+    {
+        mesh                             = WorldItems/W_Bowman_Headsets,
+        texture                          = Clothes/Uniform2/Bowman_Headsets,
+        scale                            = 0.01,
+    }
+
+    model W_SET_Headset
+    {
+        mesh                             = WorldItems/W_SET_Headset,
+        texture                          = Clothes/Uniform/SET_Headset,
+        scale                            = 0.01,
+    }
+
+    model W_SET_Goggles
+    {
+        mesh                             = WorldItems/W_SET_Goggles,
+        texture                          = Clothes/Uniform/SET_Headset_2,
+        scale                            = 0.01,
+    }
+
+    model W_Bag_Sniper_Hood
+    {
+        mesh                             = WorldItems/W_Bag_Sniper_Hood,
+        texture                          = Clothes/Uniform/Viper_Hood_10,
+        scale                            = 0.01,
+    }
+
+    model W_Military_Cloak
+    {
+        mesh                             = WorldItems/W_Military_Cloak,
+        texture                          = Clothes/Bag/Military_Cloak_7,
+        scale                            = 0.01,
+    }
+
+    model W_Ashe_Cloak
+    {
+        mesh                             = WorldItems/W_Ashe_Cloak,
+        texture                          = Clothes/Uniform/Ashe_Cloak,
+        scale                            = 0.01,
+    }
+
+    model W_Kenobi_Cape
+    {
+        mesh                             = WorldItems/W_Kenobi_Cape,
+        texture                          = Clothes/Uniform/Kenobi_Cape,
+        scale                            = 0.01,
+    }
+
+    model W_Vader_Cape
+    {
+        mesh                             = WorldItems/W_Vader_Cape,
+        texture                          = Clothes/Uniform/Vader_Cape,
+        scale                            = 0.01,
+    }
+
+    model W_Star_Cape
+    {
+        mesh                             = WorldItems/W_Star_Cape,
+        texture                          = Clothes/Uniform/Star_Cape,
+        scale                            = 0.01,
+    }
+
+    model W_Apron_Side
+    {
+        mesh                             = WorldItems/W_Apron_Side,
+        texture                          = Clothes/Uniform/Apron_Side,
+        scale                            = 0.01,
+    }
+
+    model W_Military_Ghillie
+    {
+        mesh                             = WorldItems/W_Military_Ghillie,
+        texture                          = Clothes/Uniform2/Military_Ghillie,
+        scale                            = 0.01,
+    }
+
+    model W_Military_Ghillie_B
+    {
+        mesh                             = WorldItems/W_Military_Ghillie,
+        texture                          = Clothes/Uniform2/Military_Ghillie_6,
+        scale                            = 0.01,
+    }
+
+    model W_Military_Ghillie_C
+    {
+        mesh                             = WorldItems/W_Military_Ghillie,
+        texture                          = Clothes/Uniform2/Military_Ghillie_10,
+        scale                            = 0.01,
+    }
+
+    model W_Military_Ghillie_D
+    {
+        mesh                             = WorldItems/W_Military_Ghillie,
+        texture                          = Clothes/Uniform2/Military_Ghillie_21,
+        scale                            = 0.01,
+    }
+
+    model W_Military_Ghillie_Hat
+    {
+        mesh                             = WorldItems/W_Military_Ghillie_Hat,
+        texture                          = Clothes/Uniform2/Military_Ghillie,
+        scale                            = 0.01,
+    }
+
+    model W_Rabbit_Suit
+    {
+        mesh                             = WorldItems/W_Rabbit_Suit,
+        texture                          = Clothes/Rabbit_Suit,
+        scale                            = 0.01,
+    }
+
+    model W_Rabbit_Suit_Blue
+    {
+        mesh                             = WorldItems/W_Rabbit_Suit,
+        texture                          = Clothes/Rabbit_Suit_Blue,
+        scale                            = 0.01,
+    }
+
+    model W_Rabbit_Suit_Green
+    {
+        mesh                             = WorldItems/W_Rabbit_Suit,
+        texture                          = Clothes/Rabbit_Suit_Green,
+        scale                            = 0.01,
+    }
+
+    model W_Rabbit_Suit_Grey
+    {
+        mesh                             = WorldItems/W_Rabbit_Suit,
+        texture                          = Clothes/Rabbit_Suit_Grey,
+        scale                            = 0.01,
+    }
+
+    model W_Rabbit_Suit_Purple
+    {
+        mesh                             = WorldItems/W_Rabbit_Suit,
+        texture                          = Clothes/Rabbit_Suit_Purple,
+        scale                            = 0.01,
+    }
+
+    model W_Rabbit_Suit_Yellow
+    {
+        mesh                             = WorldItems/W_Rabbit_Suit,
+        texture                          = Clothes/Rabbit_Suit_Yellow,
+        scale                            = 0.01,
+    }
+
+    model W_Bloodsucker
+    {
+        mesh                             = WorldItems/W_Bloodsucker,
+        texture                          = Clothes/Uniform/Bloodsucker,
+        scale                            = 0.01,
+    }
+
+    model W_SH_Nurse
+    {
+        mesh                             = WorldItems/W_SH_Nurse,
+        texture                          = Clothes/Uniform/SH_Nurse,
+        scale                            = 0.01,
+    }
+
+    model W_SH_Nurse_2
+    {
+        mesh                             = WorldItems/W_SH_Nurse_2,
+        texture                          = Clothes/Uniform/SH_Nurse_5,
+        scale                            = 0.01,
+    }
+
+    model W_Light_Woman
+    {
+        mesh                             = WorldItems/W_Light_Woman,
+        texture                          = Clothes/Uniform/Light_Woman,
+        scale                            = 0.01,
+    }
+
+    model W_SH_Closer
+    {
+        mesh                             = WorldItems/W_SH_Closer,
+        texture                          = Clothes/Uniform/SH_Closer,
+        scale                            = 0.01,
+    }
+
+    model W_Wolf_Knee_Pad
+    {
+        mesh                             = WorldItems/W_Wolf_Knee_Pad,
+        texture                          = Clothes/Wolf_Knee_Pad,
+        scale                            = 0.01,
+    }
+
+    model W_Wolf_Holster
+    {
+        mesh                             = WorldItems/W_Wolf_Holster,
+        texture                          = Clothes/Wolf_Holster,
+        scale                            = 0.01,
+    }
+
+    model W_SET_PAD
+    {
+        mesh                             = WorldItems/W_SET_PAD,
+        texture                          = Clothes/Uniform/SET_Pad,
+        scale                            = 0.01,
+    }
+
+    model W_SET_ARM_PAD
+    {
+        mesh                             = WorldItems/W_SET_ARM_PAD,
+        texture                          = Clothes/Uniform/SET_Pad,
+        scale                            = 0.01,
+    }
+
+    model W_Armband
+    {
+        mesh                             = WorldItems/W_Armband,
+        texture                          = Clothes/Uniform/Armband,
+        scale                            = 0.01,
+    }
+
+    model W_Armband_Long
+    {
+        mesh                             = WorldItems/W_Armband_Long,
+        texture                          = Clothes/Uniform/Armband_Long,
+        scale                            = 0.01,
+    }
+
+    model W_Armband_Short
+    {
+        mesh                             = WorldItems/W_Armband_Short,
+        texture                          = Clothes/Uniform/Armband_Short,
+        scale                            = 0.01,
+    }
+
+    model W_Ashe_Leg_Armor
+    {
+        mesh                             = WorldItems/W_Ashe_Leg_Armor,
+        texture                          = Clothes/Uniform2/Ashe_Leg_Armor,
+        scale                            = 0.01,
+    }
+
+    model W_Shell_Chest_Bandolier
+    {
+        mesh                             = WorldItems/W_Shell_Chest_Bandolier,
+        texture                          = Clothes/Uniform2/Shell_Chest_Bandolier,
+        scale                            = 0.01,
+    }
+
+    model W_Shell_Arm_Bandolier
+    {
+        mesh                             = WorldItems/W_Shell_Arm_Bandolier,
+        texture                          = Clothes/Uniform2/Shell_Chest_Bandolier,
+        scale                            = 0.01,
+    }
+
+    model W_Shell_Thigh_Bandolier
+    {
+        mesh                             = WorldItems/W_Shell_Thigh_Bandolier,
+        texture                          = Clothes/Uniform2/Shell_Chest_Bandolier,
+        scale                            = 0.01,
+    }
+
+    model W_Mechanic_Boots_Armor
+    {
+        mesh                             = WorldItems/W_Mechanic_Boots_Armor,
+        texture                          = Clothes/Uniform2/Mechanic_Boots_Armor,
+        scale                            = 0.01,
+    }
+
+    model W_SET_Leg_Pouch
+    {
+        mesh                             = WorldItems/W_SET_Leg_Pouch,
+        texture                          = Clothes/Uniform/SET_Armor,
+        scale                            = 0.01,
+    }
+
+    model W_Fire_Helmet
+    {
+        mesh                             = WorldItems/W_Fire_Helmet,
+        texture                          = Clothes/Uniform2/Fire_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_Fire_Visor
+    {
+        mesh                             = WorldItems/W_Fire_Visor,
+        texture                          = Clothes/Uniform2/Fire_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_Viper_Helmet
+    {
+        mesh                             = WorldItems/W_Viper_Helmet,
+        texture                          = Clothes/Uniform2/Viper_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_Viper_Helmet_Shield
+    {
+        mesh                             = WorldItems/W_Viper_Helmet_Shield,
+        texture                          = Clothes/Uniform2/Viper_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_USCM_Helmet
+    {
+        mesh                             = WorldItems/W_USCM_Helmet,
+        texture                          = Clothes/Uniform/Marine_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_Maska_1_Helmet
+    {
+        mesh                             = WorldItems/W_Maska_1_Helmet,
+        texture                          = Clothes/Uniform2/Maska_1_Sets_3,
+        scale                            = 0.01,
+    }
+
+    model W_6B6_Helmet
+    {
+        mesh                             = WorldItems/W_6B6_Helmet,
+        texture                          = Clothes/Uniform2/Maska_1_Sets_14,
+        scale                            = 0.01,
+    }
+
+    model W_Maska_1_Visor
+    {
+        mesh                             = WorldItems/W_Maska_1_Visor,
+        texture                          = Clothes/Uniform2/Maska_1_Sets_3,
+        scale                            = 0.01,
+    }
+
+    model W_6B6_Visor
+    {
+        mesh                             = WorldItems/W_6B6_Visor,
+        texture                          = Clothes/Uniform2/Maska_1_Sets,
+        scale                            = 0.01,
+    }
+
+    model W_Vityaz_Visor
+    {
+        mesh                             = WorldItems/W_Vityaz_Visor,
+        texture                          = Clothes/Uniform2/Maska_1_Sets,
+        scale                            = 0.01,
+    }
+
+    model W_ZSH_Visor
+    {
+        mesh                             = WorldItems/W_ZSH_Visor,
+        texture                          = Clothes/Uniform2/Maska_1_Sets,
+        scale                            = 0.01,
+    }
+
+    model W_Vader_Helmet
+    {
+        mesh                             = WorldItems/W_Vader_Helmet,
+        texture                          = Clothes/Uniform/Vader_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_Bear_Mask
+    {
+        mesh                             = WorldItems/W_Bear_Mask,
+        texture                          = Clothes/Uniform2/Bear_Mask,
+        scale                            = 0.01,
+    }
+
+    model W_Officer_Hat
+    {
+        mesh                             = WorldItems/W_Officer_Hat,
+        texture                          = Clothes/Uniform2/Officer_Hat,
+        scale                            = 0.01,
+    }
+
+    model W_Police_Officer_Hat
+    {
+        mesh                             = WorldItems/W_Police_Officer_Hat,
+        texture                          = Clothes/Uniform2/Officer_Hat_8,
+        scale                            = 0.01,
+    }
+
+    model W_Ashe_Hat
+    {
+        mesh                             = WorldItems/W_Ashe_Hat,
+        texture                          = Clothes/Uniform2/Ashe_Hat_2,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_Tactical_Cap
+    {
+        mesh                             = WorldItems/W_Hat_Tactical_Cap,
+        texture                          = Clothes/Hat/Hat_Tactical_Cap_13,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_Tactical_Cap_Camo
+    {
+        mesh                             = WorldItems/W_Hat_Tactical_Cap,
+        texture                          = Clothes/Hat/Hat_Tactical_Cap_Camo_13,
+        scale                            = 0.01,
+    }
+
+    model W_Ashe_Necktie
+    {
+        mesh                             = WorldItems/W_Ashe_Necktie,
+        texture                          = Clothes/Uniform2/Ashe_Necktie,
+        scale                            = 0.01,
+    }
+
+    model W_Earing_Lisa
+    {
+        mesh                             = WorldItems/W_Earing_Lisa,
+        texture                          = Clothes/Earing_Lisa,
+        scale                            = 0.01,
+    }
+
+    model W_Choker_Maria
+    {
+        mesh                             = WorldItems/W_Choker_Maria,
+        texture                          = Clothes/Choker_Maria,
+        scale                            = 0.01,
+    }
+
+    model W_Hand_Band_Heather
+    {
+        mesh                             = WorldItems/W_Hand_Band_Heather,
+        texture                          = Clothes/Hand_Band_Heather,
+        scale                            = 0.01,
+    }
+
+    model W_Boots_Heather
+    {
+        mesh                             = WorldItems/W_Boots_Heather,
+        texture                          = Clothes/Boots_Heather,
+        scale                            = 0.01,
+    }
+
+    model W_Boots_Bennett
+    {
+        mesh                             = WorldItems/W_Boots_Heather,
+        texture                          = Clothes/Boots_Bennett,
+        scale                            = 0.01,
+    }
+
+    model W_Boots_James
+    {
+        mesh                             = WorldItems/W_Boots_Heather,
+        texture                          = Clothes/Boots_James,
+        scale                            = 0.01,
+    }
+
+    model W_Shoes_Lisa
+    {
+        mesh                             = WorldItems/W_Boots_Heather,
+        texture                          = Clothes/Shoes_Lisa,
+        scale                            = 0.01,
+    }
+
+    model W_Boots_Maria
+    {
+        mesh                             = WorldItems/W_Boots_Heather,
+        texture                          = Clothes/Boots_Maria,
+        scale                            = 0.01,
+    }
+
+    model W_Tac_Boots
+    {
+        mesh                             = WorldItems/W_Boots_Heather,
+        texture                          = Clothes/Tac_Boots,
+        scale                            = 0.01,
+    }
+
+    model W_Boots_Trackstar
+    {
+        mesh                             = WorldItems/W_Boots_Heather,
+        texture                          = Clothes/Boots_Trackstar,
+        scale                            = 0.01,
+    }
+
+    model W_Susie_Boots
+    {
+        mesh                             = WorldItems/W_Boots_Heather,
+        texture                          = Clothes/Susie_Boots_6,
+        scale                            = 0.01,
+    }
+
+    model W_USCM_Boots
+    {
+        mesh                             = WorldItems/W_USCM_Boots,
+        texture                          = Clothes/Uniform/USCM_Boots,
+        scale                            = 0.01,
+    }
+
+    model W_SET_Boots
+    {
+        mesh                             = WorldItems/W_USCM_Boots,
+        texture                          = Clothes/Uniform/SET_Boots_20,
+        scale                            = 0.01,
+    }
+
+    model W_Military_Gaiter
+    {
+        mesh                             = WorldItems/W_Military_Gaiter,
+        texture                          = Clothes/Uniform2/Military_Gaiter,
+        scale                            = 0.01,
+    }
+
+    model W_OZK_Gaiter
+    {
+        mesh                             = WorldItems/W_Military_Gaiter,
+        texture                          = Clothes/Uniform2/OZK_Gaiter,
+        scale                            = 0.01,
+    }
+
+    model W_Ashe_Boots
+    {
+        mesh                             = WorldItems/W_Ashe_Boots,
+        texture                          = Clothes/Uniform2/Ashe_Boots,
+        scale                            = 0.01,
+    }
+
+    model W_Mechanic_Boots
+    {
+        mesh                             = WorldItems/W_Mechanic_Boots,
+        texture                          = Clothes/Uniform2/Mechanic_Boots,
+        scale                            = 0.01,
+    }
+
+    model W_Chempak_Blauer
+    {
+        mesh                             = WorldItems/W_Chempak_Blauer,
+        texture                          = Clothes/Uniform/Chempak_Blauer,
+        scale                            = 0.01,
+    }
+
+    model W_Chempak_BRN
+    {
+        mesh                             = WorldItems/W_Chempak_BRN,
+        texture                          = Clothes/Uniform/Chempak_BRN_8,
+        scale                            = 0.01,
+    }
+
+    model W_Chempak_Tychem
+    {
+        mesh                             = WorldItems/W_Chempak_Tychem,
+        texture                          = Clothes/Uniform/Chempak_Tychem,
+        scale                            = 0.01,
+    }
+
+    model W_Chempak_Level
+    {
+        mesh                             = WorldItems/W_Chempak_Level,
+        texture                          = Clothes/Uniform/Chempak_Level,
+        scale                            = 0.01,
+    }
+
+    model W_Antibelok
+    {
+        mesh                             = WorldItems/W_Antibelok,
+        texture                          = Clothes/Uniform/Antibelok,
+        scale                            = 0.01,
+    }
+
+    model W_Antibelok_ON
+    {
+        mesh                             = WorldItems/W_Antibelok_ON,
+        texture                          = Clothes/Uniform/Antibelok_2,
+        scale                            = 0.01,
+    }
+
+    model W_Suit_Fisher
+    {
+        mesh                             = WorldItems/W_Suit_Fisher,
+        texture                          = Clothes/Uniform/Suit_Fisher,
+        scale                            = 0.01,
+    }
+
+    model W_Anorak_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform/Anorak_Pants_2,
+        scale                            = 0.01,
+    }
+
+    model W_M42_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform/M42_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_GEN2_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform/GEN2_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_Adidas_Track_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform/Adidas_Track_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_USCM_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform/USCM_Pants_4,
+        scale                            = 0.01,
+    }
+
+    model W_Kelvin_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform2/Kelvin_Pants_5,
+        scale                            = 0.01,
+    }
+
+    model W_Ela_Pants
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Ela_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_Pants_Yoga
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Pants_Yoga,
+        scale                            = 0.01,
+    }
+
+    model W_Leather_Pants_Bennett
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Leather_Pants_Bennett,
+        scale                            = 0.01,
+    }
+
+    model W_Jeans_James
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Jeans_James,
+        scale                            = 0.01,
+    }
+
+    model W_Jeans_Sebastian
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Jeans_Sebastian,
+        scale                            = 0.01,
+    }
+
+    model W_Jeans_Kidman
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Jeans_Kidman,
+        scale                            = 0.01,
+    }
+
+    model W_Ashe_Jeans
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Ashe_Jeans,
+        scale                            = 0.01,
+    }
+
+    model W_Hot_Pants
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Hot_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_Hot_Pants_Long
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Hot_Pants_Long,
+        scale                            = 0.01,
+    }
+
+    model W_Hot_Pants_High
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Hot_Pants_High,
+        scale                            = 0.01,
+    }
+
+    model W_Hot_Pants_Fold
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Hot_Pants_Fold,
+        scale                            = 0.01,
+    }
+
+    model W_Jeans_Slim
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Jeans_Slim,
+        scale                            = 0.01,
+    }
+
+    model W_Skirt_Nurse
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Skirt_Nurse,
+        scale                            = 0.01,
+    }
+
+    model W_Skirt_Office
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Skirt_Office,
+        scale                            = 0.01,
+    }
+
+    model W_Skirt_Office_Long
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Skirt_Office_Long,
+        scale                            = 0.01,
+    }
+
+    model W_Skirt_Heather
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Skirt_Heather,
+        scale                            = 0.01,
+    }
+
+    model W_Skirt_Lisa
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Skirt_Lisa,
+        scale                            = 0.01,
+    }
+
+    model W_Skirt_Maria
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Skirt_Maria,
+        scale                            = 0.01,
+    }
+
+    model W_Skirt_Check
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Skirt_Check,
+        scale                            = 0.01,
+    }
+
+    model W_Turtleneck
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Turtleneck,
+        scale                            = 0.01,
+    }
+
+    model W_Belly_Turtleneck
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Belly_Turtleneck,
+        scale                            = 0.01,
+    }
+
+    model W_S_Tank_Top
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/S_Tank_Top,
+        scale                            = 0.01,
+    }
+
+    model W_Y_Shirts
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Y_Shirts,
+        scale                            = 0.01,
+    }
+
+    model W_Y_Shirts_Long
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Y_Shirts_Long,
+        scale                            = 0.01,
+    }
+
+    model W_Office_Sweater
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Office_Sweater,
+        scale                            = 0.01,
+    }
+
+    model W_Office_Sweater_Long
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Office_Sweater_Long,
+        scale                            = 0.01,
+    }
+
+    model W_Sweater_Lisa
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Sweater_Lisa,
+        scale                            = 0.01,
+    }
+
+    model W_Shirts_Bennett
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Shirts_Bennett,
+        scale                            = 0.01,
+    }
+
+    model W_Shirts_James
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Shirts_James,
+        scale                            = 0.01,
+    }
+
+    model W_Leather_Vest_Harry
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Leather_Vest_Harry,
+        scale                            = 0.01,
+    }
+
+    model W_Shirts_Maria
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Shirts_Maria,
+        scale                            = 0.01,
+    }
+
+    model W_Shirts_Sebastian
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Shirts_Sebastian,
+        scale                            = 0.01,
+    }
+
+    model W_Shirts_Kidman
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Shirts_Kidman,
+        scale                            = 0.01,
+    }
+
+    model W_Cropped_Sweater
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Cropped_Sweater,
+        scale                            = 0.01,
+    }
+
+    model W_Susie_Stocking
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Susie_Stocking,
+        scale                            = 0.01,
+    }
+
+    model W_Wool_Stocking
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Wool_Stocking_3,
+        scale                            = 0.01,
+    }
+
+    model W_Wool_Stocking_Below
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Wool_Stocking_3,
+        scale                            = 0.01,
+    }
+
+    model W_Wool_Stocking_Mismatch
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Wool_Stocking_3,
+        scale                            = 0.01,
+    }
+
+    model W_Wool_Stocking_Half
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Wool_Stocking_3,
+        scale                            = 0.01,
+    }
+
+    model W_Wool_Stocking_Ripped
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Wool_Stocking_3,
+        scale                            = 0.01,
+    }
+
+    model W_Lace_Stocking
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Lace_Stocking_3,
+        scale                            = 0.01,
+    }
+
+    model W_Lace_Stocking_Mismatch
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Lace_Stocking_3,
+        scale                            = 0.01,
+    }
+
+    model W_Lace_Stocking_Half
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Lace_Stocking_3,
+        scale                            = 0.01,
+    }
+
+    model W_Casual_Stocking
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Casual_Stocking_2,
+        scale                            = 0.01,
+    }
+
+    model W_Casual_Stocking_Below
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Casual_Stocking_2,
+        scale                            = 0.01,
+    }
+
+    model W_Casual_Stocking_Mismatch
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Casual_Stocking_2,
+        scale                            = 0.01,
+    }
+
+    model W_Casual_Stocking_Half
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Casual_Stocking_2,
+        scale                            = 0.01,
+    }
+
+    model W_Casual_Stocking_Ripped
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Casual_Stocking_2,
+        scale                            = 0.01,
+    }
+
+    model W_Sweater_Stocking
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Sweater_Stocking_2,
+        scale                            = 0.01,
+    }
+
+    model W_Sweater_Stocking_Below
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Sweater_Stocking_2,
+        scale                            = 0.01,
+    }
+
+    model W_Sweater_Stocking_Half
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Sweater_Stocking_2,
+        scale                            = 0.01,
+    }
+
+    model W_Sweater_Stocking_Mismatch
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Sweater_Stocking_2,
+        scale                            = 0.01,
+    }
+
+    model W_Sweater_Stocking_Ripped
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Sweater_Stocking_2,
+        scale                            = 0.01,
+    }
+
+    model W_Stocking_Belt
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Stocking_Belt,
+        scale                            = 0.01,
+    }
+
+    model W_Stocking_String
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Stocking_String,
+        scale                            = 0.01,
+    }
+
+    model W_Nylon_Stocking
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Nylon_Stocking,
+        scale                            = 0.01,
+    }
+
+    model W_Wolf_Jacket
+    {
+        mesh                             = WorldItems/W_Wolf_Jacket,
+        texture                          = Clothes/Wolf_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Susie_Hood
+    {
+        mesh                             = WorldItems/W_Susie_Hood,
+        texture                          = Clothes/Susie_Hood,
+        scale                            = 0.01,
+    }
+
+    model W_Tactical_Hood
+    {
+        mesh                             = WorldItems/W_Susie_Hood,
+        texture                          = Clothes/Uniform/Tactical_Hood_11,
+        scale                            = 0.01,
+    }
+
+    model W_Kawaii_Hood
+    {
+        mesh                             = WorldItems/W_Susie_Hood,
+        texture                          = Clothes/Uniform/Kawaii_Hood,
+        scale                            = 0.01,
+    }
+
+    model W_BARS_Hoodie
+    {
+        mesh                             = WorldItems/W_BARS_Hoodie,
+        texture                          = Clothes/Uniform/BARS_Hoodie_35,
+        scale                            = 0.01,
+    }
+
+    model W_Gorka6_Hoodie
+    {
+        mesh                             = WorldItems/W_BARS_Hoodie,
+        texture                          = Clothes/Uniform/Gorka6_Hoodie_27,
+        scale                            = 0.01,
+    }
+
+    model W_M65_Jacket
+    {
+        mesh                             = WorldItems/W_BARS_Hoodie,
+        texture                          = Clothes/Uniform/M65_Jacket_21,
+        scale                            = 0.01,
+    }
+
+    model W_Suit_Wick
+    {
+        mesh                             = WorldItems/W_Suit_Wick,
+        texture                          = Clothes/Uniform/Suit_Wick,
+        scale                            = 0.01,
+    }
+
+    model W_Suit_Army
+    {
+        mesh                             = WorldItems/W_Suit_Wick,
+        texture                          = Clothes/Uniform/Suit_Army_3,
+        scale                            = 0.01,
+    }
+
+    model W_Suit_Stew
+    {
+        mesh                             = WorldItems/W_Suit_Stew,
+        texture                          = Clothes/Uniform/Suit_Stew,
+        scale                            = 0.01,
+    }
+
+    model W_Coat_Long
+    {
+        mesh                             = WorldItems/W_Coat_Long,
+        texture                          = Clothes/Uniform/Coat_Long,
+        scale                            = 0.01,
+    }
+
+    model W_Military_Coat_Long
+    {
+        mesh                             = WorldItems/W_Coat_Long,
+        texture                          = Clothes/Uniform/Military_Coat_Long_17,
+        scale                            = 0.01,
+    }
+
+    model W_Jacket_Bomber
+    {
+        mesh                             = WorldItems/W_Jacket_Bomber,
+        texture                          = Clothes/Uniform/Jacket_Bomber,
+        scale                            = 0.01,
+    }
+
+    model W_Jacket_Polizei
+    {
+        mesh                             = WorldItems/W_Jacket_Polizei,
+        texture                          = Clothes/Uniform/Jacket_Polizei,
+        scale                            = 0.01,
+    }
+
+    model W_Ashe_Jacket
+    {
+        mesh                             = WorldItems/W_Ashe_Jacket,
+        texture                          = Clothes/Uniform/Ashe_Jacket_2,
+        scale                            = 0.01,
+    }
+
+    model W_ELA_Bomber
+    {
+        mesh                             = WorldItems/W_ELA_Bomber,
+        texture                          = Clothes/Uniform/ELA_Bomber,
+        scale                            = 0.01,
+    }
+
+    model W_Heather_Bomber
+    {
+        mesh                             = WorldItems/W_Heather_Bomber,
+        texture                          = Clothes/Uniform/Heather_Bomber,
+        scale                            = 0.01,
+    }
+
+    model W_School_Cardigan
+    {
+        mesh                             = WorldItems/W_School_Cardigan,
+        texture                          = Clothes/Uniform/School_Cardigan,
+        scale                            = 0.01,
+    }
+
+    model W_School_Cardigan_Long
+    {
+        mesh                             = WorldItems/W_School_Cardigan_Long,
+        texture                          = Clothes/Uniform/School_Cardigan_Long,
+        scale                            = 0.01,
+    }
+
+    model W_Dress_Cardigan
+    {
+        mesh                             = WorldItems/W_Dress_Cardigan,
+        texture                          = Clothes/Uniform/Dress_Cardigan,
+        scale                            = 0.01,
+    }
+
+    model W_Cardigan_Short
+    {
+        mesh                             = WorldItems/W_Cardigan_Short,
+        texture                          = Clothes/Uniform/Cardigan_Short,
+        scale                            = 0.01,
+    }
+
+    model W_ANA_Shirts
+    {
+        mesh                             = WorldItems/W_ANA_Shirts,
+        texture                          = Clothes/Uniform/ANA_Shirts,
+        scale                            = 0.01,
+    }
+
+    model W_ANA_Hood
+    {
+        mesh                             = WorldItems/W_ANA_Hood,
+        texture                          = Clothes/Uniform/ANA_Hood,
+        scale                            = 0.01,
+    }
+
+    model W_ANA_Classic
+    {
+        mesh                             = WorldItems/W_ANA_Classic,
+        texture                          = Clothes/Uniform/ANA_Classic,
+        scale                            = 0.01,
+    }
+
+    model W_Officer_Overcoat
+    {
+        mesh                             = WorldItems/W_Officer_Overcoat,
+        texture                          = Clothes/Uniform/Officer_Overcoat,
+        scale                            = 0.01,
+    }
+
+    model W_USCM_Jacket
+    {
+        mesh                             = WorldItems/W_ANA_Shirts,
+        texture                          = Clothes/Uniform/USCM_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Viking_Fire_Jacket
+    {
+        mesh                             = WorldItems/W_ELA_Bomber,
+        texture                          = Clothes/Uniform2/Viking_Fire_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Adidas_Pad_Jacket
+    {
+        mesh                             = WorldItems/W_ELA_Bomber,
+        texture                          = Clothes/Uniform2/Adidas_Pad_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Gunsmith_Jacket
+    {
+        mesh                             = WorldItems/W_Jacket_Bomber,
+        texture                          = Clothes/Uniform2/Gunsmith_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Police_Waterproof_Jacket
+    {
+        mesh                             = WorldItems/W_Jacket_Polizei,
+        texture                          = Clothes/Uniform2/Police_Waterproof_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Kawasaki_Jacket
+    {
+        mesh                             = WorldItems/W_Jacket_Bomber,
+        texture                          = Clothes/Uniform2/Kawasaki_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Paramedic_Jacket
+    {
+        mesh                             = WorldItems/W_Jacket_Polizei,
+        texture                          = Clothes/Uniform2/Paramedic_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Coast_Jacket
+    {
+        mesh                             = WorldItems/W_ELA_Bomber,
+        texture                          = Clothes/Uniform2/Coast_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Kelvin_Jacket
+    {
+        mesh                             = WorldItems/W_ELA_Bomber,
+        texture                          = Clothes/Uniform2/Kelvin_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Check_Shirts
+    {
+        mesh                             = WorldItems/W_ANA_Classic,
+        texture                          = Clothes/Uniform2/Check_Shirts,
+        scale                            = 0.01,
+    }
+
+    model W_Tac_Check_Shirts
+    {
+        mesh                             = WorldItems/W_ANA_Classic,
+        texture                          = Clothes/Uniform2/Tac_Check_Shirts,
+        scale                            = 0.01,
+    }
+
+    model W_Leather_Jacket_Bennett
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Leather_Jacket_Bennett,
+        scale                            = 0.01,
+    }
+
+    model W_Trench_Coat_Sebastian
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Trench_Coat_Sebastian,
+        scale                            = 0.01,
+    }
+
+    model W_Field_Jacket
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Field_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Leather_Jacket_Harry
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Leather_Jacket_Harry,
+        scale                            = 0.01,
+    }
+
+    model W_Winter_Jacket_Heavy
+    {
+        mesh                             = WorldItems/W_Winter_Jacket_Heavy,
+        texture                          = Clothes/Uniform2/Winter_Jacket_Heavy,
+        scale                            = 0.01,
+    }
+
+    model W_Winter_Jacket_Camo_Heavy
+    {
+        mesh                             = WorldItems/W_Winter_Jacket_Heavy,
+        texture                          = Clothes/Uniform2/Winter_Jacket_Camo_Heavy,
+        scale                            = 0.01,
+    }
+
+    model W_Wattson_Jacket
+    {
+        mesh                             = WorldItems/W_Wattson_Jacket,
+        texture                          = Clothes/Uniform2/Wattson_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Fur_Jacket
+    {
+        mesh                             = WorldItems/W_Fur_Jacket,
+        texture                          = Clothes/Uniform2/Fur_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Pants_Adidas
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Pants_Adidas,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_FAST_Opscore
+    {
+        mesh                             = WorldItems/W_Hat_FAST_Opscore,
+        texture                          = Clothes/Hat/Hat_Opscore_FAST,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_PSGT_Helmet
+    {
+        mesh                             = WorldItems/W_Hat_PSGT_Helmet,
+        texture                          = Clothes/Hat/Hat_PSGT_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_PSGT_Helmet_Camo
+    {
+        mesh                             = WorldItems/W_Hat_PSGT_Helmet_Camo,
+        texture                          = Clothes/Hat/Hat_PSGT_Helmet_Camo,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_PSGT_Visor
+    {
+        mesh                             = WorldItems/W_Hat_PSGT_Visor,
+        texture                          = Clothes/Hat/Hat_PSGT_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_Riot_Visor
+    {
+        mesh                             = WorldItems/W_Hat_Riot_Visor,
+        texture                          = Clothes/Hat/Hat_PSGT_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_Gentex_Helmet
+    {
+        mesh                             = WorldItems/W_Hat_Gentex_Helmet,
+        texture                          = Clothes/Hat/Hat_Gentex_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_HGU56
+    {
+        mesh                             = WorldItems/W_Hat_HGU56,
+        texture                          = Clothes/Hat/Hat_HGU56,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_HGU56_Shield
+    {
+        mesh                             = WorldItems/W_Hat_HGU56_Shield,
+        texture                          = Clothes/Hat/Hat_HGU56_4,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_MX_Helmet
+    {
+        mesh                             = WorldItems/W_Hat_MX_Helmet,
+        texture                          = Clothes/Hat/Hat_MX_Helmet_3,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_Tactical_Boonie
+    {
+        mesh                             = WorldItems/W_Hat_Tactical_Boonie,
+        texture                          = Clothes/Hat/Hat_Tactical_Boonie,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_Tactical_Boonie_Fold
+    {
+        mesh                             = WorldItems/W_Hat_Tactical_Boonie,
+        texture                          = Clothes/Hat/Hat_Tactical_Boonie_Fold,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_Patrol_Cap
+    {
+        mesh                             = WorldItems/W_Hat_Patrol_Cap,
+        texture                          = Clothes/Hat/Hat_Patrol_Cap,
+        scale                            = 0.01,
+    }
+
+    model W_Hat_Tactical_Beret
+    {
+        mesh                             = WorldItems/W_Hat_Tactical_Beret,
+        texture                          = Clothes/Hat/Hat_Tactical_Beret,
+        scale                            = 0.01,
+    }
+
+    model W_GM15_Gasmask
+    {
+        mesh                             = WorldItems/W_GM15_Gasmask,
+        texture                          = Clothes/Uniform2/GM15_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_GM17_Gasmask
+    {
+        mesh                             = WorldItems/W_GM17_Gasmask,
+        texture                          = Clothes/Uniform2/GM17_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_GM15_Canister
+    {
+        mesh                             = WorldItems/W_GM15_Canister,
+        texture                          = Clothes/Uniform2/GM15_Canister_2,
+        scale                            = 0.01,
+    }
+
+    model W_Trench_Ammo_Pack
+    {
+        mesh                             = WorldItems/W_Trench_Ammo_Pack,
+        texture                          = Clothes/Uniform2/Trench_Gear,
+        scale                            = 0.01,
+    }
+
+    model W_Trench_Grenade_Pack
+    {
+        mesh                             = WorldItems/W_Trench_Grenade_Pack,
+        texture                          = Clothes/Uniform2/Trench_Gear,
+        scale                            = 0.01,
+    }
+
+    model W_Trench_Tornister
+    {
+        mesh                             = WorldItems/W_Trench_Tornister,
+        texture                          = Clothes/Uniform2/Trench_Gear,
+        scale                            = 0.01,
+    }
+
+    model W_1916_Helmet
+    {
+        mesh                             = WorldItems/W_1916_Helmet,
+        texture                          = Clothes/Uniform2/1916_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_1916_Helmet_ON
+    {
+        mesh                             = WorldItems/W_1916_Helmet_ON,
+        texture                          = Clothes/Uniform2/1916_Helmet_2,
+        scale                            = 0.01,
+    }
+
+    model W_1916_Helmet_Visor
+    {
+        mesh                             = WorldItems/W_1916_Helmet_Visor,
+        texture                          = Clothes/Uniform2/1916_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_1916_Helmet_Visor_2
+    {
+        mesh                             = WorldItems/W_1916_Helmet_Visor_2,
+        texture                          = Clothes/Uniform2/1916_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_ELA_Cap
+    {
+        mesh                             = WorldItems/W_Hat_Tactical_Cap,
+        texture                          = Clothes/Uniform2/ELA_Cap_2,
+        scale                            = 0.01,
+    }
+
+    model W_ELA_Goggles
+    {
+        mesh                             = WorldItems/W_ELA_Goggles,
+        texture                          = Clothes/Uniform2/ELA_Goggles,
+        scale                            = 0.01,
+    }
+
+    model W_Baker_Tent
+    {
+        mesh                             = WorldItems/W_Baker_Tent,
+        texture                          = Clothes/Uniform2/Baker_Tent,
+        scale                            = 0.01,
+    }
+
+    model W_Baker_Tent_2
+    {
+        mesh                             = WorldItems/W_Baker_Tent,
+        texture                          = Clothes/Uniform2/Baker_Tent_2,
+        scale                            = 0.01,
+    }
+
+    model W_Baker_Tent_3
+    {
+        mesh                             = WorldItems/W_Baker_Tent,
+        texture                          = Clothes/Uniform2/Baker_Tent_3,
+        scale                            = 0.01,
+    }
+
+    model W_Baker_Tent_4
+    {
+        mesh                             = WorldItems/W_Baker_Tent,
+        texture                          = Clothes/Uniform2/Baker_Tent_4,
+        scale                            = 0.01,
+    }
+
+    model W_Baker_Tent_5
+    {
+        mesh                             = WorldItems/W_Baker_Tent,
+        texture                          = Clothes/Uniform2/Baker_Tent_5,
+        scale                            = 0.01,
+    }
+
+    model W_Baker_Tent_6
+    {
+        mesh                             = WorldItems/W_Baker_Tent,
+        texture                          = Clothes/Uniform2/Baker_Tent_6,
+        scale                            = 0.01,
+    }
+
+    model W_EOD_Jacket
+    {
+        mesh                             = WorldItems/W_EOD_Jacket,
+        texture                          = Clothes/Uniform2/EOD_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_EOD_Pants
+    {
+        mesh                             = WorldItems/W_EOD_Pants,
+        texture                          = Clothes/Uniform2/EOD_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_EOD_Armor
+    {
+        mesh                             = WorldItems/W_EOD_Armor,
+        texture                          = Clothes/Uniform2/EOD_Armor,
+        scale                            = 0.01,
+    }
+
+    model W_EOD_Helmet
+    {
+        mesh                             = WorldItems/W_EOD_Helmet,
+        texture                          = Clothes/Uniform2/EOD_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_EOD_Shield
+    {
+        mesh                             = WorldItems/W_EOD_Shield,
+        texture                          = Clothes/Uniform2/EOD_Shield,
+        scale                            = 0.01,
+    }
+
+    model W_EOD_Visor
+    {
+        mesh                             = WorldItems/W_EOD_Visor,
+        texture                          = Clothes/Uniform2/EOD_Helmet,
+        scale                            = 0.01,
+    }
+
+    model W_Scarf_Mask
+    {
+        mesh                             = WorldItems/W_Scarf_Mask,
+        texture                          = Clothes/Uniform2/Scarf_Mask,
+        scale                            = 0.01,
+    }
+
+    model W_Scarf_Mask_Camo
+    {
+        mesh                             = WorldItems/W_Scarf_Mask,
+        texture                          = Clothes/Uniform2/Scarf_Mask_Camo,
+        scale                            = 0.01,
+    }
+
+    model W_Scarf_Mask_Hunting
+    {
+        mesh                             = WorldItems/W_Scarf_Mask,
+        texture                          = Clothes/Uniform2/Scarf_Mask_Hunting,
+        scale                            = 0.01,
+    }
+
+    model W_Scarf_Mask_Casual
+    {
+        mesh                             = WorldItems/W_Scarf_Mask,
+        texture                          = Clothes/Uniform2/Scarf_Mask_Casual,
+        scale                            = 0.01,
+    }
+
+    model W_Scarf_Mask_Ashe
+    {
+        mesh                             = WorldItems/W_Scarf_Mask,
+        texture                          = Clothes/Uniform2/Scarf_Mask_Ashe,
+        scale                            = 0.01,
+    }
+
+    model W_JUGG_Armor
+    {
+        mesh                             = WorldItems/W_JUGG_Armor,
+        texture                          = Clothes/Uniform2/JUGG_Armor,
+        scale                            = 0.01,
+    }
+
+    model W_JUGG_Pants
+    {
+        mesh                             = WorldItems/W_JUGG_Pants,
+        texture                          = Clothes/Uniform2/JUGG_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_JUGG_Jacket
+    {
+        mesh                             = WorldItems/W_JUGG_Jacket,
+        texture                          = Clothes/Uniform2/JUGG_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_JUGG_Visor
+    {
+        mesh                             = WorldItems/W_JUGG_Visor,
+        texture                          = Clothes/Uniform2/JUGG_Visor,
+        scale                            = 0.01,
+    }
+
+    model W_Rose_Jacket
+    {
+        mesh                             = WorldItems/W_Rose_Jacket,
+        texture                          = Clothes/Uniform2/Rose_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Rose_Jeans
+    {
+        mesh                             = WorldItems/W_Rose_Jeans,
+        texture                          = Clothes/Uniform2/Rose_Jeans,
+        scale                            = 0.01,
+    }
+
+    model W_Rose_Cap
+    {
+        mesh                             = WorldItems/W_Rose_Cap,
+        texture                          = Clothes/Uniform2/Rose_Cap,
+        scale                            = 0.008,
+    }
+
+    model W_Round_Cap_Police
+    {
+        mesh                             = WorldItems/W_Rose_Cap,
+        texture                          = Clothes/Uniform2/Round_Cap_Police,
+        scale                            = 0.008,
+    }
+
+    model W_Hunter_Mask
+    {
+        mesh                             = WorldItems/W_Hunter_Mask,
+        texture                          = Clothes/Uniform2/Hunter_Mask_2,
+        scale                            = 0.01,
+    }
+
+    model W_Hunter_Arm
+    {
+        mesh                             = WorldItems/W_Hunter_Arm,
+        texture                          = Clothes/Uniform2/Hunter_Arm,
+        scale                            = 0.01,
+    }
+
+    model W_Hunter_Leg
+    {
+        mesh                             = WorldItems/W_Hunter_Leg,
+        texture                          = Clothes/Uniform2/Hunter_Leg,
+        scale                            = 0.01,
+    }
+
+    model W_Hunter_Knee
+    {
+        mesh                             = WorldItems/W_Hunter_Knee,
+        texture                          = Clothes/Uniform2/Hunter_Knee,
+        scale                            = 0.01,
+    }
+
+    model W_Hunter_Jacket
+    {
+        mesh                             = WorldItems/W_Rose_Jacket,
+        texture                          = Clothes/Uniform2/Hunter_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Hunter_Knife
+    {
+        mesh                             = WorldItems/W_Hunter_Knife,
+        texture                          = Clothes/Uniform2/Hunter_Knife,
+        scale                            = 0.015,
+    }
+
+    model W_Hunter_Armor
+    {
+        mesh                             = WorldItems/W_Hunter_Armor,
+        texture                          = Clothes/Uniform2/Hunter_Armor,
+        scale                            = 0.012,
+    }
+
+    model W_Hunter_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform2/Hunter_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_Hunter_Backpack
+    {
+        mesh                             = WorldItems/W_Hunter_Backpack,
+        texture                          = Clothes/Uniform2/Hunter_Backpack,
+        scale                            = 0.012,
+    }
+
+    model W_Nurse_Dress
+    {
+        mesh                             = WorldItems/W_Nurse_Dress,
+        texture                          = Clothes/Uniform2/Nurse_Dress_2,
+        scale                            = 0.01,
+    }
+
+    model W_Nurse_Shoes
+    {
+        mesh                             = WorldItems/W_Nurse_Shoes,
+        texture                          = Clothes/Uniform2/Nurse_Dress,
+        scale                            = 0.01,
+    }
+
+    model W_Metro_Gasmask
+    {
+        mesh                             = WorldItems/W_Metro_Gasmask,
+        texture                          = Clothes/Uniform2/Metro_Gasmask,
+        scale                            = 0.01,
+    }
+
+    model W_Metro_IDA
+    {
+        mesh                             = WorldItems/W_Metro_IDA,
+        texture                          = Clothes/Uniform2/Metro_IDA,
+        scale                            = 0.01,
+    }
+
+    model W_Metro_Knee
+    {
+        mesh                             = WorldItems/W_Metro_Knee,
+        texture                          = Clothes/Uniform2/Metro_Knee,
+        scale                            = 0.01,
+    }
+
+    model W_Metro_Coat
+    {
+        mesh                             = WorldItems/W_Metro_Coat,
+        texture                          = Clothes/Uniform2/Metro_Coat,
+        scale                            = 0.01,
+    }
+
+    model W_Metro_Jacket
+    {
+        mesh                             = WorldItems/W_Metro_Jacket,
+        texture                          = Clothes/Uniform2/Metro_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Metro_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform2/Metro_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_Metro_Bag
+    {
+        mesh                             = WorldItems/W_Metro_Bag,
+        texture                          = Clothes/Uniform2/Metro_Bag,
+        scale                            = 0.01,
+    }
+
+    model W_Metro_Bandolier
+    {
+        mesh                             = WorldItems/W_Metro_Bandolier,
+        texture                          = Clothes/Uniform2/Metro_Bag,
+        scale                            = 0.01,
+    }
+
+    model W_Sniper_Veil
+    {
+        mesh                             = WorldItems/W_Sniper_Veil,
+        texture                          = Clothes/Uniform2/Sniper_Veil,
+        scale                            = 0.01,
+    }
+
+    model W_Chain_Mask
+    {
+        mesh                             = WorldItems/W_Chain_Mask,
+        texture                          = Clothes/Uniform2/Chain_Mask,
+        scale                            = 0.01,
+    }
+
+    model W_Chain_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform2/Chain_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_Chain_Coat
+    {
+        mesh                             = WorldItems/W_Metro_Coat,
+        texture                          = Clothes/Uniform2/Chain_Coat,
+        scale                            = 0.01,
+    }
+
+    model W_Man_Field_Shirts
+    {
+        mesh                             = WorldItems/W_Man_Shirts,
+        texture                          = Clothes/Uniform2/Man_Field_Shirts,
+        scale                            = 0.01,
+    }
+
+    model W_Man_Check_Shirts
+    {
+        mesh                             = WorldItems/W_Man_Shirts,
+        texture                          = Clothes/Uniform2/Man_Check_Shirts,
+        scale                            = 0.01,
+    }
+
+    model W_Man_Adidas_Shirts
+    {
+        mesh                             = WorldItems/W_Man_Shirts,
+        texture                          = Clothes/Uniform2/Man_Adidas_Shirts,
+        scale                            = 0.01,
+    }
+
+    model W_Rose_Shoes
+    {
+        mesh                             = WorldItems/W_Boots_Heather,
+        texture                          = Clothes/Uniform2/Rose_Shoes,
+        scale                            = 0.01,
+    }
+
+    model W_Metro_Boots
+    {
+        mesh                             = WorldItems/W_Metro_Boots,
+        texture                          = Clothes/Uniform2/Metro_Boots,
+        scale                            = 0.01,
+    }
+
+    model W_Worn_Beanie
+    {
+        mesh                             = WorldItems/W_Worn_Beanie,
+        texture                          = Clothes/Uniform2/Worn_Beanie,
+        scale                            = 0.01,
+    }
+
+    model W_Man_Neck_Shirts
+    {
+        mesh                             = WorldItems/W_Man_Neck_Shirts,
+        texture                          = Clothes/Uniform2/Man_Neck_Shirts,
+        scale                            = 0.01,
+    }
+
+    model W_Man_Neck_Hoodie
+    {
+        mesh                             = WorldItems/W_Man_Neck_Shirts,
+        texture                          = Clothes/Uniform2/Man_Neck_Hoodie,
+        scale                            = 0.01,
+    }
+
+    model W_Knit_Dress
+    {
+        mesh                             = WorldItems/W_Knit_Dress,
+        texture                          = Clothes/Uniform2/Knit_Dress,
+        scale                            = 0.01,
+    }
+
+    model W_Off_Dress
+    {
+        mesh                             = WorldItems/W_Off_Dress,
+        texture                          = Clothes/Uniform2/Off_Dress,
+        scale                            = 0.01,
+    }
+
+    model W_Cut_Dress
+    {
+        mesh                             = WorldItems/W_Cut_Dress,
+        texture                          = Clothes/Uniform2/Cut_Dress,
+        scale                            = 0.01,
+    }
+
+    model W_Bandit_Coat
+    {
+        mesh                             = WorldItems/W_Bandit_Coat,
+        texture                          = Clothes/Uniform2/Bandit_Coat,
+        scale                            = 0.009,
+    }
+
+    model W_Bandit_Jacket
+    {
+        mesh                             = WorldItems/W_Bandit_Jacket,
+        texture                          = Clothes/Uniform2/Bandit_Jacket,
+        scale                            = 0.009,
+    }
+
+    model W_BR_Skirts
+    {
+        mesh                             = WorldItems/W_BR_Skirts,
+        texture                          = Clothes/Uniform2/BR_Skirts,
+        scale                            = 0.01,
+    }
+
+    model W_BR_Skirts_Long
+    {
+        mesh                             = WorldItems/W_BR_Skirts_Long,
+        texture                          = Clothes/Uniform2/BR_Skirts_2,
+        scale                            = 0.01,
+    }
+
+    model W_Pencil_Skirts
+    {
+        mesh                             = WorldItems/W_Pencil_Skirts,
+        texture                          = Clothes/Uniform2/Pencil_Skirts,
+        scale                            = 0.01,
+    }
+
+    model W_Pencil_Skirts_Long
+    {
+        mesh                             = WorldItems/W_Pencil_Skirts_Long,
+        texture                          = Clothes/Uniform2/Pencil_Skirts_2,
+        scale                            = 0.01,
+    }
+
+    model W_Skirts_SC
+    {
+        mesh                             = WorldItems/W_Skirts_SC,
+        texture                          = Clothes/Uniform2/Skirts_SC,
+        scale                            = 0.01,
+    }
+
+    model W_Skirts_SC_Long
+    {
+        mesh                             = WorldItems/W_Skirts_SC_Long,
+        texture                          = Clothes/Uniform2/Skirts_SC_2,
+        scale                            = 0.01,
+    }
+
+    model W_Skirts_Side
+    {
+        mesh                             = WorldItems/W_Skirts_Side,
+        texture                          = Clothes/Uniform2/Skirts_Side,
+        scale                            = 0.01,
+    }
+
+    model W_Skirts_Side_Long
+    {
+        mesh                             = WorldItems/W_Skirts_Side_Long,
+        texture                          = Clothes/Uniform2/Skirts_Side_2,
+        scale                            = 0.01,
+    }
+
+    model W_Lined_Tights
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Lined_Tights,
+        scale                            = 0.01,
+    }
+
+    model W_Sweater_Tights
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Sweater_Tights,
+        scale                            = 0.01,
+    }
+
+    model W_Ripped_Tights
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Ripped_Tights,
+        scale                            = 0.01,
+    }
+
+    model W_Formal_Shirts
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Formal_Shirts,
+        scale                            = 0.01,
+    }
+
+    model W_Sports_Bra
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Sports_Bra,
+        scale                            = 0.01,
+    }
+
+    model W_Calvin_Bra
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Calvin_Bra,
+        scale                            = 0.01,
+    }
+
+    model W_Calvin_Panties
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Calvin_Panties,
+        scale                            = 0.01,
+    }
+
+    model W_Round_Cap_Fisher
+    {
+        mesh                             = WorldItems/W_Rose_Cap,
+        texture                          = Clothes/Uniform2/Round_Cap_Fisher,
+        scale                            = 0.008,
+    }
+
+    model W_Round_Cap_Casual
+    {
+        mesh                             = WorldItems/W_Rose_Cap,
+        texture                          = Clothes/Uniform2/Round_Cap_Casual_8,
+        scale                            = 0.008,
+    }
+
+    model W_Brig_Shirts
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Brig_Shirts,
+        scale                            = 0.01,
+    }
+
+    model W_Messkit
+    {
+        mesh                             = WorldItems/W_Messkit,
+        texture                          = Clothes/Uniform2/Messkit,
+        scale                            = 0.012,
+    }
+
+    model W_Messkit_B
+    {
+        mesh                             = WorldItems/W_Messkit_B,
+        texture                          = Clothes/Uniform2/Messkit_2,
+        scale                            = 0.012,
+    }
+
+    model W_Ring_Bra
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Ring_Bra,
+        scale                            = 0.01,
+    }
+
+    model W_BR_Bunny_Suit
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/BR_Bunny_Suit,
+        scale                            = 0.01,
+    }
+
+    model W_Pilot_Sunglass
+    {
+        mesh                             = WorldItems/W_Pilot_Sunglass,
+        texture                          = Clothes/Uniform2/Pilot_Sunglass,
+        scale                            = 0.01,
+    }
+
+    model W_Nylon_Stocking_Ripped
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Nylon_Stocking_Ripped,
+        scale                            = 0.01,
+    }
+
+    model W_Shooting_Shirts
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Shooting_Shirts,
+        scale                            = 0.01,
+    }
+
+    model W_Arm_Warmer
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Arm_Warmer,
+        scale                            = 0.01,
+    }
+
+    model W_Glove_3M
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Glove_3M,
+        scale                            = 0.01,
+    }
+
+    model W_Glove_Mechanix
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Glove_Mechanix,
+        scale                            = 0.01,
+    }
+
+    model W_Glove_Mechanix_Pact
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Glove_Mechanix_Pact,
+        scale                            = 0.01,
+    }
+
+    model W_NV_GPNVG_18
+    {
+        mesh                             = WorldItems/W_NV_GPNVG_18,
+        texture                          = Clothes/Uniform2/GPNVG_18,
+        scale                            = 0.01,
+    }
+
+    model W_Multi_Carrier_Wood
+    {
+        mesh                             = WorldItems/W_Multi_Carrier_A,
+        texture                          = Clothes/Uniform2/Multi_Carrier_Wood,
+        scale                            = 0.017,
+    }
+
+    model W_Multi_Carrier_Ammo
+    {
+        mesh                             = WorldItems/W_Multi_Carrier_B,
+        texture                          = Clothes/Uniform2/Multi_Carrier_Ammo,
+        scale                            = 0.017,
+    }
+
+    model W_Multi_Carrier_Carl
+    {
+        mesh                             = WorldItems/W_Multi_Carrier_C,
+        texture                          = Clothes/Uniform2/Multi_Carrier_Carl,
+        scale                            = 0.017,
+    }
+
+    model W_Multi_Carrier_Food
+    {
+        mesh                             = WorldItems/W_Multi_Carrier_D,
+        texture                          = Clothes/Uniform2/Multi_Carrier_Food,
+        scale                            = 0.017,
+    }
+
+    model W_Gorka5_Jacket
+    {
+        mesh                             = WorldItems/W_Rose_Jacket,
+        texture                          = Clothes/Uniform2/Gorka5_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Huntrite_Jacket
+    {
+        mesh                             = WorldItems/W_Rose_Jacket,
+        texture                          = Clothes/Uniform2/Huntrite_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_TEC_Jacket
+    {
+        mesh                             = WorldItems/W_Rose_Jacket,
+        texture                          = Clothes/Uniform2/TEC_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_Chara_Jacket
+    {
+        mesh                             = WorldItems/W_Rose_Jacket,
+        texture                          = Clothes/Uniform2/Chara_Jacket,
+        scale                            = 0.01,
+    }
+
+    model W_G3_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform2/G3_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_511_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform2/511_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_Fast_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform2/Fast_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_Flex_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform2/Flex_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_Check_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform2/Check_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_Cargo_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform2/Cargo_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_MIL_Pants
+    {
+        mesh                             = WorldItems/W_Anorak_Pants,
+        texture                          = Clothes/Uniform2/MIL_Pants,
+        scale                            = 0.01,
+    }
+
+    model W_Black_Long_Shirts
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Black_Long_Shirts,
+        scale                            = 0.01,
+    }
+
+    model W_Glove_Fisher
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Glove_Fisher,
+        scale                            = 0.01,
+    }
+
+    model W_Glove_Leather
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Glove_Leather,
+        scale                            = 0.01,
+    }
+
+    model W_Glove_Mustang
+    {
+        mesh                             = WorldItems/W_Female_Body,
+        texture                          = Clothes/Uniform2/Glove_Mustang,
+        scale                            = 0.01,
+    }
+
+    model W_Fisher_Rope
+    {
+        mesh                             = WorldItems/W_Fisher_Rope,
+        texture                          = Clothes/Uniform2/Fisher_Rope,
+        scale                            = 0.01,
+    }
+
+    model W_Self_Rope
+    {
+        mesh                             = WorldItems/W_Fisher_Rope,
+        texture                          = Clothes/Uniform2/Self_Rope,
+        scale                            = 0.008,
+    }
+}

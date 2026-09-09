@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Bandana_Mask</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Bandana_Mask</m_FemaleModel>
+	<m_GUID>c8c0f361-0a57-48c1-ab97-a9293f485a11</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Mask\Bandana_Mask</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_2</textureChoices>			
+	<textureChoices>clothes\Mask\Bandana_Mask_3</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_4</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_5</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_6</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_7</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_8</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_9</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_10</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_11</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_12</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_13</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_14</textureChoices>		
+	<textureChoices>clothes\Mask\Bandana_Mask_15</textureChoices>			
+</clothingItem>

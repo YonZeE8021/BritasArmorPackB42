@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Round_Cap</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Round_Cap</m_FemaleModel>
+	<m_GUID>68672241-547e-4f9a-9d39-7653db377506</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>Group01</m_HatCategory>	
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual</textureChoices>
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_8</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_9</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_10</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_11</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_12</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_13</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_14</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_15</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_16</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_17</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_18</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_19</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_20</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_21</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_22</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_23</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_24</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_25</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_26</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_27</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_28</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_29</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_30</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_31</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_32</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_33</textureChoices>	
+	<textureChoices>clothes\Uniform2\Round_Cap_Casual_34</textureChoices>		
+</clothingItem>

@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "Batterijsysteem inschakelen",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Indien uitgeschakeld vereisen Night Vision Framework-items geen geinstalleerde batterij meer, worden de opties voor batterij plaatsen en verwijderen verborgen en verbruiken actieve brillen geen lading.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Batterijduur-multiplicator",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Schaalt hoe lang geinstalleerde NV-batterijen meegaan. 1.0 = standaard, 10.0 = tien keer langer, 0.5 = halve duur.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "NV-item spawn-multiplicator",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Schaalt de procedurele spawn-gewichten van het framework voor het voorbeeld-nachtzichtitem. 1.0 = standaard, 2.0 = dubbel gewicht, 0.0 = geen door het framework toegevoegde spawns.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Gebruik lichtkegel in singleplayer",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Indien ingeschakeld gebruikt singleplayer de gekoppelde helper voor gerichte lichtkegels. Indien uitgeschakeld gebruikt singleplayer in plaats daarvan de op lantaarnpalen gebaseerde lichtversie.",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

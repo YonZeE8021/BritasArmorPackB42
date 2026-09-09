@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Metro_Coat</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Metro_Coat</m_FemaleModel>
+	<m_GUID>2ade4e24-0a0f-41a7-9515-e8a5c372fd4b</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\Metro_Coat</textureChoices>		
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>			
+</clothingItem>

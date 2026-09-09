@@ -1,0 +1,53 @@
+VERSION = 1,
+
+option BritasArmorPackB42.EnableNightVision
+{
+    type = boolean,
+    default = true,
+    page = BritasArmorPackB42,
+    translation = BritasArmorPackB42_EnableNightVision,
+}
+
+option BritasArmorPackB42.ReloadCarrierBonus
+{
+    type = boolean,
+    default = true,
+    page = BritasArmorPackB42,
+    translation = BritasArmorPackB42_ReloadCarrierBonus,
+}
+
+option NVFramework.BatterySystemEnabled
+{
+    type = boolean,
+    default = true,
+    page = NVFramework,
+    translation = NVFramework_BatterySystemEnabled,
+}
+
+option NVFramework.BatteryDrainMultiplier
+{
+    type = double,
+    min = 0.1,
+    max = 100.0,
+    default = 1.0,
+    page = NVFramework,
+    translation = NVFramework_BatteryDrainMultiplier,
+}
+
+option NVFramework.ItemSpawnMultiplier
+{
+    type = double,
+    min = 0.0,
+    max = 100.0,
+    default = 1.0,
+    page = NVFramework,
+    translation = NVFramework_ItemSpawnMultiplier,
+}
+
+option NVFramework.UseLightConeInSingleplayer
+{
+    type = boolean,
+    default = true,
+    page = NVFramework,
+    translation = NVFramework_UseLightConeInSingleplayer,
+}

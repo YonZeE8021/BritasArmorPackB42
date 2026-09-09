@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Pilot_Sunglass</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Pilot_Sunglass</m_FemaleModel>
+	<m_GUID>20a9892b-f44a-4a78-b3cd-34d1a0cf0381</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\Pilot_Sunglass</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pilot_Sunglass_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pilot_Sunglass_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pilot_Sunglass_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pilot_Sunglass_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pilot_Sunglass_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pilot_Sunglass_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pilot_Sunglass_8</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pilot_Sunglass_9</textureChoices>	
+	<textureChoices>clothes\Uniform2\Pilot_Sunglass_10</textureChoices>		
+</clothingItem>

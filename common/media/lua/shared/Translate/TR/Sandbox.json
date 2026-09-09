@@ -1,0 +1,16 @@
+{
+    "Sandbox_BritasArmorPackB42": "Brita Armor - Uyumluluk",
+    "Sandbox_BritasArmorPackB42_EnableNightVision": "Dahili gece görüşünü etkinleştir",
+    "Sandbox_BritasArmorPackB42_EnableNightVision_tooltip": "Bu paketin gece görüşünü, pil işlemlerini ve pil tüketimini açar veya kapatır. Giysiler ve takılı piller korunur. Bu ayar, diğer gece görüşü sistemlerine Brita cihazları için destek eklemez. Değişiklikten sonra oyunu yeniden başlatın.",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus": "Brita mühimmat taşıyıcılarına doldurma bonusu ekle",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus_tooltip": "Mevcut hesaplamanın algılamadığı, desteklenen Brita mühimmat taşıyıcılarına standart yüzde 15 doldurma hızı bonusunu ekler. Bu bonusları başka bir mod yönetiyorsa kapatın. Hata önleme kontrolleri ve oyunun zaten verdiği bonuslar etkin kalır.",
+    "Sandbox_NVFramework_BatterySystemEnabled": "Gece görüşü pil gereksinimi (zorunlu)",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Bu tümleşik düzeltme, dolu bir pilin her zaman takılı olmasını gerektirir. Bu seçeneği kapalı olarak kaydetmiş eski kayıtlar otomatik olarak güncellenir.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Pil tüketim çarpanı",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Gece görüş cihazına takılı pillerin ne kadar hızlı tükeneceğini ayarlar. 1.0 oyun içinde yaklaşık 12 saat sağlar; 2.0 iki kat, 0.5 yarı hızda tüketir.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Gece görüş eşyası oluşma çarpanı",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Yalnızca çerçevenin eklediği örnek gece görüş eşyalarının işlemsel oluşma ağırlığını ölçeklendirir. 1.0 varsayılan, 2.0 ağırlığı iki katına çıkarır, 0.0 ise çerçevenin eklediği oluşumları kapatır.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Tek oyunculuda yönlü ışık konisi kullan",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Etkinleştirildiğinde tek oyunculu modda ekli yönlü ışık konisini kullanır. Kapatıldığında sokak lambası tabanlı yedek aydınlatma modunu kullanır.",
+    "Sandbox_NVFramework": "Gece Görüş Sistemi / Night Vision Framework"
+}

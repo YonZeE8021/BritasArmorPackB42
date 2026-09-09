@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Military_Cloak</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Military_Cloak</m_FemaleModel>
+	<m_GUID>8299dc5e-d3ca-4baa-bb8d-6e4c1d1082f9</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>Group01</m_HatCategory>	
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Bag\Military_Cloak</textureChoices>
+	<textureChoices>clothes\Bag\Military_Cloak_2</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_3</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_4</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_5</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_6</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_7</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_8</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_9</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_10</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_11</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_12</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_13</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_14</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_15</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_16</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_17</textureChoices>
+	<textureChoices>clothes\Bag\Military_Cloak_18</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_19</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_20</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_21</textureChoices>		
+	<textureChoices>clothes\Bag\Military_Cloak_22</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_23</textureChoices>	
+	<textureChoices>clothes\Bag\Military_Cloak_24</textureChoices>		
+</clothingItem>

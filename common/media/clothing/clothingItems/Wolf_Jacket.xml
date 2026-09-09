@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Wolf_Jacket</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Wolf_Jacket</m_FemaleModel>
+	<m_GUID>e6804e1e-fa38-4df6-94bd-b1a29c39ab89</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Wolf_Jacket</textureChoices>
+	<textureChoices>clothes\Wolf_Jacket_2</textureChoices>
+	<textureChoices>clothes\Wolf_Jacket_3</textureChoices>
+	<textureChoices>clothes\Wolf_Jacket_4</textureChoices>
+	<textureChoices>clothes\Wolf_Jacket_5</textureChoices>
+	<textureChoices>clothes\Wolf_Jacket_6</textureChoices>
+	<textureChoices>clothes\Wolf_Jacket_7</textureChoices>	
+	
+</clothingItem>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Multi_Carrier_Ammo</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Multi_Carrier_Ammo</m_FemaleModel>
+	<m_GUID>85c47829-c126-4a93-99d6-49aa07f3b727</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\Multi_Carrier_Ammo</textureChoices>			
+</clothingItem>

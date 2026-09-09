@@ -1,0 +1,101 @@
+[h1][b]Brita's Armor Pack B42.20 - Standalone Armor Port & Multilingual Fix[/b][/h1]
+
+[b]ARMOR AND CLOTHING ONLY — NO WEAPONS[/b]
+[b]11 languages | Project Zomboid Build 42.20 stable[/b]
+
+This is an [b]unofficial, standalone Build 42.20 compatibility port of Brita's Armor Pack[/b]. It contains the clothing, armor, helmets, masks, footwear, backpacks, chest rigs, belts, wearable equipment and night-vision devices from the Armor Pack.
+
+[b]Brita's Weapon Pack is not included.[/b] This mod does not add or spawn Brita firearms, Weapon Pack ammunition, weapon magazines, GunFighter systems or weapon-only attachments. Any Brita firearm found in your game comes from another mod.
+
+[h2]v1.4.5 Multilingual Update[/h2]
+[list]
+[*][b]Full support for 11 languages:[/b] English, Simplified Chinese, German, Spanish, French, Japanese, Korean, Polish, Brazilian Portuguese, Russian and Turkish.
+[*]The nine newly supported languages include localized item names, clothing-style actions, wear-position menus, night-vision prompts and options, battery messages and sandbox descriptions.
+[*]English and Simplified Chinese remain fully supported.
+[/list]
+
+[h2]Main Features[/h2]
+[list]
+[*]Ports Brita's Armor Pack clothing and equipment to Build 42.20.
+[*]Repairs the B42 clothing layers of [b]17 ballistic vests, plate carriers and heavy armor pieces[/b], allowing ordinary jackets to remain wearable where appropriate.
+[*]Repairs [b]101 backpacks, chest rigs, belts, thigh pouches and other wearable containers[/b], restoring valid equipment slots and storage.
+[*]Repairs [b]7 shell bandoliers[/b] as wearable containers with shotgun-shell filtering and the vanilla-style [b]15% reload-speed bonus[/b].
+[*]Fixes conflicts involving thigh, chest, accessory and legacy clothing locations.
+[*]Fixes the Field Canvas Raincoat and related outerwear layering.
+[*]Restores functional batteries for night-vision devices.
+[*]Provides Necroa compatibility where applicable.
+[/list]
+
+[b]Balance note:[/b] this project focuses on compatibility and functional repairs. It is [b]not[/b] a complete rebalance of every backpack capacity, weight reduction value or equipment statistic.
+
+[h2]Night-Vision System[/h2]
+
+Night-vision devices require an installed, charged standard battery. At the default 1.0x drain rate, one full battery lasts about [b]12 in-game hours[/b]. Low charge causes visible flicker; an empty battery shuts the device down.
+
+The required features of Beathoven's [b]Night Vision Framework[/b] are integrated directly into this port.
+
+[b]Do not enable the standalone NVFramework mod at the same time.[/b]
+
+Original Night Vision Framework author: [b]Beathoven[/b]. Attribution and license information are included in:
+
+[code]NVFramework_ATTRIBUTION.txt[/code]
+
+[h2]Night-Vision Controls[/h2]
+[olist]
+[*]Keep the night-vision item in the character's main inventory and unequipped.
+[*]Right-click the device and insert a charged standard battery.
+[*]Wear the Active / ON version, then press [b]V[/b] to toggle night vision.
+[*]Unequip the device before removing or replacing its battery.
+[/olist]
+
+[h2]Installation and Compatibility[/h2]
+[list]
+[*][b]Project Zomboid Build 42.20 stable is required.[/b]
+[*][b]Do not enable[/b] Brita_2, standalone NVFramework, BritasArmorPackB42Fix or another conflicting Brita Armor port with this mod.
+[*]After installing or updating, completely exit and restart Project Zomboid.
+[*]Multiplayer servers and all clients must use the same version.
+[*]Back up important saves before changing game builds or making major changes to the mod list.
+[/list]
+
+[h2]Multiplayer[/h2]
+[code]WorkshopItems=3780298456[/code]
+[code]Mods=BritasArmorPackB42[/code]
+
+[h2]Port Permission and Credits[/h2]
+
+[b]This is an unofficial Build 42.20 port, not an official BRITA Build 42 release.[/b]
+
+On August 10, 2026, BRITA publicly stated that ports of existing mods may be distributed while the official new Build 42 version remains in development, until the official Build 42 release becomes available. This Workshop item is published and maintained under that public permission for Build 42 ports.
+https://www.patreon.com/brita74/posts/regarding-port-166272174
+
+That permission [b]does not mean[/b] that BRITA officially published, endorsed or directly maintains this specific Workshop item.
+
+[b]Original Armor Pack author:[/b] BRITA
+[b]Original Night Vision Framework author:[/b] Beathoven
+
+All rights to the original artwork, models, textures, sounds, names and other assets remain with their respective authors and licensors. This port does not claim ownership of the original content.
+
+If an official Build 42 version is released, or a rights holder requests a change or removal, this port may stop receiving updates, become private or be removed. Please support the original creators and their future official releases.
+
+[h2]Bug Reports[/h2]
+
+Please include:
+[list]
+[*]Exact item name or Item ID
+[*]Project Zomboid version
+[*]Singleplayer or multiplayer
+[*]Enabled mod list
+[*]Clear reproduction steps
+[*][code]console.txt[/code] or the relevant error, when available
+[/list]
+
+Before reporting, confirm that standalone [code]NVFramework[/code], old Armor Pack fix patches and other conflicting Brita Armor ports are disabled.
+
+[h1]Tipping，feel free to donate, twenty cents is also fine[/h1]
+https://www.patreon.com/cw/YonZeE8021/membership
+or
+https://ko-fi.com/yonzee
+
+[h2]Mod Information[/h2]
+[b]Workshop ID:[/b] [code]3780298456[/code]
+[b]Mod ID:[/b] [code]BritasArmorPackB42[/code]

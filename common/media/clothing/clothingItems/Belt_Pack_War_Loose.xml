@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Belt_Pack_War</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Belt_Pack_War</m_FemaleModel>
+	<m_GUID>c6cf6d8c-20aa-4ade-8522-5156191ea1d0</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_War</textureChoices>		
+	<textureChoices>clothes\Uniform2\Belt_Pack_War_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_War_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_War_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_War_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_War_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_War_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\Belt_Pack_War_8</textureChoices>		
+		
+	
+</clothingItem>

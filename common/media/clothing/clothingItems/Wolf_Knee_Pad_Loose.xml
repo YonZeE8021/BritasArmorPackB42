@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Wolf_Knee_Pad_Loose</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Wolf_Knee_Pad_Loose</m_FemaleModel>
+	<m_GUID>e936e665-429d-45da-970f-8029bff9b475</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Wolf_Knee_Pad</textureChoices>		
+</clothingItem>

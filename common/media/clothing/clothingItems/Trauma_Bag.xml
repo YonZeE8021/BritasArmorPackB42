@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Trauma_Bag</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Trauma_Bag</m_FemaleModel>
+	<m_GUID>814cb4c2-78f4-43cf-b6af-67d09ce90764</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform2\Trauma_Bag</textureChoices>		
+	<textureChoices>clothes\Uniform2\Trauma_Bag_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\Trauma_Bag_3</textureChoices>		
+		
+	
+</clothingItem>

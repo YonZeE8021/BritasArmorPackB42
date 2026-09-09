@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Dozer_Pouch</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Dozer_Pouch</m_FemaleModel>
+	<m_GUID>d5846666-7e78-47a4-b84c-9591279367d2</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Armor_Dozer</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_2</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_3</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_4</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_5</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_6</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_7</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_8</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_9</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_10</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_11</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_12</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_13</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_14</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_15</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_16</textureChoices>	
+	<textureChoices>clothes\Armor_Dozer_17</textureChoices>		
+</clothingItem>

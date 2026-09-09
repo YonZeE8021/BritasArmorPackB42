@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\F_Cardigan_Short</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Cardigan_Short</m_FemaleModel>
+	<m_GUID>da605079-ea3e-44ad-86c9-f9507c3d6bb4</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform\Cardigan_Short</textureChoices>	
+	<textureChoices>clothes\Uniform\Cardigan_Short_2</textureChoices>		
+	<textureChoices>clothes\Uniform\Cardigan_Short_3</textureChoices>	
+	<textureChoices>clothes\Uniform\Cardigan_Short_4</textureChoices>	
+	<textureChoices>clothes\Uniform\Cardigan_Short_5</textureChoices>	
+	<textureChoices>clothes\Uniform\Cardigan_Short_6</textureChoices>	
+	<textureChoices>clothes\Uniform\Cardigan_Short_7</textureChoices>	
+	<textureChoices>clothes\Uniform\Cardigan_Short_8</textureChoices>		
+	
+</clothingItem>

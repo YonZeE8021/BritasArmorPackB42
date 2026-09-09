@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Sniper_Veil</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Sniper_Veil</m_FemaleModel>
+	<m_GUID>e73d9d6a-6037-4a83-8bc1-33e08bec5e86</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>		
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil</textureChoices>							
+	<textureChoices>clothes\Uniform2\Sniper_Veil_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Sniper_Veil_3</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_4</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_5</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_6</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_7</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_8</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_9</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_10</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_11</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_12</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_13</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_14</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_15</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_16</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_17</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_18</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_19</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_20</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_21</textureChoices>	
+	<textureChoices>clothes\Uniform2\Sniper_Veil_22</textureChoices>		
+	
+</clothingItem>

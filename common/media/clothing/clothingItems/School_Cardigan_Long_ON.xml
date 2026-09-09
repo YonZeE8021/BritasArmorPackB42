@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\F_School_Cardigan_Long_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_School_Cardigan_Long_ON</m_FemaleModel>
+	<m_GUID>65878714-2825-43b7-ab36-609074756d33</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Uniform\School_Cardigan_Long</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_2</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_3</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_4</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_5</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_6</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_7</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_8</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_9</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_10</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_11</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_12</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_13</textureChoices>	
+	<textureChoices>clothes\Uniform\School_Cardigan_Long_14</textureChoices>	
+	
+</clothingItem>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Rain_Suit_Off</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Rain_Suit_Off</m_FemaleModel>
+	<m_GUID>a454e14a-3466-457b-a8a2-eafc7dde1bf3</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>Group04</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Rain_Suit</textureChoices>
+</clothingItem>

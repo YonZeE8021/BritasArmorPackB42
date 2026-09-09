@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_Tactical_Boots</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_Tactical_Boots</m_FemaleModel>
+	<m_GUID>34232344-2f86-4923-844c-6b5e718429b9</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\Boots_Heather</textureChoices>
+</clothingItem>

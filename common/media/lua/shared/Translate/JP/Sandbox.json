@@ -1,0 +1,16 @@
+{
+    "Sandbox_BritasArmorPackB42": "Brita Armor - 互換性設定",
+    "Sandbox_BritasArmorPackB42_EnableNightVision": "内蔵の暗視機能を有効にする",
+    "Sandbox_BritasArmorPackB42_EnableNightVision_tooltip": "このパックの暗視効果、電池の操作、電池の消耗を有効または無効にします。衣類と装着済みの電池は保持されます。無効にしても、他の暗視システムが自動的にBritaの暗視装置に対応するわけではありません。変更後はゲームを再起動してください。",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus": "Britaの弾薬携行装備にリロードボーナスを補う",
+    "Sandbox_BritasArmorPackB42_ReloadCarrierBonus_tooltip": "元の計算で認識されない、対応するBritaの弾薬携行装備に標準の15パーセントのリロード速度ボーナスを付与します。他のMODがこのボーナスを管理する場合は無効にしてください。エラー防止処理とゲーム側で付与済みのボーナスは維持されます。",
+    "Sandbox_NVFramework_BatterySystemEnabled": "暗視装置のバッテリー要件（常時有効）",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "この統合修正版では、充電済みバッテリーの装着が常に必要です。この設定が無効で保存された古いセーブデータは自動的に移行されます。",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "バッテリー消費倍率",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "暗視装置に装着したバッテリーの消費速度を調整します。1.0でゲーム内約12時間、2.0で2倍、0.5で半分の速度で消費します。",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "暗視アイテムの出現倍率",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "フレームワークが追加するサンプル暗視アイテムだけを対象に、手続き型出現ウェイトを調整します。1.0が標準、2.0でウェイトが2倍、0.0でフレームワーク追加分が出現しなくなります。",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "シングルプレイで指向性ライトコーンを使用",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "有効にすると、シングルプレイで付属の指向性ライトコーンを使用します。無効にすると、街灯ベースの代替照明モードを使用します。",
+    "Sandbox_NVFramework": "暗視システム / Night Vision Framework"
+}

@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "เปิดใช้งานระบบแบตเตอรี่",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "หากปิดใช้งาน ไอเท็มของ Night Vision Framework จะไม่ต้องใช้แบตเตอรี่ที่ติดตั้งอยู่ ตัวเลือกการใส่และถอดแบตเตอรี่จะถูกซ่อน และแว่นที่เปิดใช้งานอยู่จะไม่ใช้พลังงานแบตเตอรี่",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "ตัวคูณอายุการใช้งานแบตเตอรี่",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "ปรับระยะเวลาที่แบตเตอรี่ NV ที่ติดตั้งอยู่ใช้งานได้ 1.0 = ค่าเริ่มต้น, 10.0 = นานขึ้นสิบเท่า, 0.5 = เหลือครึ่งเดียว",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "ตัวคูณการเกิดของไอเท็ม NV",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "ปรับค่าน้ำหนักการเกิดแบบสุ่มของไอเท็ม night vision ตัวอย่างจาก framework 1.0 = ค่าเริ่มต้น, 2.0 = น้ำหนักสองเท่า, 0.0 = ไม่มีการเกิดที่ framework เพิ่มเข้าไป",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "ใช้ลำแสงกรวยในผู้เล่นคนเดียว",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "หากเปิดใช้งาน โหมดผู้เล่นคนเดียวจะใช้ตัวช่วยลำแสงทิศทางแบบกรวยที่ติดอยู่ หากปิดใช้งาน โหมดผู้เล่นคนเดียวจะใช้ระบบแสงแบบเสาไฟแทน",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

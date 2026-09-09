@@ -1,0 +1,11 @@
+{
+    "Sandbox_NVFramework_BatterySystemEnabled": "Abilita sistema batteria",
+    "Sandbox_NVFramework_BatterySystemEnabled_tooltip": "Se disattivato, gli oggetti di Night Vision Framework non richiederanno piu una batteria installata, le opzioni per inserire e rimuovere la batteria verranno nascoste e gli occhiali attivi non consumeranno carica.",
+    "Sandbox_NVFramework_BatteryDrainMultiplier": "Moltiplicatore durata batteria",
+    "Sandbox_NVFramework_BatteryDrainMultiplier_tooltip": "Regola la durata delle batterie NV installate. 1.0 = predefinito, 10.0 = dieci volte piu lunga, 0.5 = meta durata.",
+    "Sandbox_NVFramework_ItemSpawnMultiplier": "Moltiplicatore comparsa oggetti NV",
+    "Sandbox_NVFramework_ItemSpawnMultiplier_tooltip": "Regola i pesi di comparsa procedurale dell'oggetto di esempio per la visione notturna del framework. 1.0 = predefinito, 2.0 = peso doppio, 0.0 = nessuna comparsa aggiunta dal framework.",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer": "Usa cono di luce in singleplayer",
+    "Sandbox_NVFramework_UseLightConeInSingleplayer_tooltip": "Se abilitato, il singleplayer usa il supporto collegato per il cono di luce direzionale. Se disabilitato, il singleplayer usa invece la versione di illuminazione basata sul lampione.",
+    "Sandbox_NVFramework": "Night Vision Framework"
+}

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\m_ELA_Bomber_ON</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\f_ELA_Bomber_ON</m_FemaleModel>
+	<m_GUID>6d891b40-fa3b-4af4-8e33-f4ab3903cfe6</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>		
+	<textureChoices>clothes\Uniform\ELA_Bomber</textureChoices>		
+	<textureChoices>clothes\Uniform\ELA_Bomber_2</textureChoices>		
+	<textureChoices>clothes\Uniform\ELA_Bomber_3</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_4</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_5</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_6</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_7</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_8</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_9</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_10</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_11</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_12</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_13</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_14</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_15</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_16</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_17</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_18</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_19</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_20</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_21</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_22</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_23</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_24</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_25</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_26</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_27</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_28</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_29</textureChoices>	
+	<textureChoices>clothes\Uniform\ELA_Bomber_30</textureChoices>	
+</clothingItem>

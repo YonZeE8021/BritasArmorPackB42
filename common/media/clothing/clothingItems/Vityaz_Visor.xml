@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Vityaz_Visor</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Vityaz_Visor</m_FemaleModel>
+	<m_GUID>51e3b2f0-c3aa-40ee-9305-9529c159fa92</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform2\Maska_1_Sets</textureChoices>	
+	<textureChoices>clothes\Uniform2\Maska_1_Sets_2</textureChoices>		
+	<textureChoices>clothes\Uniform2\Maska_1_Sets_3</textureChoices>		
+		
+	
+</clothingItem>

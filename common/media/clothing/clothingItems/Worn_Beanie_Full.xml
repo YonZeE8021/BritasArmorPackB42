@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Worn_Beanie_Full</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Worn_Beanie_Full</m_FemaleModel>
+	<m_GUID>39be6b2d-1afe-4fc3-880c-8f7e5d899947</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>Group01</m_HatCategory>	
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>		
+	<textureChoices>clothes\Uniform2\Worn_Beanie</textureChoices>	
+	<textureChoices>clothes\Uniform2\Worn_Beanie_2</textureChoices>	
+	<textureChoices>clothes\Uniform2\Worn_Beanie_3</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_4</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_5</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_6</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_7</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_8</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_9</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_10</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_11</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_12</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_13</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_14</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_15</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_16</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_17</textureChoices>
+	<textureChoices>clothes\Uniform2\Worn_Beanie_18</textureChoices>		
+</clothingItem>

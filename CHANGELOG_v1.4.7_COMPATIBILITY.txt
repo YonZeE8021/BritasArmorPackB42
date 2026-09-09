@@ -1,0 +1,74 @@
+Brita's Armor Pack B42.20 - Standalone Armor Port & Multilingual Fix
+v1.4.7 - Key binding, reload safety and night-vision compatibility
+
+[EN]
+- Fixed the night-vision key binding dialog failing to find its localized
+  button. The toggle and debug keys can be changed and saved without undoing
+  the previous fix for percent signs in translated option text.
+- Removed a remaining double translation of night-vision mode labels, including
+  labels supplied by extensions.
+- Fixed the B42.20 reload path used when unloading a magazine while the primary
+  hand holds a non-firearm. Added protection for a missing base ammo strap when
+  the equipped carrier has a tag for another ammunition type.
+- Normal reload calls retain the previously loaded calculation, arguments and
+  return values. Only known unsafe calls use the guarded B42 skill, panic and
+  vehicle-driver calculation. No item is temporarily equipped or removed.
+- The additional Brita carrier bonus is not applied over a result already
+  changed by another reload mod. Supported carriers still receive the standard
+  15 percent bonus where the original calculation misses them; multiple Brita
+  carriers do not stack this bonus.
+- Added two server/world sandbox settings under Brita Armor - Compatibility:
+  Enable integrated night vision, and Add reload bonus for Brita carriers.
+  Both default to enabled. Disabling the additional bonus retains safety checks
+  and any bonus already granted by the game. Disabling integrated night vision
+  preserves clothing and installed batteries; it does not make another night-
+  vision framework support Brita devices automatically.
+- The embedded framework now yields devices registered/tagged by the updated
+  Night Vision Chucked system instead of claiming them through generic NVITEM
+  detection. Explicitly registered Brita devices keep their existing behavior.
+  This is device-ownership separation, not a conversion between battery formats.
+- The battery tooltip wrapper is installed once. Removed repeated OnTick,
+  OnLoad and OnGameStart re-wrapping that could grow another mod's wrapper chain
+  or suppress its tooltip additions.
+- Added localized descriptions for the two new sandbox options in all 11
+  supported languages. Existing translated text is preserved.
+- Existing Workshop page description, cover, item IDs, loot weights, armor
+  layers and container capacities are unchanged by this update.
+
+Update notes:
+- Completely exit and restart the game after updating. Update both the dedicated
+  server and every client; changing mod order is not a substitute for updating.
+- Standalone NVFramework remains incompatible with the embedded framework.
+- Regression checks exercise the local B42.20 Lua functions with mocked game
+  objects. These checks do not establish compatibility with every weapon mod,
+  every Night Vision Chucked version or every multiplayer server configuration.
+
+[简体中文]
+- 修复夜视改键窗口无法匹配本地化按钮名称的问题。现在可更改并保存夜视开关
+  键和调试键，同时保留上一版针对翻译文本中百分号的修复。
+- 移除夜视模式名称中残留的二次翻译，包括扩展模组提供的模式名称。
+- 修复主手持有非枪械物品时，从弹匣卸弹进入原版装填函数的报错；同时防止
+  携具弹药类型不匹配且原版弹药带槽位为空时发生空值访问。
+- 正常装填调用保留此前已加载的计算、参数及返回值。仅在已知不安全的分支
+  使用带防护的 B42 技能、恐慌和驾驶员计算；不会临时穿戴或移除任何物品。
+- 若其他装填模组已改变计算结果，本模组不再额外乘上携具加成。原有计算
+  遗漏的指定携具仍可获得标准的百分之十五加成，多件携具不会重复叠加。
+- 在“贝雷塔护甲 - 兼容设置”沙盒页面加入“启用内置夜视功能”和“为贝雷塔
+  弹药携具补充装填加成”，默认均开启。关闭额外加成仍保留防报错检查及游戏
+  本身已给予的加成。关闭内置夜视会保留服装及已安装电池，但不会自动让其他
+  夜视框架支持本护甲包的设备。
+- 内置框架不再通过通用 NVITEM 标记接管新版 Night Vision Chucked 已注册或
+  标记的设备；明确注册的贝雷塔设备继续沿用原有逻辑。这是设备归属隔离，
+  不会转换两套系统的电池存储格式。
+- 电池提示绘制函数改为只安装一次，移除 OnTick、OnLoad 和 OnGameStart 中
+  的反复包裹，避免与其他模组的提示函数形成不断增长的调用链或遮掉附加信息。
+- 新增沙盒选项的名称及说明覆盖现有 11 种支持语言；原有翻译文本保留。
+- 此次更新不改写创意工坊现有简介、封面、物品 ID、战利品权重、护甲层级
+  或容器容量。
+
+更新注意：
+- 更新后请彻底退出并重启游戏；专用服务器与所有客户端均应更新。调整模组
+  顺序不能代替更新文件。
+- 独立版 NVFramework 仍然与内置框架不兼容。
+- 自动回归使用本机 B42.20 原版 Lua 函数与模拟游戏对象，不能据此宣称已验证
+  所有武器模组、所有 Chucked 版本和全部多人服务器组合。

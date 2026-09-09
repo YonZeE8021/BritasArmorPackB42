@@ -1,0 +1,5 @@
+-- Attribution for embedded third-party code
+--
+-- Beathoven's Night Vision Framework (Workshop 3684087856 / Mod ID: NVFramework)
+-- is embedded into this pack so night vision works without a separate subscription.
+-- Original author: Beathoven. Do not also enable the standalone NVFramework mod.

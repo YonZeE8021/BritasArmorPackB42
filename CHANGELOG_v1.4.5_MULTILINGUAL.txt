@@ -1,0 +1,24 @@
+Brita's Armor Pack B42.20 Complete Fix v1.4.5
+================================================
+
+[EN]
+- Added complete support for 9 additional languages: German, Spanish, French,
+  Japanese, Korean, Polish, Brazilian Portuguese, Russian, and Turkish.
+- English and Simplified Chinese translations remain unchanged.
+- Localized all wearable-style context actions, item names, night-vision UI,
+  battery messages, mod options, and sandbox descriptions for the 9 new languages.
+- Corrected legacy sandbox text that incorrectly said the mandatory battery
+  system could be disabled.
+- Localized the standalone NVFramework conflict warning instead of always
+  displaying it in English.
+- Synchronized translation content between the common and B42.20 layers.
+
+[中文]
+- 新增德语、西班牙语、法语、日语、韩语、波兰语、巴西葡萄牙语、俄语和
+  土耳其语 9 种完整语言支持；加上原有英语和简体中文，共支持 11 种语言。
+- 原有英语与简体中文翻译保持不变。
+- 为 9 种新增语言完整本地化穿戴造型菜单、物品名称、夜视仪界面、电池提示、
+  模组选项及沙盒说明。
+- 修正旧语言文本错误声称“强制电池系统可以关闭”的问题。
+- 独立 NVFramework 冲突警告现在会按玩家语言显示，不再固定使用英文。
+- 同步 common 与 B42.20 两层翻译内容，避免单人和多人加载结果不一致。

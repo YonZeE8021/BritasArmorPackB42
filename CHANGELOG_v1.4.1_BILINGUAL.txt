@@ -1,0 +1,17 @@
+v1.4.1 — English / 简体中文
+
+English:
+- Added complete English labels for 511 clothing transformation, wear-position, night-vision and battery context actions.
+- Removed raw ContextMenu IDs from the 380 clothing actions currently used by item definitions.
+- Kept the original English display names for all 671 active equipment definitions.
+- Updated English and Chinese sandbox descriptions to match the mandatory battery behavior.
+- Added bilingual mod-manager metadata, Workshop title, description, update notes and upload guide.
+- Rebuilt the Workshop cover from the original reference image with deterministic high-quality scaling, edge-aware sharpening and highly legible bilingual text.
+
+简体中文：
+- 为 511 项服装变形、穿戴位置、夜视仪和电池操作补齐完整英文标签。
+- 当前物品定义使用的 380 项服装操作不再在英文模式显示 ContextMenu 内部编号。
+- 保留 671 个有效装备定义的原始英文名称。
+- 更新中英文沙盒说明，使其与强制电池行为一致。
+- 模组管理器名称、创意工坊标题、简介、更新日志和上传说明改为中英双语。
+- 以原始参考图为基础，通过确定性高质量缩放、边缘锐化和高可读中英文字重新制作封面。

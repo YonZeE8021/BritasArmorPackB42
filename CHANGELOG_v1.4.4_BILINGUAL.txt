@@ -1,0 +1,20 @@
+v1.4.4 — English / 简体中文
+================================
+
+English
+-------
+- Added a dedicated outer-cloak clothing location for B42.20.
+- Fixed both Field Canvas Cloak Raincoat states disappearing beneath jackets, sweaters and ballistic vests.
+- Moved 21 raincoat, cloak, cape, ghillie-coat and outer-apron states out of the vanilla long-necklace location while preserving their one-at-a-time equipment conflict.
+- Moved four boot-gaiter states out of the necklace location so outer clothing no longer hides them.
+- Moved Heather Mason's hand bands to the vanilla hands location; real necklaces remain unchanged.
+- Audited the earlier finger, tail and torso-slot migrations for the same class of B41-to-B42 layer mismatch.
+
+简体中文
+--------
+- 为 B42.20 新增专用的最外层雨衣/斗篷穿戴位置。
+- 修复野战帆布斗篷雨衣的带帽与摘帽状态被夹克、毛衣和防弹衣隐藏的问题。
+- 将 21 个雨衣、披风、吉利服外罩及外层围裙状态移出原版长项链层，同时保留同类物品一次只能穿戴一件的关系。
+- 将 4 个靴部鞋套状态移出项链层，避免被上身外套错误隐藏。
+- 将希瑟·梅森的手部绷带迁移到原版手套层；真正的项链物品保持不变。
+- 同步复核此前针对手指、尾部和上身占位槽的 B41 至 B42 层级迁移。

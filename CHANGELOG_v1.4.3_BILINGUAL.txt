@@ -1,0 +1,14 @@
+v1.4.3 — English / 简体中文
+================================
+
+English
+-------
+- Fixed the B42.20 HaloTextHelper.addText signature used by night-vision warnings.
+- Pressing the configured night-vision key without wearing active goggles now displays the intended message instead of throwing a Lua error.
+- The missing-battery warning and standalone NVFramework conflict warning use the same corrected, guarded path.
+
+简体中文
+--------
+- 修复夜视提示使用的 B42.20 HaloTextHelper.addText 参数签名。
+- 未佩戴开启态夜视仪时按夜视快捷键，现在会正常显示提示，不再抛出 Lua 报错。
+- 缺少电池提示与独立 NVFramework 冲突警告也使用相同的已修复安全路径。

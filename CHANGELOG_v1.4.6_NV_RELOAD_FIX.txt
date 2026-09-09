@@ -1,0 +1,53 @@
+Brita's Armor Pack B42.20 Complete Fix v1.4.6
+================================================
+
+[EN]
+- Fixed the `nvframework_modoptions.lua:263` startup error that could raise
+  `java.util.UnknownFormatConversionException` while the main options menu was
+  being created. NV option labels and tooltips now remain as translation keys
+  until the vanilla UI resolves them, preventing unsafe double translation of
+  localized text containing literal percent signs.
+- Repaired procedural night-vision loot generation for Build 42.20. All 10
+  supported night-vision models can now spawn in their inactive / OFF state in
+  the intended military and army-surplus loot tables.
+- The NV item spawn multiplier is now applied at the correct distribution stage:
+  0.0 disables framework-added NV spawns, 1.0 uses the default weight, and 2.0
+  doubles that weight.
+- Added duplicate-safe NV distribution handling. The repair does not scan,
+  replace, or delete night-vision items already present in saves or containers;
+  it affects newly generated or naturally refreshed loot only.
+- Restored the vanilla-style 15% reload-speed bonus for 2 dedicated shotgun
+  chest rigs and 10 clearly identified magazine carriers whose custom Brita
+  clothing locations were skipped by the Build 42.20 vanilla reload check.
+- Added safeguards so the 15% bonus is applied only when vanilla did not already
+  grant it. Wearing multiple supported carriers does not stack the bonus.
+- Generic chest rigs, SKS carriers, and general-purpose ammunition bags were
+  deliberately left unchanged to avoid assigning an incorrect ammunition type.
+- Synchronized the current 11-language cover image across the Workshop preview,
+  mod root, and Build 42 version folder so the same artwork is shown everywhere.
+- Synchronized the local Workshop upload description with the existing live
+  English description. This packaging update does not add or remove Steam page
+  description content.
+
+[中文]
+- 修复创建主选项菜单时可能出现的 `nvframework_modoptions.lua:263` 与
+  `java.util.UnknownFormatConversionException` 启动报错。夜视选项名称和提示
+  现在会以翻译键形式交给原版界面统一解析，避免包含百分号的本地化文本被
+  二次翻译并错误识别为 Java 格式占位符。
+- 修复 Build 42.20 下夜视仪的程序化战利品生成。现在模组支持的 10 种夜视
+  设备均可按照预期，以未启用 / OFF 状态出现在军用及军需商店战利品表中。
+- 夜视物品生成倍率现在会在正确的战利品合并阶段生效：0.0 表示不加入框架
+  夜视物品，1.0 使用默认权重，2.0 将生成权重提高至两倍。
+- 夜视战利品注入现在可以安全重复执行，不会产生本模组自身的重复条目；该
+  修复不会扫描、替换或删除旧存档及已有容器中的夜视仪，只影响新生成或按
+  游戏机制自然刷新的战利品。
+- 为 2 件专用霰弹枪胸挂和 10 件明确用于弹匣携行的装备恢复原版风格的 15%
+  装填速度加成，解决其自定义 Brita 穿戴槽位被 B42.20 原版检测遗漏的问题。
+- 增加防重复加成保护：原版已经识别并给予加成时不会再次计算，同时穿戴多件
+  支持装备也不会叠加 15% 加成。
+- 通用胸挂、SKS 携具及一般用途弹药包保持原样，避免在无法确认供弹类型时
+  错误给予霰弹、弹匣或散装弹药加成。
+- 将当前 11 语言新版封面同步到创意工坊预览图、模组根目录及 Build 42 版本
+  目录，确保各处显示相同封面。
+- 将本地创意工坊上传简介与 Steam 当前已有的英文简介同步。本次封装调整不会
+  增加、删除或改写 Steam 页面现有简介内容。
